@@ -958,3 +958,1527 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2025.11.14-19.16.41:620][409]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/MainECAA9E7A4B9002F55A60DFB7B599150A.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
 [2025.11.14-19.16.41:655][409]AssetCheck: New page: Asset Save: Main
 [2025.11.14-19.16.41:655][409]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-19.17.24:425][643]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-19.17.25:323][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-19.17.25:376][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.11.14-19.17.25:386][694]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/MainB42C17EB4C5F77AD4453D9BE83C8B3D1.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-19.17.25:427][694]AssetCheck: New page: Asset Save: Main
+[2025.11.14-19.17.25:427][694]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-19.17.26:552][744]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interfaces/Interact_Interface.Interact_Interface
+[2025.11.14-19.17.32:880][109]BlueprintLog: New page: Compile Interact_Interface
+[2025.11.14-19.17.32:918][109]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2025.11.14-19.17.33:283][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interfaces/Interact_Interface" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Interfaces/Interact_Interface.uasset" SILENT=true
+[2025.11.14-19.17.33:287][128]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Interact_InterfaceFE97977840B70580554602AA045B4252.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Interfaces/Interact_Interface.uasset'
+[2025.11.14-19.17.33:344][128]AssetCheck: New page: Asset Save: Interact_Interface
+[2025.11.14-19.17.33:344][128]LogContentValidation: Display: Validating Blueprint /Game/Interfaces/Interact_Interface.Interact_Interface
+[2025.11.14-19.17.44:813][761]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.11.14-19.17.49:034][998]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-19.17.49:105][998]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2025.11.14-19.17.49:383][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-19.17.49:415][  8]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_PlayerCA4DAB974933ACFC7FC7F1910FC9EB47.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-19.17.49:433][  8]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-19.17.49:433][  8]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-19.18.04:746][809]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-19.18.04:753][809]LogBlueprint: Error: [Compiler BP_Player] Message node  Interact  must have a valid target or reference to self.
+[2025.11.14-19.18.04:833][809]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2025.11.14-19.18.05:056][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-19.18.05:076][817]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_Player566A0DF64A62DA5B214640ABE59B4F64.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-19.18.05:092][817]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-19.18.05:092][817]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-19.18.15:944][425]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.11.14-19.18.24:806][931]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-19.18.24:811][931]LogBlueprint: Error: [Compiler BP_Player] Message node  Interact  must have a valid target or reference to self.
+[2025.11.14-19.18.24:871][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2025.11.14-19.18.37:243][627]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-19.18.37:318][627]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2025.11.14-19.18.37:614][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-19.18.37:639][639]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_Player953A209C4FCD201C552FF4AC3AD12C45.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-19.18.37:664][639]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-19.18.37:664][639]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-19.18.48:319][272]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-19.18.48:395][272]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2025.11.14-19.18.48:662][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-19.18.48:682][283]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_Player1DB61A5942F4ADAEDFD6659E59123284.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-19.18.48:704][283]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-19.18.48:704][283]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-19.19.10:230][545]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-19.19.10:293][545]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2025.11.14-19.19.10:572][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-19.19.10:593][556]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_Player5549BD7F458B5FFE29A0C088480D2D85.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-19.19.10:607][556]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-19.19.10:607][556]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-19.19.26:013][465]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-19.19.26:077][465]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2025.11.14-19.19.26:420][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-19.19.26:441][480]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_PlayerB85E5F204E12E08F8401EEB9836A4E7E.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-19.19.26:466][480]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-19.19.26:466][480]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-19.19.30:947][742]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-19.19.31:027][742]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2025.11.14-19.19.31:366][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-19.19.31:392][756]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_Player8CED1AD64D236FD423C67B926CCF6FC5.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-19.19.31:442][756]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-19.19.31:443][756]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-19.19.55:170][120]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-19.19.55:242][120]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2025.11.14-19.19.55:526][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-19.19.55:551][132]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_PlayerD0AE714C4D9A66B951ECCCB06335CCA7.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-19.19.55:573][132]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-19.19.55:573][132]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-19.20.01:721][497]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-19.20.01:793][497]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2025.11.14-19.20.02:062][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-19.20.02:086][506]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_Player4CEDBB02408E99B25B725F8E917609F7.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-19.20.02:112][506]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-19.20.02:113][506]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-19.20.37:385][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-19.20.37:413][569]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_Player5738311647AE8B24186880A68C6F5B57.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-19.20.37:458][569]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-19.20.37:459][569]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-19.20.43:126][886]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-19.20.43:510][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-19.20.43:555][906]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2025.11.14-19.20.43:565][906]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Main819833644F8FC8FA5F0C6CA18C611225.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-19.20.43:607][906]AssetCheck: New page: Asset Save: Main
+[2025.11.14-19.20.43:607][906]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-19.20.45:123][987]Cmd: MODE GRID=0
+[2025.11.14-19.20.48:872][203]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-19.20.49:478][239]LogTemp: Repeating last play command: Selected Viewport
+[2025.11.14-19.20.49:491][239]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.14-19.20.49:492][239]PIE: New page: PIE session: Main (Nov 14, 2025, 11:20:49 PM)
+[2025.11.14-19.20.49:492][239]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Main
+[2025.11.14-19.20.49:494][239]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001648s)
+[2025.11.14-19.20.49:495][239]LogAIModule: Creating AISystem for world Main
+[2025.11.14-19.20.49:495][239]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024517CBBE00), frame # 64239
+[2025.11.14-19.20.49:495][239]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002446B181580), frame # 64239
+[2025.11.14-19.20.49:495][239]LogPlayLevel: PIE: World Init took: (0.001472s)
+[2025.11.14-19.20.49:495][239]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main.Main to /Game/Levels/UEDPIE_0_Main.Main (0.003252s)
+[2025.11.14-19.20.49:537][239]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2025.11.14-19.20.49:540][239]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.14-19.20.49:540][239]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.14-19.20.49:540][239]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.14-19.20.49:540][239]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.14-19.20.49:540][239]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.11.14-19.20.49:540][239]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.14-19.20.49:540][239]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.11.14-19.20.49:540][239]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.14-19.20.49:540][239]LogAudio: Display: Using built-in audio occlusion.
+[2025.11.14-19.20.49:540][239]LogAudioMixer: Display: Initializing audio mixer.
+[2025.11.14-19.20.49:546][239]LogAudioMixer: Display: 0: FrontLeft
+[2025.11.14-19.20.49:546][239]LogAudioMixer: Display: 1: FrontRight
+[2025.11.14-19.20.49:559][239]LogAudioMixer: Display: Using Audio Device FxSound Speakers (FxSound Audio Enhancer)
+[2025.11.14-19.20.49:559][239]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.14-19.20.49:559][239]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.14-19.20.49:559][239]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.14-19.20.49:560][239]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.11.14-19.20.49:574][239]LogInit: FAudioDevice initialized.
+[2025.11.14-19.20.49:581][239]LogLoad: Game class is 'PlayerGameModeBase_C'
+[2025.11.14-19.20.49:582][239]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2025.11.14-21.20.49
+[2025.11.14-19.20.49:582][239]LogWorld: Bringing up level for play took: 0.000518
+[2025.11.14-19.20.49:582][239]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2025.11.14-19.20.49:584][239]PIE: Server logged in
+[2025.11.14-19.20.49:586][239]PIE: Play in editor total start time 0.095 seconds.
+[2025.11.14-19.20.55:421][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.14-19.20.55:421][586]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Main
+[2025.11.14-19.20.55:421][586]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2025.11.14-19.20.55:421][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.20.55:436][586]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.14-19.20.55:440][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.20.55:502][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.14-19.20.55:503][586]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002446B181580), frame # 64586
+[2025.11.14-19.20.55:503][586]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024517CBBE00), frame # 64586
+[2025.11.14-19.20.55:509][586]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2025.11.14-19.20.55:537][587]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.11.14-19.21.19:750][  0]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-19.21.20:000][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-19.21.20:044][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2025.11.14-19.21.20:053][ 11]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Main680DBD094AF8000B5C1E308D4A7DC203.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-19.21.20:087][ 11]AssetCheck: New page: Asset Save: Main
+[2025.11.14-19.21.20:087][ 11]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-19.21.21:147][ 74]LogTemp: Repeating last play command: Selected Viewport
+[2025.11.14-19.21.21:162][ 74]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.14-19.21.21:162][ 74]PIE: New page: PIE session: Main (Nov 14, 2025, 11:21:21 PM)
+[2025.11.14-19.21.21:162][ 74]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Main
+[2025.11.14-19.21.21:163][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001254s)
+[2025.11.14-19.21.21:165][ 74]LogAIModule: Creating AISystem for world Main
+[2025.11.14-19.21.21:165][ 74]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000244CE963E00), frame # 66074
+[2025.11.14-19.21.21:165][ 74]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000244D7B1A5C0), frame # 66074
+[2025.11.14-19.21.21:165][ 74]LogPlayLevel: PIE: World Init took: (0.001098s)
+[2025.11.14-19.21.21:165][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main.Main to /Game/Levels/UEDPIE_0_Main.Main (0.002458s)
+[2025.11.14-19.21.21:199][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2025.11.14-19.21.21:199][ 74]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.14-19.21.21:200][ 74]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.14-19.21.21:200][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.14-19.21.21:200][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.14-19.21.21:200][ 74]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.11.14-19.21.21:200][ 74]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.14-19.21.21:200][ 74]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.11.14-19.21.21:200][ 74]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.14-19.21.21:200][ 74]LogAudio: Display: Using built-in audio occlusion.
+[2025.11.14-19.21.21:200][ 74]LogAudioMixer: Display: Initializing audio mixer.
+[2025.11.14-19.21.21:203][ 74]LogAudioMixer: Display: 0: FrontLeft
+[2025.11.14-19.21.21:203][ 74]LogAudioMixer: Display: 1: FrontRight
+[2025.11.14-19.21.21:217][ 74]LogAudioMixer: Display: Using Audio Device FxSound Speakers (FxSound Audio Enhancer)
+[2025.11.14-19.21.21:217][ 74]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.14-19.21.21:217][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.14-19.21.21:217][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.14-19.21.21:217][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.11.14-19.21.21:231][ 74]LogInit: FAudioDevice initialized.
+[2025.11.14-19.21.21:246][ 74]LogLoad: Game class is 'PlayerGameModeBase_C'
+[2025.11.14-19.21.21:249][ 74]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2025.11.14-21.21.21
+[2025.11.14-19.21.21:249][ 74]LogWorld: Bringing up level for play took: 0.000778
+[2025.11.14-19.21.21:249][ 74]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2025.11.14-19.21.21:253][ 74]PIE: Server logged in
+[2025.11.14-19.21.21:254][ 74]PIE: Play in editor total start time 0.093 seconds.
+[2025.11.14-19.21.28:171][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.14-19.21.28:171][485]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Main
+[2025.11.14-19.21.28:171][485]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2025.11.14-19.21.28:172][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.21.28:186][485]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.14-19.21.28:192][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.21.28:260][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.14-19.21.28:261][485]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000244D7B1A5C0), frame # 66485
+[2025.11.14-19.21.28:261][485]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000244CE963E00), frame # 66485
+[2025.11.14-19.21.28:263][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.11.14-19.21.28:289][486]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.11.14-19.21.50:497][679]LogEditorTransaction: Undo Move Node
+[2025.11.14-19.21.55:154][928]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-19.21.55:222][928]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2025.11.14-19.21.55:771][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-19.21.55:793][955]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_Player770E95BF42D65D976F65CD8F1CF3F0CE.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-19.21.55:810][955]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-19.21.55:810][955]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-19.21.56:807][ 12]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-19.21.57:095][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-19.21.57:137][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2025.11.14-19.21.57:146][ 27]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Main3B49D72C4A4A6251DA1C8FAFCBAEBD21.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-19.21.57:184][ 27]AssetCheck: New page: Asset Save: Main
+[2025.11.14-19.21.57:184][ 27]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-19.21.57:822][ 65]LogTemp: Repeating last play command: Selected Viewport
+[2025.11.14-19.21.57:835][ 65]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.14-19.21.57:835][ 65]PIE: New page: PIE session: Main (Nov 14, 2025, 11:21:57 PM)
+[2025.11.14-19.21.57:835][ 65]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Main
+[2025.11.14-19.21.57:836][ 65]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001268s)
+[2025.11.14-19.21.57:837][ 65]LogAIModule: Creating AISystem for world Main
+[2025.11.14-19.21.57:837][ 65]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000245181BBE00), frame # 68065
+[2025.11.14-19.21.57:837][ 65]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024500F66980), frame # 68065
+[2025.11.14-19.21.57:837][ 65]LogPlayLevel: PIE: World Init took: (0.000968s)
+[2025.11.14-19.21.57:837][ 65]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main.Main to /Game/Levels/UEDPIE_0_Main.Main (0.002347s)
+[2025.11.14-19.21.57:872][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.11.14-19.21.57:873][ 65]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.14-19.21.57:873][ 65]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.14-19.21.57:873][ 65]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.14-19.21.57:873][ 65]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.14-19.21.57:873][ 65]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.11.14-19.21.57:873][ 65]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.14-19.21.57:873][ 65]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.11.14-19.21.57:873][ 65]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.14-19.21.57:874][ 65]LogAudio: Display: Using built-in audio occlusion.
+[2025.11.14-19.21.57:874][ 65]LogAudioMixer: Display: Initializing audio mixer.
+[2025.11.14-19.21.57:877][ 65]LogAudioMixer: Display: 0: FrontLeft
+[2025.11.14-19.21.57:877][ 65]LogAudioMixer: Display: 1: FrontRight
+[2025.11.14-19.21.57:888][ 65]LogAudioMixer: Display: Using Audio Device FxSound Speakers (FxSound Audio Enhancer)
+[2025.11.14-19.21.57:889][ 65]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.14-19.21.57:889][ 65]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.14-19.21.57:889][ 65]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.14-19.21.57:889][ 65]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.11.14-19.21.57:903][ 65]LogInit: FAudioDevice initialized.
+[2025.11.14-19.21.57:912][ 65]LogLoad: Game class is 'PlayerGameModeBase_C'
+[2025.11.14-19.21.57:913][ 65]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2025.11.14-21.21.57
+[2025.11.14-19.21.57:913][ 65]LogWorld: Bringing up level for play took: 0.000501
+[2025.11.14-19.21.57:913][ 65]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2025.11.14-19.21.57:915][ 65]PIE: Server logged in
+[2025.11.14-19.21.57:916][ 65]PIE: Play in editor total start time 0.082 seconds.
+[2025.11.14-19.22.04:652][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.14-19.22.04:652][462]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Main
+[2025.11.14-19.22.04:652][462]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2025.11.14-19.22.04:652][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.22.04:663][462]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.14-19.22.04:667][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.22.04:730][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.14-19.22.04:730][462]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024500F66980), frame # 68462
+[2025.11.14-19.22.04:730][462]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000245181BBE00), frame # 68462
+[2025.11.14-19.22.04:733][462]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2025.11.14-19.22.04:760][463]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.11.14-19.22.17:499][167]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-19.22.17:569][167]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2025.11.14-19.22.17:926][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-19.22.17:958][181]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_PlayerE5DDD8BC4E0D553FC7CD2FB3BE9EB90A.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-19.22.17:990][181]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-19.22.17:990][181]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-19.22.38:478][313]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-19.22.38:552][313]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2025.11.14-19.22.38:795][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-19.22.38:832][320]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_Player5AD8A0134F88949A6556A3AC47813902.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-19.22.38:887][320]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-19.22.38:887][320]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-19.22.39:601][361]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-19.22.40:212][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-19.22.40:254][395]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2025.11.14-19.22.40:263][395]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/MainDBD086AE4D3E201C3D5F66B358CCF27A.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-19.22.40:304][395]AssetCheck: New page: Asset Save: Main
+[2025.11.14-19.22.40:304][395]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-19.22.41:032][434]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-19.22.41:491][461]LogTemp: Repeating last play command: Selected Viewport
+[2025.11.14-19.22.41:503][461]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.14-19.22.41:503][461]PIE: New page: PIE session: Main (Nov 14, 2025, 11:22:41 PM)
+[2025.11.14-19.22.41:503][461]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Main
+[2025.11.14-19.22.41:505][461]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001196s)
+[2025.11.14-19.22.41:506][461]LogAIModule: Creating AISystem for world Main
+[2025.11.14-19.22.41:506][461]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000244F2507E00), frame # 70461
+[2025.11.14-19.22.41:506][461]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024460A4F240), frame # 70461
+[2025.11.14-19.22.41:506][461]LogPlayLevel: PIE: World Init took: (0.001625s)
+[2025.11.14-19.22.41:507][461]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main.Main to /Game/Levels/UEDPIE_0_Main.Main (0.002957s)
+[2025.11.14-19.22.41:552][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.11.14-19.22.41:553][461]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.14-19.22.41:553][461]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.14-19.22.41:553][461]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.14-19.22.41:553][461]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.14-19.22.41:553][461]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.11.14-19.22.41:554][461]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.14-19.22.41:554][461]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.11.14-19.22.41:554][461]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.14-19.22.41:554][461]LogAudio: Display: Using built-in audio occlusion.
+[2025.11.14-19.22.41:554][461]LogAudioMixer: Display: Initializing audio mixer.
+[2025.11.14-19.22.41:556][461]LogAudioMixer: Display: 0: FrontLeft
+[2025.11.14-19.22.41:557][461]LogAudioMixer: Display: 1: FrontRight
+[2025.11.14-19.22.41:567][461]LogAudioMixer: Display: Using Audio Device FxSound Speakers (FxSound Audio Enhancer)
+[2025.11.14-19.22.41:567][461]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.14-19.22.41:567][461]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.14-19.22.41:567][461]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.14-19.22.41:568][461]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.11.14-19.22.41:583][461]LogInit: FAudioDevice initialized.
+[2025.11.14-19.22.41:595][461]LogLoad: Game class is 'PlayerGameModeBase_C'
+[2025.11.14-19.22.41:596][461]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2025.11.14-21.22.41
+[2025.11.14-19.22.41:597][461]LogWorld: Bringing up level for play took: 0.000819
+[2025.11.14-19.22.41:597][461]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2025.11.14-19.22.41:600][461]PIE: Server logged in
+[2025.11.14-19.22.41:601][461]PIE: Play in editor total start time 0.098 seconds.
+[2025.11.14-19.22.49:501][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.14-19.22.49:501][932]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Main
+[2025.11.14-19.22.49:502][932]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2025.11.14-19.22.49:502][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.22.49:513][932]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.14-19.22.49:517][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.22.49:564][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.14-19.22.49:583][932]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024460A4F240), frame # 70932
+[2025.11.14-19.22.49:583][932]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000244F2507E00), frame # 70932
+[2025.11.14-19.22.49:586][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.11.14-19.22.49:612][933]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.11.14-19.23.11:337][138]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-19.23.11:424][138]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2025.11.14-19.23.11:804][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-19.23.11:836][155]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_Player460246CE458F2AB2DF14C691A6A274A9.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-19.23.11:855][155]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-19.23.11:855][155]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-19.23.13:094][223]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-19.23.14:322][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-19.23.14:361][293]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2025.11.14-19.23.14:370][293]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Main381AF02A4A65106D00D564971A01B6B9.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-19.23.14:403][293]AssetCheck: New page: Asset Save: Main
+[2025.11.14-19.23.14:403][293]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-19.23.14:876][321]LogTemp: Repeating last play command: Selected Viewport
+[2025.11.14-19.23.14:888][321]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.14-19.23.14:888][321]PIE: New page: PIE session: Main (Nov 14, 2025, 11:23:14 PM)
+[2025.11.14-19.23.14:889][321]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Main
+[2025.11.14-19.23.14:890][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001208s)
+[2025.11.14-19.23.14:891][321]LogAIModule: Creating AISystem for world Main
+[2025.11.14-19.23.14:891][321]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000244E4ED8400), frame # 72321
+[2025.11.14-19.23.14:891][321]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000244E9D58CC0), frame # 72321
+[2025.11.14-19.23.14:891][321]LogPlayLevel: PIE: World Init took: (0.001013s)
+[2025.11.14-19.23.14:891][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main.Main to /Game/Levels/UEDPIE_0_Main.Main (0.002459s)
+[2025.11.14-19.23.14:930][321]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2025.11.14-19.23.14:931][321]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.14-19.23.14:931][321]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.14-19.23.14:931][321]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.14-19.23.14:931][321]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.14-19.23.14:931][321]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.11.14-19.23.14:931][321]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.14-19.23.14:931][321]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.11.14-19.23.14:931][321]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.14-19.23.14:931][321]LogAudio: Display: Using built-in audio occlusion.
+[2025.11.14-19.23.14:931][321]LogAudioMixer: Display: Initializing audio mixer.
+[2025.11.14-19.23.14:934][321]LogAudioMixer: Display: 0: FrontLeft
+[2025.11.14-19.23.14:934][321]LogAudioMixer: Display: 1: FrontRight
+[2025.11.14-19.23.14:947][321]LogAudioMixer: Display: Using Audio Device FxSound Speakers (FxSound Audio Enhancer)
+[2025.11.14-19.23.14:947][321]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.14-19.23.14:947][321]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.14-19.23.14:947][321]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.14-19.23.14:948][321]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.11.14-19.23.14:965][321]LogInit: FAudioDevice initialized.
+[2025.11.14-19.23.14:977][321]LogLoad: Game class is 'PlayerGameModeBase_C'
+[2025.11.14-19.23.14:979][321]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2025.11.14-21.23.14
+[2025.11.14-19.23.14:979][321]LogWorld: Bringing up level for play took: 0.000581
+[2025.11.14-19.23.14:979][321]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2025.11.14-19.23.14:983][321]PIE: Server logged in
+[2025.11.14-19.23.14:984][321]PIE: Play in editor total start time 0.096 seconds.
+[2025.11.14-19.23.24:312][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.14-19.23.24:312][875]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Main
+[2025.11.14-19.23.24:312][875]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2025.11.14-19.23.24:312][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.23.24:324][875]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.14-19.23.24:329][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.23.24:397][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.14-19.23.24:399][875]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000244E9D58CC0), frame # 72875
+[2025.11.14-19.23.24:399][875]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000244E4ED8400), frame # 72875
+[2025.11.14-19.23.24:401][875]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.11.14-19.23.24:430][876]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.11.14-19.23.59:075][829]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.11.14-19.24.17:081][161]LogSlate: Window 'Create New Blueprint' being destroyed
+[2025.11.14-19.24.17:141][161]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/Player_Hud.Player_Hud
+[2025.11.14-19.24.17:546][162]LogRenderer: Reallocating scene render targets to support 912x528 Format 10 NumSamples 1 (Frame:1).
+[2025.11.14-19.24.18:600][221]BlueprintLog: New page: Compile Player_Hud
+[2025.11.14-19.24.18:654][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2025.11.14-19.24.19:022][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Player_Hud" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/Player_Hud.uasset" SILENT=true
+[2025.11.14-19.24.19:027][238]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Player_HudBF289E07416816482D07229DF4B8C592.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/Player_Hud.uasset'
+[2025.11.14-19.24.19:063][238]AssetCheck: New page: Asset Save: Player_Hud
+[2025.11.14-19.24.19:063][238]LogContentValidation: Display: Validating Blueprint /Game/Player/Player_Hud.Player_Hud
+[2025.11.14-19.24.23:450][493]BlueprintLog: New page: Compile Player_Hud
+[2025.11.14-19.24.23:512][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2025.11.14-19.24.23:746][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Player_Hud" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/Player_Hud.uasset" SILENT=true
+[2025.11.14-19.24.23:754][504]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Player_HudD60E45C64E7C257A258E209B14F42B43.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/Player_Hud.uasset'
+[2025.11.14-19.24.23:787][504]AssetCheck: New page: Asset Save: Player_Hud
+[2025.11.14-19.24.23:787][504]LogContentValidation: Display: Validating Blueprint /Game/Player/Player_Hud.Player_Hud
+[2025.11.14-19.24.31:065][911]BlueprintLog: New page: Compile Player_Hud
+[2025.11.14-19.24.31:066][911]LogBlueprint: Error: [Compiler Player_Hud] Spawn node  Create Widget  must have a class specified.
+[2025.11.14-19.24.31:134][911]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2025.11.14-19.24.31:311][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Player_Hud" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/Player_Hud.uasset" SILENT=true
+[2025.11.14-19.24.31:317][918]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Player_HudC20F36FA4B44A206535A9DB289A8BD9F.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/Player_Hud.uasset'
+[2025.11.14-19.24.31:340][918]AssetCheck: New page: Asset Save: Player_Hud
+[2025.11.14-19.24.31:340][918]LogContentValidation: Display: Validating Blueprint /Game/Player/Player_Hud.Player_Hud
+[2025.11.14-19.24.34:953][120]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.11.14-19.24.53:318][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-19.24.53:359][141]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2025.11.14-19.24.53:368][141]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Main30C9A67249426431887B6EB6B253F207.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-19.24.53:406][141]AssetCheck: New page: Asset Save: Main
+[2025.11.14-19.24.53:406][141]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-19.24.55:051][230]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.11.14-19.24.57:128][344]BlueprintLog: New page: Compile Player_Hud
+[2025.11.14-19.24.57:190][344]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2025.11.14-19.25.03:722][699]BlueprintLog: New page: Compile Player_Hud
+[2025.11.14-19.25.03:786][699]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2025.11.14-19.25.04:027][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Player_Hud" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/Player_Hud.uasset" SILENT=true
+[2025.11.14-19.25.04:039][709]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Player_Hud3EDDFE464F2D3AB3450D05BE6CA3CB80.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/Player_Hud.uasset'
+[2025.11.14-19.25.04:073][709]AssetCheck: New page: Asset Save: Player_Hud
+[2025.11.14-19.25.04:073][709]LogContentValidation: Display: Validating Blueprint /Game/Player/Player_Hud.Player_Hud
+[2025.11.14-19.25.08:486][953]BlueprintLog: New page: Compile PlayerGameModeBase
+[2025.11.14-19.25.08:554][953]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2025.11.14-19.25.08:753][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PlayerGameModeBase" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/PlayerGameModeBase.uasset" SILENT=true
+[2025.11.14-19.25.08:759][960]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/PlayerGameModeBaseDC9D6DE14BDADB71C2FBADB03D8ADC3D.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/PlayerGameModeBase.uasset'
+[2025.11.14-19.25.08:788][960]AssetCheck: New page: Asset Save: PlayerGameModeBase
+[2025.11.14-19.25.08:788][960]LogContentValidation: Display: Validating Blueprint /Game/Player/PlayerGameModeBase.PlayerGameModeBase
+[2025.11.14-19.25.10:061][ 33]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-19.25.10:221][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-19.25.10:265][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2025.11.14-19.25.10:273][ 40]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Main04DBE11141205B743F7A95B371FED348.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-19.25.10:320][ 40]AssetCheck: New page: Asset Save: Main
+[2025.11.14-19.25.10:320][ 40]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-19.25.11:637][112]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-19.25.12:228][147]LogTemp: Repeating last play command: Selected Viewport
+[2025.11.14-19.25.12:239][147]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.14-19.25.12:239][147]PIE: New page: PIE session: Main (Nov 14, 2025, 11:25:12 PM)
+[2025.11.14-19.25.12:239][147]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Main
+[2025.11.14-19.25.12:241][147]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001797s)
+[2025.11.14-19.25.12:242][147]LogAIModule: Creating AISystem for world Main
+[2025.11.14-19.25.12:242][147]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002453D412600), frame # 78147
+[2025.11.14-19.25.12:242][147]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002453D40BD80), frame # 78147
+[2025.11.14-19.25.12:243][147]LogPlayLevel: PIE: World Init took: (0.001879s)
+[2025.11.14-19.25.12:243][147]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main.Main to /Game/Levels/UEDPIE_0_Main.Main (0.003904s)
+[2025.11.14-19.25.12:285][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.11.14-19.25.12:287][147]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.14-19.25.12:287][147]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.14-19.25.12:287][147]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.14-19.25.12:287][147]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.14-19.25.12:287][147]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.11.14-19.25.12:287][147]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.14-19.25.12:287][147]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.11.14-19.25.12:287][147]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.14-19.25.12:287][147]LogAudio: Display: Using built-in audio occlusion.
+[2025.11.14-19.25.12:287][147]LogAudioMixer: Display: Initializing audio mixer.
+[2025.11.14-19.25.12:292][147]LogAudioMixer: Display: 0: FrontLeft
+[2025.11.14-19.25.12:292][147]LogAudioMixer: Display: 1: FrontRight
+[2025.11.14-19.25.12:305][147]LogAudioMixer: Display: Using Audio Device FxSound Speakers (FxSound Audio Enhancer)
+[2025.11.14-19.25.12:305][147]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.14-19.25.12:306][147]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.14-19.25.12:306][147]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.14-19.25.12:306][147]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.11.14-19.25.12:323][147]LogInit: FAudioDevice initialized.
+[2025.11.14-19.25.12:335][147]LogLoad: Game class is 'PlayerGameModeBase_C'
+[2025.11.14-19.25.12:337][147]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2025.11.14-21.25.12
+[2025.11.14-19.25.12:337][147]LogWorld: Bringing up level for play took: 0.000962
+[2025.11.14-19.25.12:337][147]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2025.11.14-19.25.12:344][147]PIE: Server logged in
+[2025.11.14-19.25.12:345][147]PIE: Play in editor total start time 0.107 seconds.
+[2025.11.14-19.25.15:891][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.14-19.25.15:891][356]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Main
+[2025.11.14-19.25.15:893][356]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2025.11.14-19.25.15:894][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.25.15:908][356]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.14-19.25.15:913][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.25.15:985][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.14-19.25.15:985][356]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002453D40BD80), frame # 78356
+[2025.11.14-19.25.15:985][356]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002453D412600), frame # 78356
+[2025.11.14-19.25.15:988][356]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2025.11.14-19.25.16:016][357]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2025.11.14-19.25.26:601][933]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-19.25.26:677][933]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2025.11.14-19.25.27:168][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-19.25.27:204][955]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_Player1DAD975044E56C206D97A0BDC62ED737.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-19.25.27:251][955]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-19.25.27:251][955]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-19.25.43:880][853]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-19.25.43:951][853]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2025.11.14-19.25.44:140][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-19.25.44:164][859]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_PlayerB1D28EE2475D9D197EDDC698B674FAB7.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-19.25.44:196][859]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-19.25.44:196][859]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-19.25.56:465][571]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-19.25.56:532][571]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2025.11.14-19.25.57:014][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-19.25.57:041][592]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_PlayerC0D0317947F4F0686E36BA8F6E643CF9.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-19.25.57:071][592]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-19.25.57:071][592]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-19.26.44:731][377]LogEditorTransaction: Undo Move Node
+[2025.11.14-19.26.55:027][942]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-19.26.55:099][942]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2025.11.14-19.26.55:281][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-19.26.55:305][947]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_PlayerE0A619B342C5F2860D34E6A59E8D20A7.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-19.26.55:326][947]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-19.26.55:327][947]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-19.26.56:290][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-19.26.56:319][  3]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_Player024AF2194E7ABCE2FFDFFEAA7272F4BA.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-19.26.56:337][  3]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-19.26.56:337][  3]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-19.27.09:710][762]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-19.27.09:796][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2025.11.14-19.27.10:054][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-19.27.10:079][772]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_Player1C9F35B74F50F8A006F4B5BBC2C634B1.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-19.27.10:096][772]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-19.27.10:096][772]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-19.27.19:461][323]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-19.27.19:551][323]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2025.11.14-19.27.19:824][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-19.27.19:854][331]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_Player43F6B7014EFA5BE46CF0B68028DB9AFB.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-19.27.19:887][331]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-19.27.19:887][331]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-19.27.25:509][653]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-19.27.25:573][653]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2025.11.14-19.27.25:864][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-19.27.25:889][665]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_PlayerCAB59E7B462BD72DB78453B74D30A261.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-19.27.25:910][665]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-19.27.25:910][665]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-19.27.49:221][989]LogEditCondition: Error: EditCondition parsing failed: Field name "bSoftConstraint" was not found in class "PhysicsHandleComponent".
+[2025.11.14-19.27.50:116][ 41]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-19.27.50:192][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2025.11.14-19.27.50:459][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-19.27.50:483][ 50]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_PlayerA725E853473691502B7B6A935973A3B7.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-19.27.50:498][ 50]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-19.27.50:499][ 50]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-19.28.07:679][967]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-19.28.07:755][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2025.11.14-19.28.08:091][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-19.28.08:116][980]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_Player4A15D0964BAEAA64FB43BDB91FC908CE.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-19.28.08:145][980]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-19.28.08:145][980]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-19.28.28:941][145]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-19.28.29:011][145]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2025.11.14-19.28.29:291][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-19.28.29:327][153]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_Player9FB03E154A68B370F87BB4B71CC5247B.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-19.28.29:351][153]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-19.28.29:351][153]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-19.28.30:853][236]BlueprintLog: New page: Compile PlayerGameModeBase
+[2025.11.14-19.28.30:930][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2025.11.14-19.28.31:288][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PlayerGameModeBase" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/PlayerGameModeBase.uasset" SILENT=true
+[2025.11.14-19.28.31:296][250]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/PlayerGameModeBaseFDF8C9624FEE5A97F6678C8F8BB2E126.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/PlayerGameModeBase.uasset'
+[2025.11.14-19.28.31:350][250]AssetCheck: New page: Asset Save: PlayerGameModeBase
+[2025.11.14-19.28.31:350][250]LogContentValidation: Display: Validating Blueprint /Game/Player/PlayerGameModeBase.PlayerGameModeBase
+[2025.11.14-19.28.32:511][309]BlueprintLog: New page: Compile Player_Controller
+[2025.11.14-19.28.32:577][309]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2025.11.14-19.28.32:919][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Player_Controller" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/Player_Controller.uasset" SILENT=true
+[2025.11.14-19.28.32:930][324]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Player_Controller0475BF2C4DF033A61B7EB99557B31A0A.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/Player_Controller.uasset'
+[2025.11.14-19.28.32:964][324]AssetCheck: New page: Asset Save: Player_Controller
+[2025.11.14-19.28.32:964][324]LogContentValidation: Display: Validating Blueprint /Game/Player/Player_Controller.Player_Controller
+[2025.11.14-19.28.33:820][374]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.11.14-19.28.33:820][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.28.34:777][426]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.11.14-19.28.34:777][426]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.11.14-19.28.34:777][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.28.35:970][480]BlueprintLog: New page: Compile MainMenu
+[2025.11.14-19.28.36:016][480]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2025.11.14-19.28.36:370][499]BlueprintLog: New page: Compile MainMenu
+[2025.11.14-19.28.36:416][499]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2025.11.14-19.28.36:773][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/UI/MainMenu.uasset" SILENT=true
+[2025.11.14-19.28.36:788][515]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/MainMenu87E018AF46A61CE95B28D9B208B23757.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/UI/MainMenu.uasset'
+[2025.11.14-19.28.36:817][515]AssetCheck: New page: Asset Save: MainMenu
+[2025.11.14-19.28.36:817][515]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2025.11.14-19.28.43:500][900]BlueprintLog: New page: Compile MainMenu
+[2025.11.14-19.28.43:547][900]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2025.11.14-19.28.43:796][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/UI/MainMenu.uasset" SILENT=true
+[2025.11.14-19.28.43:809][910]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/MainMenu1365BC4948450AAAF52BF984D520D61D.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/UI/MainMenu.uasset'
+[2025.11.14-19.28.43:861][910]AssetCheck: New page: Asset Save: MainMenu
+[2025.11.14-19.28.43:861][910]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2025.11.14-19.28.54:016][473]BlueprintLog: New page: Compile MainMenu
+[2025.11.14-19.28.54:057][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2025.11.14-19.28.54:308][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/UI/MainMenu.uasset" SILENT=true
+[2025.11.14-19.28.54:316][484]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/MainMenu6EA43E354BC6A94B353680AC5B86BD6D.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/UI/MainMenu.uasset'
+[2025.11.14-19.28.54:333][484]AssetCheck: New page: Asset Save: MainMenu
+[2025.11.14-19.28.54:333][484]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2025.11.14-19.29.14:912][688]BlueprintLog: New page: Compile MainMenu
+[2025.11.14-19.29.14:956][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2025.11.14-19.29.15:290][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/UI/MainMenu.uasset" SILENT=true
+[2025.11.14-19.29.15:304][702]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/MainMenu5ABEF08B40A57037493937A9A26B2A29.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/UI/MainMenu.uasset'
+[2025.11.14-19.29.15:333][702]AssetCheck: New page: Asset Save: MainMenu
+[2025.11.14-19.29.15:333][702]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2025.11.14-19.29.23:359][179]BlueprintLog: New page: Compile MainMenu
+[2025.11.14-19.29.23:401][179]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2025.11.14-19.29.23:800][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/UI/MainMenu.uasset" SILENT=true
+[2025.11.14-19.29.23:809][196]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/MainMenu9269BC42416C7A860720CBAD36BEBFC5.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/UI/MainMenu.uasset'
+[2025.11.14-19.29.23:824][196]AssetCheck: New page: Asset Save: MainMenu
+[2025.11.14-19.29.23:824][196]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2025.11.14-19.29.27:108][384]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.11.14-19.29.27:108][384]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.11.14-19.29.27:108][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.29.30:483][562]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Hud.Hud
+[2025.11.14-19.29.35:125][801]BlueprintLog: New page: Compile Hud
+[2025.11.14-19.29.35:173][801]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2025.11.14-19.29.35:433][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Hud" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/UI/Hud.uasset" SILENT=true
+[2025.11.14-19.29.35:438][809]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Hud1E5A763647E17B8CB02290BA57654286.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/UI/Hud.uasset'
+[2025.11.14-19.29.35:494][809]AssetCheck: New page: Asset Save: Hud
+[2025.11.14-19.29.35:494][809]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Hud.Hud
+[2025.11.14-19.29.50:135][678]BlueprintLog: New page: Compile Hud
+[2025.11.14-19.29.50:177][678]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2025.11.14-19.29.50:393][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Hud" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/UI/Hud.uasset" SILENT=true
+[2025.11.14-19.29.50:404][685]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Hud899DB34342652E35D845F9ADD0F6EE77.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/UI/Hud.uasset'
+[2025.11.14-19.29.50:422][685]AssetCheck: New page: Asset Save: Hud
+[2025.11.14-19.29.50:422][685]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Hud.Hud
+[2025.11.14-19.29.51:120][727]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-19.29.51:825][758]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-19.29.52:180][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-19.29.52:225][777]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2025.11.14-19.29.52:235][777]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Main82C2717F4E79F54EC057F5A0D95E885A.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-19.29.52:286][777]AssetCheck: New page: Asset Save: Main
+[2025.11.14-19.29.52:286][777]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-19.29.53:599][849]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-19.29.54:055][876]LogTemp: Repeating last play command: Selected Viewport
+[2025.11.14-19.29.54:068][876]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.14-19.29.54:068][876]PIE: New page: PIE session: Main (Nov 14, 2025, 11:29:54 PM)
+[2025.11.14-19.29.54:069][876]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Main
+[2025.11.14-19.29.54:070][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001751s)
+[2025.11.14-19.29.54:071][876]LogAIModule: Creating AISystem for world Main
+[2025.11.14-19.29.54:071][876]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024539843E00), frame # 93876
+[2025.11.14-19.29.54:071][876]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002443AC4B100), frame # 93876
+[2025.11.14-19.29.54:071][876]LogPlayLevel: PIE: World Init took: (0.001013s)
+[2025.11.14-19.29.54:071][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main.Main to /Game/Levels/UEDPIE_0_Main.Main (0.002876s)
+[2025.11.14-19.29.54:115][876]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2025.11.14-19.29.54:116][876]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.14-19.29.54:116][876]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.14-19.29.54:116][876]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.14-19.29.54:116][876]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.14-19.29.54:116][876]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.11.14-19.29.54:116][876]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.14-19.29.54:116][876]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.11.14-19.29.54:116][876]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.14-19.29.54:116][876]LogAudio: Display: Using built-in audio occlusion.
+[2025.11.14-19.29.54:116][876]LogAudioMixer: Display: Initializing audio mixer.
+[2025.11.14-19.29.54:120][876]LogAudioMixer: Display: 0: FrontLeft
+[2025.11.14-19.29.54:121][876]LogAudioMixer: Display: 1: FrontRight
+[2025.11.14-19.29.54:134][876]LogAudioMixer: Display: Using Audio Device FxSound Speakers (FxSound Audio Enhancer)
+[2025.11.14-19.29.54:134][876]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.14-19.29.54:134][876]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.14-19.29.54:134][876]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.14-19.29.54:134][876]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.11.14-19.29.54:151][876]LogInit: FAudioDevice initialized.
+[2025.11.14-19.29.54:157][876]LogLoad: Game class is 'PlayerGameModeBase_C'
+[2025.11.14-19.29.54:160][876]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2025.11.14-21.29.54
+[2025.11.14-19.29.54:160][876]LogWorld: Bringing up level for play took: 0.000806
+[2025.11.14-19.29.54:160][876]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2025.11.14-19.29.54:165][876]PIE: Server logged in
+[2025.11.14-19.29.54:166][876]PIE: Play in editor total start time 0.099 seconds.
+[2025.11.14-19.29.59:682][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.14-19.29.59:682][204]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Main
+[2025.11.14-19.29.59:682][204]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2025.11.14-19.29.59:682][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.29.59:695][204]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.14-19.29.59:700][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.29.59:751][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.14-19.29.59:767][204]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002443AC4B100), frame # 94204
+[2025.11.14-19.29.59:767][204]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024539843E00), frame # 94204
+[2025.11.14-19.29.59:771][204]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2025.11.14-19.29.59:802][205]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.11.14-19.30.11:466][839]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-19.30.11:531][839]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2025.11.14-19.30.11:773][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-19.30.11:799][847]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_PlayerCD6ED720454B33FD6D0A4AA5A56D0126.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-19.30.11:820][847]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-19.30.11:820][847]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-19.31.04:199][954]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-19.31.04:272][954]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2025.11.14-19.31.04:842][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-19.31.04:868][981]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_Player37C958C34285CA1F81EC5DB3F1C5E6D6.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-19.31.04:908][981]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-19.31.04:908][981]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-19.31.24:399][ 54]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-19.31.24:461][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2025.11.14-19.31.24:669][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-19.31.24:694][ 59]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_Player5EB034F0442BAB81CDAA8283790D3AF9.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-19.31.24:714][ 59]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-19.31.24:714][ 59]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-19.31.33:917][588]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-19.31.34:773][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-19.31.34:810][636]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2025.11.14-19.31.34:819][636]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Main177740FC4A3F34F6DCDC3DA712718686.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-19.31.34:856][636]AssetCheck: New page: Asset Save: Main
+[2025.11.14-19.31.34:856][636]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-19.31.35:113][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2025.11.14-19.31.43:052][ 83]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.14-19.31.49:612][ 83]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2025.11.14-19.32.05:144][892]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.11.14-19.32.18:309][668]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2025.11.14-19.32.18:315][668]LogMetaData: Removing '/Game/Physics_Items/Physics_IDK.Physics_IDK:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Physics_Items/NewBlueprint.PackageMetaData'
+[2025.11.14-19.32.18:315][668]LogMetaData: Removing '/Game/Physics_Items/Physics_IDK.SKEL_Physics_IDK_C' ref from Metadata '/Game/Physics_Items/NewBlueprint.PackageMetaData'
+[2025.11.14-19.32.18:315][668]LogMetaData: Removing '/Game/Physics_Items/Physics_IDK.Physics_IDK_C' ref from Metadata '/Game/Physics_Items/NewBlueprint.PackageMetaData'
+[2025.11.14-19.32.18:315][668]LogMetaData: Removing '/Game/Physics_Items/Physics_IDK.Physics_IDK:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Physics_Items/NewBlueprint.PackageMetaData'
+[2025.11.14-19.32.18:315][668]LogMetaData: Removing '/Game/Physics_Items/Physics_IDK.Physics_IDK:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Physics_Items/NewBlueprint.PackageMetaData'
+[2025.11.14-19.32.18:315][668]LogMetaData: Removing '/Game/Physics_Items/Physics_IDK.Physics_IDK:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Physics_Items/NewBlueprint.PackageMetaData'
+[2025.11.14-19.32.18:357][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Physics_Items/Physics_IDK" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Physics_Items/Physics_IDK.uasset" SILENT=true
+[2025.11.14-19.32.18:363][668]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Physics_IDK10CF6E3C4D7C8FAD36D3E5964B483C7F.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Physics_Items/Physics_IDK.uasset'
+[2025.11.14-19.32.18:611][668]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2025.11.14-19.32.18:663][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.11.14-19.32.18:691][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.11.14-19.32.18:719][668]AssetCheck: New page: Asset Save: Physics_IDK
+[2025.11.14-19.32.18:719][668]LogContentValidation: Display: Validating Blueprint /Game/Physics_Items/Physics_IDK.Physics_IDK
+[2025.11.14-19.32.19:573][713]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Physics_Items/Physics_IDK.Physics_IDK
+[2025.11.14-19.32.20:624][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Physics_Items/Physics_IDK" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Physics_Items/Physics_IDK.uasset" SILENT=true
+[2025.11.14-19.32.20:633][748]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Physics_IDK3D41017E49F478D81FA049873401721E.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Physics_Items/Physics_IDK.uasset'
+[2025.11.14-19.32.20:659][748]AssetCheck: New page: Asset Save: Physics_IDK
+[2025.11.14-19.32.20:659][748]LogContentValidation: Display: Validating Blueprint /Game/Physics_Items/Physics_IDK.Physics_IDK
+[2025.11.14-19.32.24:067][935]BlueprintLog: New page: Compile Physics_IDK
+[2025.11.14-19.32.24:125][935]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2025.11.14-19.32.24:387][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Physics_Items/Physics_IDK" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Physics_Items/Physics_IDK.uasset" SILENT=true
+[2025.11.14-19.32.24:402][941]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Physics_IDKE3DC088642DE00C46EA557B1CB463633.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Physics_Items/Physics_IDK.uasset'
+[2025.11.14-19.32.24:441][941]AssetCheck: New page: Asset Save: Physics_IDK
+[2025.11.14-19.32.24:441][941]LogContentValidation: Display: Validating Blueprint /Game/Physics_Items/Physics_IDK.Physics_IDK
+[2025.11.14-19.32.29:311][226]BlueprintLog: New page: Compile Physics_IDK
+[2025.11.14-19.32.29:368][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2025.11.14-19.32.29:684][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Physics_Items/Physics_IDK" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Physics_Items/Physics_IDK.uasset" SILENT=true
+[2025.11.14-19.32.29:694][237]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Physics_IDK7F627A1B46205745ACB9489A789BB546.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Physics_Items/Physics_IDK.uasset'
+[2025.11.14-19.32.29:726][237]AssetCheck: New page: Asset Save: Physics_IDK
+[2025.11.14-19.32.29:726][237]LogContentValidation: Display: Validating Blueprint /Game/Physics_Items/Physics_IDK.Physics_IDK
+[2025.11.14-19.32.34:318][493]Cmd: EDIT CUT
+[2025.11.14-19.32.34:331][493]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.14-19.32.34:377][493]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2025.11.14-19.32.34:379][493]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2025.11.14-19.32.38:697][730]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-19.32.39:591][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-19.32.39:636][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.11.14-19.32.39:645][781]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Main750B8EFB43605887C0E4E3B21DF71CEB.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-19.32.39:682][781]AssetCheck: New page: Asset Save: Main
+[2025.11.14-19.32.39:682][781]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-19.32.40:305][817]LogTemp: Repeating last play command: Selected Viewport
+[2025.11.14-19.32.40:318][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.14-19.32.40:318][817]PIE: New page: PIE session: Main (Nov 14, 2025, 11:32:40 PM)
+[2025.11.14-19.32.40:318][817]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Main
+[2025.11.14-19.32.40:319][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001590s)
+[2025.11.14-19.32.40:321][817]LogAIModule: Creating AISystem for world Main
+[2025.11.14-19.32.40:321][817]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002456E137E00), frame # 102817
+[2025.11.14-19.32.40:321][817]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002449F8CA700), frame # 102817
+[2025.11.14-19.32.40:321][817]LogPlayLevel: PIE: World Init took: (0.001746s)
+[2025.11.14-19.32.40:321][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main.Main to /Game/Levels/UEDPIE_0_Main.Main (0.003486s)
+[2025.11.14-19.32.40:354][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2025.11.14-19.32.40:356][817]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.14-19.32.40:356][817]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.14-19.32.40:356][817]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.14-19.32.40:356][817]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.14-19.32.40:356][817]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.11.14-19.32.40:356][817]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.14-19.32.40:356][817]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.11.14-19.32.40:356][817]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.14-19.32.40:356][817]LogAudio: Display: Using built-in audio occlusion.
+[2025.11.14-19.32.40:356][817]LogAudioMixer: Display: Initializing audio mixer.
+[2025.11.14-19.32.40:359][817]LogAudioMixer: Display: 0: FrontLeft
+[2025.11.14-19.32.40:359][817]LogAudioMixer: Display: 1: FrontRight
+[2025.11.14-19.32.40:372][817]LogAudioMixer: Display: Using Audio Device FxSound Speakers (FxSound Audio Enhancer)
+[2025.11.14-19.32.40:372][817]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.14-19.32.40:372][817]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.14-19.32.40:372][817]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.14-19.32.40:372][817]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.11.14-19.32.40:387][817]LogInit: FAudioDevice initialized.
+[2025.11.14-19.32.40:398][817]LogLoad: Game class is 'PlayerGameModeBase_C'
+[2025.11.14-19.32.40:399][817]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2025.11.14-21.32.40
+[2025.11.14-19.32.40:399][817]LogWorld: Bringing up level for play took: 0.000763
+[2025.11.14-19.32.40:399][817]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2025.11.14-19.32.40:404][817]PIE: Server logged in
+[2025.11.14-19.32.40:404][817]PIE: Play in editor total start time 0.088 seconds.
+[2025.11.14-19.32.47:152][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.14-19.32.47:152][217]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Main
+[2025.11.14-19.32.47:152][217]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2025.11.14-19.32.47:152][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.32.47:163][217]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.14-19.32.47:167][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.32.47:231][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.14-19.32.47:232][217]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002449F8CA700), frame # 103217
+[2025.11.14-19.32.47:232][217]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002456E137E00), frame # 103217
+[2025.11.14-19.32.47:233][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.11.14-19.32.47:261][218]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2025.11.14-19.33.19:482][ 59]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-19.33.19:558][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2025.11.14-19.33.19:761][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-19.33.19:787][ 64]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_Player3893273F48E89B38B8E03095B1B7C9D1.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-19.33.19:805][ 64]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-19.33.19:805][ 64]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-19.33.20:925][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-19.33.20:952][126]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_PlayerF4945EE04C2891B53E0E1C96AAB051F7.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-19.33.20:966][126]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-19.33.20:966][126]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-19.33.22:081][189]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-19.33.23:044][246]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-19.33.23:192][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-19.33.23:234][253]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2025.11.14-19.33.23:244][253]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/MainE4B2AD5242218D0D0F76D08F7B4083D8.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-19.33.23:285][253]AssetCheck: New page: Asset Save: Main
+[2025.11.14-19.33.23:286][253]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-19.33.24:416][317]LogTemp: Repeating last play command: Selected Viewport
+[2025.11.14-19.33.24:430][317]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.14-19.33.24:430][317]PIE: New page: PIE session: Main (Nov 14, 2025, 11:33:24 PM)
+[2025.11.14-19.33.24:430][317]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Main
+[2025.11.14-19.33.24:432][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001623s)
+[2025.11.14-19.33.24:433][317]LogAIModule: Creating AISystem for world Main
+[2025.11.14-19.33.24:433][317]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024572490400), frame # 105317
+[2025.11.14-19.33.24:433][317]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002449A0DBC40), frame # 105317
+[2025.11.14-19.33.24:433][317]LogPlayLevel: PIE: World Init took: (0.001104s)
+[2025.11.14-19.33.24:433][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main.Main to /Game/Levels/UEDPIE_0_Main.Main (0.002875s)
+[2025.11.14-19.33.24:484][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.11.14-19.33.24:484][317]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.14-19.33.24:485][317]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.14-19.33.24:485][317]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.14-19.33.24:485][317]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.14-19.33.24:485][317]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.11.14-19.33.24:485][317]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.14-19.33.24:485][317]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.11.14-19.33.24:485][317]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.14-19.33.24:485][317]LogAudio: Display: Using built-in audio occlusion.
+[2025.11.14-19.33.24:485][317]LogAudioMixer: Display: Initializing audio mixer.
+[2025.11.14-19.33.24:489][317]LogAudioMixer: Display: 0: FrontLeft
+[2025.11.14-19.33.24:490][317]LogAudioMixer: Display: 1: FrontRight
+[2025.11.14-19.33.24:501][317]LogAudioMixer: Display: Using Audio Device FxSound Speakers (FxSound Audio Enhancer)
+[2025.11.14-19.33.24:501][317]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.14-19.33.24:501][317]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.14-19.33.24:501][317]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.14-19.33.24:502][317]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.11.14-19.33.24:517][317]LogInit: FAudioDevice initialized.
+[2025.11.14-19.33.24:522][317]LogLoad: Game class is 'PlayerGameModeBase_C'
+[2025.11.14-19.33.24:523][317]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2025.11.14-21.33.24
+[2025.11.14-19.33.24:523][317]LogWorld: Bringing up level for play took: 0.000588
+[2025.11.14-19.33.24:523][317]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2025.11.14-19.33.24:527][317]PIE: Server logged in
+[2025.11.14-19.33.24:527][317]PIE: Play in editor total start time 0.099 seconds.
+[2025.11.14-19.33.32:472][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.14-19.33.32:472][786]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Main
+[2025.11.14-19.33.32:473][786]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2025.11.14-19.33.32:473][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.33.32:486][786]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.14-19.33.32:491][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.33.32:540][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.14-19.33.32:559][786]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002449A0DBC40), frame # 105786
+[2025.11.14-19.33.32:559][786]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024572490400), frame # 105786
+[2025.11.14-19.33.32:561][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.11.14-19.33.32:582][787]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2025.11.14-19.34.18:207][441]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-19.34.18:699][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-19.34.18:743][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.11.14-19.34.18:754][467]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Main769403164EF6A9FBF35947AD76B1CE8A.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-19.34.18:802][467]AssetCheck: New page: Asset Save: Main
+[2025.11.14-19.34.18:802][467]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-19.40.33:762][666]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-19.40.34:397][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-19.40.34:449][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.11.14-19.40.34:461][702]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/MainF82C994C4AB98F3B474C9CA22B48E8C4.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-19.40.34:502][702]AssetCheck: New page: Asset Save: Main
+[2025.11.14-19.40.34:502][702]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-19.40.39:264][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-19.40.39:303][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.11.14-19.40.39:313][973]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/MainED4D82CF4A2418BF97CF858F4D0C1BEA.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-19.40.39:353][973]AssetCheck: New page: Asset Save: Main
+[2025.11.14-19.40.39:353][973]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-19.40.39:801][999]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-19.41.06:216][550]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.14-19.41.11:168][550]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.11.14-19.41.14:214][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2025.11.14-19.41.15:038][710]LogSlate: Window 'Delete Assets' being destroyed
+[2025.11.14-19.41.15:202][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.11.14-19.41.17:172][799]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.14-19.41.18:268][799]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.11.14-19.41.22:735][ 63]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-19.41.22:875][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-19.41.22:911][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2025.11.14-19.41.22:920][ 69]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/MainE351C9094746BDAA9CDAFAAD105DE0B4.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-19.41.22:963][ 69]AssetCheck: New page: Asset Save: Main
+[2025.11.14-19.41.22:965][ 69]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-19.41.24:974][184]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy/Phone.Phone
+[2025.11.14-19.44.11:395][373]LogMetaData: Removing '/Game/Enemy/Phone/Phone.Phone:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Enemy/Phone.PackageMetaData'
+[2025.11.14-19.44.11:395][373]LogMetaData: Removing '/Game/Enemy/Phone/Phone.SKEL_Phone_C:UserConstructionScript' ref from Metadata '/Game/Enemy/Phone.PackageMetaData'
+[2025.11.14-19.44.11:396][373]LogMetaData: Removing '/Game/Enemy/Phone/Phone.SKEL_Phone_C' ref from Metadata '/Game/Enemy/Phone.PackageMetaData'
+[2025.11.14-19.44.11:396][373]LogMetaData: Removing '/Game/Enemy/Phone/Phone.Phone_C' ref from Metadata '/Game/Enemy/Phone.PackageMetaData'
+[2025.11.14-19.44.11:396][373]LogMetaData: Removing '/Game/Enemy/Phone/Phone.Phone:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Enemy/Phone.PackageMetaData'
+[2025.11.14-19.44.11:396][373]LogMetaData: Removing '/Game/Enemy/Phone/Phone.Phone:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Enemy/Phone.PackageMetaData'
+[2025.11.14-19.44.11:396][373]LogMetaData: Removing '/Game/Enemy/Phone/Phone.Phone:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Enemy/Phone.PackageMetaData'
+[2025.11.14-19.44.11:439][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-19.44.11:451][373]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone08F9FB9E41E9ADCDED3A968422D31408.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-19.44.11:689][373]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2025.11.14-19.44.11:742][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.11.14-19.44.11:773][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.11.14-19.44.11:800][373]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-19.44.11:800][373]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-19.45.27:857][675]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-19.45.29:091][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-19.45.29:125][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2025.11.14-19.45.29:134][746]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/MainFB4D7C3042228F2AED34D4A0010C1FE0.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-19.45.29:177][746]AssetCheck: New page: Asset Save: Main
+[2025.11.14-19.45.29:177][746]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-19.45.31:033][833]AssetReimport: New page: Outstanding source content changes 11:45:31 PM
+[2025.11.14-19.45.31:036][833]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/DoomScrollPhone.fbx)
+[2025.11.14-19.45.31:063][833]LogFbx: Loading FBX Scene from C:/Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/DoomScrollPhone.fbx
+[2025.11.14-19.45.31:071][833]LogFbx: FBX Scene Loaded Succesfully
+[2025.11.14-19.45.45:938][833]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.11.14-19.45.46:324][833]LogStaticMesh: Building static mesh DoomScrollPhone...
+[2025.11.14-19.45.46:334][833]LogStaticMesh: Built static mesh [0.01s] /Game/Enemy/Phone/DoomScrollPhone.DoomScrollPhone
+[2025.11.14-19.45.46:479][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/DoomScrollPhone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/DoomScrollPhone.uasset" SILENT=true
+[2025.11.14-19.45.46:493][834]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/DoomScrollPhoneA019DCBB4B1F7E6B2FB24192EE8BB2DB.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/DoomScrollPhone.uasset'
+[2025.11.14-19.45.46:536][835]AssetCheck: New page: Asset Save: DoomScrollPhone
+[2025.11.14-19.45.46:537][835]LogContentValidation: Display: Validating StaticMesh /Game/Enemy/Phone/DoomScrollPhone.DoomScrollPhone
+[2025.11.14-19.45.49:504][  3]AssetReimport: Importing new asset /Game/Enemy/Phone/DoomScrollPhone.
+[2025.11.14-19.45.50:955][ 81]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Enemy/Phone/DoomScrollPhone.DoomScrollPhone
+[2025.11.14-19.45.51:400][ 81]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.11.14-19.45.51:400][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.45.51:952][ 82]LogRenderer: Reallocating scene render targets to support 1144x696 Format 10 NumSamples 1 (Frame:1).
+[2025.11.14-19.46.04:453][303]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2025.11.14-19.46.06:131][303]LogSlate: Window 'Delete Assets' being destroyed
+[2025.11.14-19.46.06:905][303]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.11.14-19.46.06:905][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.46.06:929][303]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Enemy/Phone/DoomScrollPhone.DoomScrollPhone
+[2025.11.14-19.46.07:826][303]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2025.11.14-19.46.07:864][303]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2025.11.14-19.46.07:899][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.11.14-19.46.08:350][310]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-19.46.08:704][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-19.46.08:777][327]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2025.11.14-19.46.08:791][327]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Main343000264D80B43F9F2FEF9CBE1511C2.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-19.46.08:830][327]AssetCheck: New page: Asset Save: Main
+[2025.11.14-19.46.08:830][327]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-19.46.27:392][445]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-19.46.29:727][561]AssetReimport: New page: Outstanding source content changes 11:46:29 PM
+[2025.11.14-19.46.29:731][561]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/DoomScrollPhone.fbx)
+[2025.11.14-19.46.29:739][561]LogFbx: Loading FBX Scene from C:/Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/DoomScrollPhone.fbx
+[2025.11.14-19.46.29:746][561]LogFbx: FBX Scene Loaded Succesfully
+[2025.11.14-19.46.32:109][561]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.11.14-19.46.32:151][561]LogFbx: Valid bind pose for Pose (Plane.002) - Phone
+[2025.11.14-19.46.32:164][561]LogSkeletalMesh: Section 0: 93 vertices, 1 active bones
+[2025.11.14-19.46.32:164][561]LogSkeletalMesh: Section 1: 16 vertices, 1 active bones
+[2025.11.14-19.46.32:164][561]LogSkeletalMesh: Section 0: Material=0, 88 triangles
+[2025.11.14-19.46.32:164][561]LogSkeletalMesh: Section 1: Material=1, 14 triangles
+[2025.11.14-19.46.32:167][561]LogSkeletalMesh: Building Skeletal Mesh DoomScrollPhone...
+[2025.11.14-19.46.32:171][561]LogSkeletalMesh: Section 0: 93 vertices, 1 active bones
+[2025.11.14-19.46.32:171][561]LogSkeletalMesh: Section 1: 16 vertices, 1 active bones
+[2025.11.14-19.46.32:171][561]LogSkeletalMesh: Section 0: Material=0, 88 triangles
+[2025.11.14-19.46.32:171][561]LogSkeletalMesh: Section 1: Material=1, 14 triangles
+[2025.11.14-19.46.32:172][561]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Enemy/Phone/DoomScrollPhone.DoomScrollPhone
+[2025.11.14-19.46.32:195][561]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2025.11.14-19.46.32:195][561]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.11.14-19.46.32:195][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.46.32:208][561]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.11.14-19.46.32:208][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.46.32:389][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/DoomScrollPhone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/DoomScrollPhone.uasset" SILENT=true
+[2025.11.14-19.46.32:397][562]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/DoomScrollPhone5242F6A54DA65E8B3DD145A947E45E2D.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/DoomScrollPhone.uasset'
+[2025.11.14-19.46.32:471][563]AssetCheck: New page: Asset Save: DoomScrollPhone
+[2025.11.14-19.46.32:471][563]LogContentValidation: Display: Validating SkeletalMesh /Game/Enemy/Phone/DoomScrollPhone.DoomScrollPhone
+[2025.11.14-19.46.34:402][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-19.46.34:452][675]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2025.11.14-19.46.34:461][675]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/MainE5515C3F406396E66B63A6BF9F7F5206.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-19.46.34:496][675]AssetCheck: New page: Asset Save: Main
+[2025.11.14-19.46.34:496][675]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-19.46.35:470][731]AssetReimport: Importing new asset /Game/Enemy/Phone/DoomScrollPhone.
+[2025.11.14-19.46.36:176][771]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Enemy/Phone/DoomScrollPhone_Skeleton.DoomScrollPhone_Skeleton
+[2025.11.14-19.46.36:196][771]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2025.11.14-19.46.36:211][771]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.11.14-19.46.36:222][771]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2025.11.14-19.46.36:257][771]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2025.11.14-19.46.41:633][ 55]Cmd: TRANSACTION UNDO
+[2025.11.14-19.46.41:633][ 55]LogEditorTransaction: Undo Translate Bone
+[2025.11.14-19.46.41:711][ 55]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.11.14-19.46.42:577][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/DoomScrollPhone_Skeleton" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/DoomScrollPhone_Skeleton.uasset" SILENT=true
+[2025.11.14-19.46.42:581][ 81]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/DoomScrollPhone_SkeletonF927B65D4FFDEF126A02C783F3E5CCFD.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/DoomScrollPhone_Skeleton.uasset'
+[2025.11.14-19.46.42:620][ 81]AssetCheck: New page: Asset Save: DoomScrollPhone_Skeleton
+[2025.11.14-19.46.42:620][ 81]LogContentValidation: Display: Validating Skeleton /Game/Enemy/Phone/DoomScrollPhone_Skeleton.DoomScrollPhone_Skeleton
+[2025.11.14-19.46.43:430][126]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-19.46.43:664][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-19.46.43:753][136]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2025.11.14-19.46.43:763][136]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/MainF977EB994CEEB82AC01EEFA46E053100.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-19.46.43:804][136]AssetCheck: New page: Asset Save: Main
+[2025.11.14-19.46.43:804][136]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-19.47.09:378][600]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-19.47.09:594][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-19.47.09:663][610]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2025.11.14-19.47.09:673][610]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/MainC591230F4A6942D45D1D48AFDA460334.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-19.47.09:719][610]AssetCheck: New page: Asset Save: Main
+[2025.11.14-19.47.09:719][610]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-19.47.11:547][714]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Enemy/Phone/Phone_Body_Mat.Phone_Body_Mat
+[2025.11.14-19.47.11:550][714]LogMaterial: Display: Missing cached shader map for material Phone_Body_Mat, compiling. 
+[2025.11.14-19.47.11:656][714]LogMaterial: Display: Missing cached shader map for material Phone_Body_Mat, compiling. 
+[2025.11.14-19.47.11:672][714]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2025.11.14-19.47.11:672][714]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2025.11.14-19.47.11:672][714]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2025.11.14-19.47.11:672][714]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2025.11.14-19.47.11:672][714]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2025.11.14-19.47.11:672][714]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2025.11.14-19.47.11:672][714]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2025.11.14-19.47.11:672][714]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2025.11.14-19.47.12:789][767]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2025.11.14-19.47.13:297][797]MaterialEditorStats: Base pass shader: 117 instructions
+[2025.11.14-19.47.13:297][797]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2025.11.14-19.47.13:297][797]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2025.11.14-19.47.13:297][797]MaterialEditorStats: Texture samplers: 2/16
+[2025.11.14-19.47.13:686][820]LogMaterial: Display: Missing cached shader map for material Phone_Body_Mat, compiling. 
+[2025.11.14-19.47.13:695][820]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2025.11.14-19.47.13:723][821]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2025.11.14-19.47.13:723][821]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2025.11.14-19.47.13:723][821]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2025.11.14-19.47.13:723][821]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2025.11.14-19.47.13:723][821]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2025.11.14-19.47.13:724][821]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2025.11.14-19.47.13:724][821]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2025.11.14-19.47.13:724][821]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2025.11.14-19.47.14:260][850]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2025.11.14-19.47.14:291][852]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2025.11.14-19.47.14:487][859]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2025.11.14-19.47.14:581][865]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2025.11.14-19.47.14:581][865]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2025.11.14-19.47.14:774][876]MaterialEditorStats: Base pass shader: 117 instructions
+[2025.11.14-19.47.14:775][876]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2025.11.14-19.47.14:775][876]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2025.11.14-19.47.14:775][876]MaterialEditorStats: Texture samplers: 2/16
+[2025.11.14-19.47.15:197][901]LogMaterial: Display: Missing cached shader map for material Phone_Body_Mat, compiling. 
+[2025.11.14-19.47.15:210][901]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2025.11.14-19.47.15:210][901]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2025.11.14-19.47.15:210][901]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2025.11.14-19.47.15:210][901]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2025.11.14-19.47.15:210][901]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2025.11.14-19.47.15:210][901]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2025.11.14-19.47.15:210][901]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2025.11.14-19.47.15:210][901]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2025.11.14-19.47.15:213][901]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2025.11.14-19.47.15:734][925]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2025.11.14-19.47.15:784][926]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2025.11.14-19.47.15:989][938]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2025.11.14-19.47.15:989][938]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2025.11.14-19.47.16:054][939]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2025.11.14-19.47.16:264][950]MaterialEditorStats: Base pass shader: 117 instructions
+[2025.11.14-19.47.16:265][950]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2025.11.14-19.47.16:265][950]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2025.11.14-19.47.16:265][950]MaterialEditorStats: Texture samplers: 2/16
+[2025.11.14-19.47.16:612][971]LogMaterialEditor: Saving and Compiling material Phone_Body_Mat
+[2025.11.14-19.47.17:351][971]LogMaterial: Display: Missing cached shader map for material Phone_Body_Mat, compiling. 
+[2025.11.14-19.47.17:377][971]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2025.11.14-19.47.17:378][971]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2025.11.14-19.47.17:378][971]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2025.11.14-19.47.17:378][971]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2025.11.14-19.47.17:378][971]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2025.11.14-19.47.17:378][971]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2025.11.14-19.47.17:378][971]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2025.11.14-19.47.17:378][971]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2025.11.14-19.47.17:418][971]LogMaterial: Display: Missing cached shader map for material Phone_Body_Mat, compiling. 
+[2025.11.14-19.47.17:483][971]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2025.11.14-19.47.17:494][971]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2025.11.14-19.47.18:027][971]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2025.11.14-19.47.18:027][971]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2025.11.14-19.47.18:027][971]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2025.11.14-19.47.18:226][971]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2025.11.14-19.47.18:226][971]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2025.11.14-19.47.18:226][971]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2025.11.14-19.47.18:226][971]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2025.11.14-19.47.18:226][971]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2025.11.14-19.47.18:226][971]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2025.11.14-19.47.18:226][971]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2025.11.14-19.47.18:226][971]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2025.11.14-19.47.18:229][971]TextureStreamingBuild: Display: Compiling optional shaders took 0.744 seconds.
+[2025.11.14-19.47.18:272][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.11.14-19.47.18:878][971]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2025.11.14-19.47.18:878][971]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2025.11.14-19.47.19:154][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone_Body_Mat" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone_Body_Mat.uasset" SILENT=true
+[2025.11.14-19.47.19:163][971]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone_Body_Mat8045A3E940587D00CA2BCBABA119338F.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone_Body_Mat.uasset'
+[2025.11.14-19.47.19:199][971]AssetCheck: New page: Asset Save: Phone_Body_Mat
+[2025.11.14-19.47.19:199][971]LogContentValidation: Display: Validating Material /Game/Enemy/Phone/Phone_Body_Mat.Phone_Body_Mat
+[2025.11.14-19.47.19:234][971]MaterialEditorStats: Base pass shader: 117 instructions
+[2025.11.14-19.47.19:234][971]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2025.11.14-19.47.19:234][971]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2025.11.14-19.47.19:234][971]MaterialEditorStats: Texture samplers: 3/16
+[2025.11.14-19.47.21:196][ 76]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Enemy/Phone/Phone_Dispay_Mat.Phone_Dispay_Mat
+[2025.11.14-19.47.21:197][ 76]LogMaterial: Display: Missing cached shader map for material Phone_Dispay_Mat, compiling. 
+[2025.11.14-19.47.21:284][ 76]LogMaterial: Display: Missing cached shader map for material Phone_Dispay_Mat, compiling. 
+[2025.11.14-19.47.21:298][ 76]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2025.11.14-19.47.21:298][ 76]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2025.11.14-19.47.21:298][ 76]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2025.11.14-19.47.21:298][ 76]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2025.11.14-19.47.21:298][ 76]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2025.11.14-19.47.21:298][ 76]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2025.11.14-19.47.21:298][ 76]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2025.11.14-19.47.21:298][ 76]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2025.11.14-19.47.21:845][100]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2025.11.14-19.47.22:249][124]MaterialEditorStats: Base pass shader: 117 instructions
+[2025.11.14-19.47.22:249][124]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2025.11.14-19.47.22:249][124]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2025.11.14-19.47.22:249][124]MaterialEditorStats: Texture samplers: 2/16
+[2025.11.14-19.47.22:652][148]LogMaterial: Display: Missing cached shader map for material Phone_Dispay_Mat, compiling. 
+[2025.11.14-19.47.22:659][148]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2025.11.14-19.47.22:682][149]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2025.11.14-19.47.22:682][149]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2025.11.14-19.47.22:682][149]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2025.11.14-19.47.22:682][149]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2025.11.14-19.47.22:682][149]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2025.11.14-19.47.22:682][149]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2025.11.14-19.47.22:682][149]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2025.11.14-19.47.22:682][149]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2025.11.14-19.47.23:222][178]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2025.11.14-19.47.23:251][180]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2025.11.14-19.47.23:421][190]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2025.11.14-19.47.23:520][190]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2025.11.14-19.47.23:521][190]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2025.11.14-19.47.23:683][200]MaterialEditorStats: Base pass shader: 117 instructions
+[2025.11.14-19.47.23:683][200]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2025.11.14-19.47.23:683][200]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2025.11.14-19.47.23:683][200]MaterialEditorStats: Texture samplers: 2/16
+[2025.11.14-19.47.24:124][226]LogMaterial: Display: Missing cached shader map for material Phone_Dispay_Mat, compiling. 
+[2025.11.14-19.47.24:137][226]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2025.11.14-19.47.24:137][226]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2025.11.14-19.47.24:137][226]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2025.11.14-19.47.24:137][226]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2025.11.14-19.47.24:138][226]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2025.11.14-19.47.24:138][226]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2025.11.14-19.47.24:138][226]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2025.11.14-19.47.24:138][226]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2025.11.14-19.47.24:142][226]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2025.11.14-19.47.24:728][256]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2025.11.14-19.47.24:728][256]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2025.11.14-19.47.24:861][264]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2025.11.14-19.47.24:959][270]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2025.11.14-19.47.24:991][272]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2025.11.14-19.47.25:181][283]MaterialEditorStats: Base pass shader: 117 instructions
+[2025.11.14-19.47.25:181][283]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2025.11.14-19.47.25:181][283]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2025.11.14-19.47.25:181][283]MaterialEditorStats: Texture samplers: 2/16
+[2025.11.14-19.47.29:581][543]LogMaterialEditor: Saving and Compiling material Phone_Dispay_Mat
+[2025.11.14-19.47.30:129][543]LogMaterial: Display: Missing cached shader map for material Phone_Dispay_Mat, compiling. 
+[2025.11.14-19.47.30:153][543]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2025.11.14-19.47.30:153][543]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2025.11.14-19.47.30:153][543]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2025.11.14-19.47.30:153][543]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2025.11.14-19.47.30:153][543]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2025.11.14-19.47.30:153][543]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2025.11.14-19.47.30:153][543]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2025.11.14-19.47.30:153][543]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2025.11.14-19.47.30:198][543]LogMaterial: Display: Missing cached shader map for material Phone_Dispay_Mat, compiling. 
+[2025.11.14-19.47.30:262][543]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2025.11.14-19.47.30:269][543]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2025.11.14-19.47.30:799][543]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2025.11.14-19.47.30:799][543]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2025.11.14-19.47.30:799][543]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2025.11.14-19.47.31:027][543]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2025.11.14-19.47.31:027][543]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2025.11.14-19.47.31:027][543]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2025.11.14-19.47.31:027][543]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2025.11.14-19.47.31:027][543]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2025.11.14-19.47.31:027][543]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2025.11.14-19.47.31:027][543]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2025.11.14-19.47.31:027][543]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2025.11.14-19.47.31:031][543]TextureStreamingBuild: Display: Compiling optional shaders took 0.768 seconds.
+[2025.11.14-19.47.31:089][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.11.14-19.47.31:693][543]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2025.11.14-19.47.31:909][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone_Dispay_Mat" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone_Dispay_Mat.uasset" SILENT=true
+[2025.11.14-19.47.31:915][543]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone_Dispay_Mat8DC88477476AEE16D160119293255444.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone_Dispay_Mat.uasset'
+[2025.11.14-19.47.31:971][543]AssetCheck: New page: Asset Save: Phone_Dispay_Mat
+[2025.11.14-19.47.31:971][543]LogContentValidation: Display: Validating Material /Game/Enemy/Phone/Phone_Dispay_Mat.Phone_Dispay_Mat
+[2025.11.14-19.47.32:007][543]MaterialEditorStats: Base pass shader: 117 instructions
+[2025.11.14-19.47.32:007][543]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2025.11.14-19.47.32:007][543]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2025.11.14-19.47.32:007][543]MaterialEditorStats: Texture samplers: 3/16
+[2025.11.14-19.47.34:300][670]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2025.11.14-19.47.34:308][670]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2025.11.14-19.47.34:308][670]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2025.11.14-19.47.34:308][670]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2025.11.14-19.47.34:308][670]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2025.11.14-19.47.34:312][670]LogMaterial: Display: Missing cached shader map for material Phone_Dispay_Mat, compiling. 
+[2025.11.14-19.47.34:331][670]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2025.11.14-19.47.34:331][670]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2025.11.14-19.47.34:331][670]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2025.11.14-19.47.34:331][670]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2025.11.14-19.47.34:898][701]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2025.11.14-19.47.34:898][701]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2025.11.14-19.47.34:898][701]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2025.11.14-19.47.35:028][707]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2025.11.14-19.47.35:028][707]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2025.11.14-19.47.35:601][739]MaterialEditorStats: Base pass shader: 117 instructions
+[2025.11.14-19.47.35:601][739]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2025.11.14-19.47.35:601][739]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2025.11.14-19.47.35:601][739]MaterialEditorStats: Texture samplers: 2/16
+[2025.11.14-19.47.35:871][755]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2025.11.14-19.47.35:877][755]LogMaterial: Display: Missing cached shader map for material Phone_Dispay_Mat, compiling. 
+[2025.11.14-19.47.35:884][755]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2025.11.14-19.47.35:884][755]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2025.11.14-19.47.35:884][755]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2025.11.14-19.47.35:884][755]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2025.11.14-19.47.35:903][756]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2025.11.14-19.47.35:904][756]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2025.11.14-19.47.35:904][756]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2025.11.14-19.47.35:904][756]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2025.11.14-19.47.36:462][786]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2025.11.14-19.47.36:462][786]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2025.11.14-19.47.36:462][786]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2025.11.14-19.47.36:573][793]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2025.11.14-19.47.36:573][793]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2025.11.14-19.47.37:146][820]MaterialEditorStats: Base pass shader: 117 instructions
+[2025.11.14-19.47.37:146][820]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2025.11.14-19.47.37:146][820]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2025.11.14-19.47.37:146][820]MaterialEditorStats: Texture samplers: 2/16
+[2025.11.14-19.47.37:172][821]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2025.11.14-19.47.37:181][821]LogMaterial: Display: Missing cached shader map for material Phone_Dispay_Mat, compiling. 
+[2025.11.14-19.47.37:186][821]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2025.11.14-19.47.37:186][821]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2025.11.14-19.47.37:186][821]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2025.11.14-19.47.37:187][821]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2025.11.14-19.47.37:201][822]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2025.11.14-19.47.37:201][822]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2025.11.14-19.47.37:201][822]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2025.11.14-19.47.37:201][822]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2025.11.14-19.47.37:768][854]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2025.11.14-19.47.37:768][854]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2025.11.14-19.47.37:768][854]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2025.11.14-19.47.37:852][859]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2025.11.14-19.47.37:852][859]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2025.11.14-19.47.37:896][861]LogMaterial: Display: Missing cached shader map for material Phone_Dispay_Mat, compiling. 
+[2025.11.14-19.47.37:912][861]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2025.11.14-19.47.37:929][861]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2025.11.14-19.47.37:939][861]LogMaterial: Display: Missing cached shader map for material Phone_Dispay_Mat, compiling. 
+[2025.11.14-19.47.37:945][861]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2025.11.14-19.47.37:954][861]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2025.11.14-19.47.37:964][861]LogMaterial: Display: Missing cached shader map for material Phone_Dispay_Mat, compiling. 
+[2025.11.14-19.47.37:981][861]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2025.11.14-19.47.37:992][861]LogMaterial: Display: Missing cached shader map for material Phone_Dispay_Mat, compiling. 
+[2025.11.14-19.47.37:998][861]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2025.11.14-19.47.37:999][861]LogSlate: Window 'Color Picker' being destroyed
+[2025.11.14-19.47.38:027][862]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2025.11.14-19.47.38:241][875]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2025.11.14-19.47.38:353][882]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2025.11.14-19.47.38:504][891]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2025.11.14-19.47.38:589][896]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2025.11.14-19.47.38:637][899]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2025.11.14-19.47.38:704][903]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2025.11.14-19.47.38:704][903]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2025.11.14-19.47.38:722][904]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2025.11.14-19.47.38:895][914]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2025.11.14-19.47.38:915][915]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2025.11.14-19.47.38:984][919]LogMaterialEditor: Saving and Compiling material Phone_Dispay_Mat
+[2025.11.14-19.47.39:645][919]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2025.11.14-19.47.39:654][919]LogMaterial: Display: Missing cached shader map for material Phone_Dispay_Mat, compiling. 
+[2025.11.14-19.47.39:701][919]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2025.11.14-19.47.39:701][919]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2025.11.14-19.47.39:701][919]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2025.11.14-19.47.39:701][919]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2025.11.14-19.47.39:701][919]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2025.11.14-19.47.39:701][919]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2025.11.14-19.47.39:701][919]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2025.11.14-19.47.39:701][919]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2025.11.14-19.47.39:717][919]LogMaterial: Display: Missing cached shader map for material Phone_Dispay_Mat, compiling. 
+[2025.11.14-19.47.39:780][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.11.14-19.47.39:787][919]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2025.11.14-19.47.40:321][919]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2025.11.14-19.47.40:321][919]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2025.11.14-19.47.40:321][919]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2025.11.14-19.47.40:321][919]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2025.11.14-19.47.40:551][919]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2025.11.14-19.47.40:551][919]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2025.11.14-19.47.40:551][919]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2025.11.14-19.47.40:551][919]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2025.11.14-19.47.40:551][919]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2025.11.14-19.47.40:551][919]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2025.11.14-19.47.40:551][919]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2025.11.14-19.47.40:555][919]TextureStreamingBuild: Display: Compiling optional shaders took 0.774 seconds.
+[2025.11.14-19.47.40:610][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.11.14-19.47.41:226][919]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2025.11.14-19.47.41:226][919]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2025.11.14-19.47.41:226][919]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2025.11.14-19.47.41:467][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone_Dispay_Mat" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone_Dispay_Mat.uasset" SILENT=true
+[2025.11.14-19.47.41:479][919]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone_Dispay_MatB75161AF4397BF54065F8A9583C97C24.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone_Dispay_Mat.uasset'
+[2025.11.14-19.47.41:525][919]AssetCheck: New page: Asset Save: Phone_Dispay_Mat
+[2025.11.14-19.47.41:525][919]LogContentValidation: Display: Validating Material /Game/Enemy/Phone/Phone_Dispay_Mat.Phone_Dispay_Mat
+[2025.11.14-19.47.41:561][919]MaterialEditorStats: Base pass shader: 118 instructions
+[2025.11.14-19.47.41:561][919]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2025.11.14-19.47.41:561][919]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2025.11.14-19.47.41:561][919]MaterialEditorStats: Texture samplers: 3/16
+[2025.11.14-19.47.43:687][ 44]LogMaterial: Display: Missing cached shader map for material Phone_Dispay_Mat, compiling. 
+[2025.11.14-19.47.43:696][ 44]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2025.11.14-19.47.43:703][ 44]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2025.11.14-19.47.43:703][ 44]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2025.11.14-19.47.43:703][ 44]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2025.11.14-19.47.43:703][ 44]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2025.11.14-19.47.43:703][ 44]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2025.11.14-19.47.43:703][ 44]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2025.11.14-19.47.43:703][ 44]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2025.11.14-19.47.43:703][ 44]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2025.11.14-19.47.44:269][ 77]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2025.11.14-19.47.44:269][ 77]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2025.11.14-19.47.44:461][ 88]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2025.11.14-19.47.44:495][ 90]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2025.11.14-19.47.44:543][ 93]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2025.11.14-19.47.44:750][105]MaterialEditorStats: Base pass shader: 119 instructions
+[2025.11.14-19.47.44:750][105]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2025.11.14-19.47.44:750][105]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2025.11.14-19.47.44:750][105]MaterialEditorStats: Texture samplers: 2/16
+[2025.11.14-19.47.45:081][125]LogMaterialEditor: Saving and Compiling material Phone_Dispay_Mat
+[2025.11.14-19.47.45:640][125]LogMaterial: Display: Missing cached shader map for material Phone_Dispay_Mat, compiling. 
+[2025.11.14-19.47.45:693][125]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2025.11.14-19.47.45:693][125]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2025.11.14-19.47.45:693][125]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2025.11.14-19.47.45:693][125]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2025.11.14-19.47.45:693][125]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2025.11.14-19.47.45:693][125]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2025.11.14-19.47.45:693][125]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2025.11.14-19.47.45:693][125]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2025.11.14-19.47.45:729][125]LogMaterial: Display: Missing cached shader map for material Phone_Dispay_Mat, compiling. 
+[2025.11.14-19.47.45:789][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.11.14-19.47.45:796][125]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2025.11.14-19.47.46:321][125]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2025.11.14-19.47.46:321][125]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2025.11.14-19.47.46:321][125]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2025.11.14-19.47.46:571][125]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2025.11.14-19.47.46:571][125]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2025.11.14-19.47.46:571][125]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2025.11.14-19.47.46:571][125]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2025.11.14-19.47.46:571][125]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2025.11.14-19.47.46:571][125]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2025.11.14-19.47.46:571][125]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2025.11.14-19.47.46:571][125]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2025.11.14-19.47.46:575][125]TextureStreamingBuild: Display: Compiling optional shaders took 0.785 seconds.
+[2025.11.14-19.47.46:625][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.11.14-19.47.47:241][125]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2025.11.14-19.47.47:241][125]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2025.11.14-19.47.47:241][125]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2025.11.14-19.47.47:492][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone_Dispay_Mat" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone_Dispay_Mat.uasset" SILENT=true
+[2025.11.14-19.47.47:500][125]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone_Dispay_Mat76A1B7D849524F552BACC0B6EF7E4FF0.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone_Dispay_Mat.uasset'
+[2025.11.14-19.47.47:542][125]AssetCheck: New page: Asset Save: Phone_Dispay_Mat
+[2025.11.14-19.47.47:542][125]LogContentValidation: Display: Validating Material /Game/Enemy/Phone/Phone_Dispay_Mat.Phone_Dispay_Mat
+[2025.11.14-19.47.47:577][125]MaterialEditorStats: Base pass shader: 119 instructions
+[2025.11.14-19.47.47:577][125]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2025.11.14-19.47.47:577][125]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2025.11.14-19.47.47:577][125]MaterialEditorStats: Texture samplers: 3/16
+[2025.11.14-19.47.49:178][215]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.11.14-19.47.49:179][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.47.50:497][290]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.11.14-19.47.50:497][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.47.51:241][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-19.47.51:302][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2025.11.14-19.47.51:312][327]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Main83B46DC848B1F56223E7DA8DE186792C.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-19.47.51:350][327]AssetCheck: New page: Asset Save: Main
+[2025.11.14-19.47.51:350][327]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-19.47.52:860][410]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Enemy/Phone/DoomScrollPhone.DoomScrollPhone
+[2025.11.14-19.47.52:867][410]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.11.14-19.47.52:896][410]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2025.11.14-19.47.55:268][529]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/Enemy/Phone/DoomScrollPhone_PhysicsAsset.DoomScrollPhone_PhysicsAsset
+[2025.11.14-19.47.55:293][529]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0004 seconds. Added 8 classes and 3 folders.
+[2025.11.14-19.47.55:305][529]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.11.14-19.48.05:806][ 90]LogMaterial: Display: Material /Game/Enemy/Phone/Phone_Body_Mat.Phone_Body_Mat needed to have new flag set bUsedWithSkeletalMesh !
+[2025.11.14-19.48.05:809][ 90]LogMaterial: Display: Missing cached shader map for material Phone_Body_Mat, compiling. 
+[2025.11.14-19.48.05:890][ 91]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 39
+[2025.11.14-19.48.05:891][ 91]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 34
+[2025.11.14-19.48.05:891][ 91]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 29
+[2025.11.14-19.48.05:891][ 91]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.48.05:891][ 91]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2025.11.14-19.48.05:891][ 91]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2025.11.14-19.48.05:891][ 91]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2025.11.14-19.48.05:891][ 91]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2025.11.14-19.48.17:246][754]LogMaterial: Display: Material /Game/Enemy/Phone/Phone_Dispay_Mat.Phone_Dispay_Mat needed to have new flag set bUsedWithSkeletalMesh !
+[2025.11.14-19.48.17:247][754]LogMaterial: Display: Missing cached shader map for material Phone_Dispay_Mat, compiling. 
+[2025.11.14-19.48.17:316][755]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 39
+[2025.11.14-19.48.17:316][755]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 34
+[2025.11.14-19.48.17:316][755]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 29
+[2025.11.14-19.48.17:316][755]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.48.17:316][755]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2025.11.14-19.48.17:316][755]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2025.11.14-19.48.17:316][755]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2025.11.14-19.48.17:316][755]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2025.11.14-19.48.20:599][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/DoomScrollPhone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/DoomScrollPhone.uasset" SILENT=true
+[2025.11.14-19.48.20:615][939]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/DoomScrollPhoneDBFBF6A4476FE1D0F542A7BB6F6A3033.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/DoomScrollPhone.uasset'
+[2025.11.14-19.48.20:644][939]AssetCheck: New page: Asset Save: DoomScrollPhone
+[2025.11.14-19.48.20:644][939]LogContentValidation: Display: Validating SkeletalMesh /Game/Enemy/Phone/DoomScrollPhone.DoomScrollPhone
+[2025.11.14-19.48.22:461][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/DoomScrollPhone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/DoomScrollPhone.uasset" SILENT=true
+[2025.11.14-19.48.22:467][ 43]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/DoomScrollPhoneFB70E6B045BF99E82BEE8E9634DC241B.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/DoomScrollPhone.uasset'
+[2025.11.14-19.48.22:494][ 43]AssetCheck: New page: Asset Save: DoomScrollPhone
+[2025.11.14-19.48.22:494][ 43]LogContentValidation: Display: Validating SkeletalMesh /Game/Enemy/Phone/DoomScrollPhone.DoomScrollPhone
+[2025.11.14-19.48.27:984][331]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Enemy/Phone/Phone_Dispay_Mat.Phone_Dispay_Mat
+[2025.11.14-19.48.27:985][331]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.48.28:051][331]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.48.28:065][331]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.48.28:082][331]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2025.11.14-19.48.28:082][331]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2025.11.14-19.48.28:082][331]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2025.11.14-19.48.28:082][331]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.48.28:082][331]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2025.11.14-19.48.28:082][331]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2025.11.14-19.48.28:082][331]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2025.11.14-19.48.28:082][331]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2025.11.14-19.48.28:082][331]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2025.11.14-19.48.28:502][349]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 23
+[2025.11.14-19.48.28:502][349]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2025.11.14-19.48.28:665][359]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2025.11.14-19.48.28:716][362]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2025.11.14-19.48.28:716][362]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2025.11.14-19.48.28:734][363]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2025.11.14-19.48.28:765][365]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2025.11.14-19.48.28:765][365]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2025.11.14-19.48.28:864][371]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2025.11.14-19.48.29:044][379]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2025.11.14-19.48.29:105][381]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2025.11.14-19.48.29:105][381]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2025.11.14-19.48.29:167][385]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2025.11.14-19.48.29:285][392]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2025.11.14-19.48.29:315][394]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2025.11.14-19.48.29:334][395]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2025.11.14-19.48.29:368][397]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2025.11.14-19.48.29:368][397]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2025.11.14-19.48.29:637][412]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2025.11.14-19.48.29:822][423]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2025.11.14-19.48.29:890][427]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2025.11.14-19.48.29:948][430]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2025.11.14-19.48.30:165][443]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2025.11.14-19.48.30:204][445]MaterialEditorStats: Base pass shader: 119 instructions
+[2025.11.14-19.48.30:204][445]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2025.11.14-19.48.30:204][445]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2025.11.14-19.48.30:204][445]MaterialEditorStats: Base pass vertex shader: 86 instructions
+[2025.11.14-19.48.30:204][445]MaterialEditorStats: Texture samplers: 2/16
+[2025.11.14-19.48.30:937][484]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.48.31:004][485]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2025.11.14-19.48.31:004][485]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2025.11.14-19.48.31:004][485]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2025.11.14-19.48.31:004][485]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.48.31:004][485]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2025.11.14-19.48.31:004][485]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2025.11.14-19.48.31:004][485]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2025.11.14-19.48.31:004][485]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2025.11.14-19.48.31:348][504]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2025.11.14-19.48.31:348][504]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2025.11.14-19.48.31:530][515]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2025.11.14-19.48.31:530][515]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2025.11.14-19.48.31:548][516]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2025.11.14-19.48.31:631][521]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2025.11.14-19.48.31:644][522]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2025.11.14-19.48.31:644][522]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2025.11.14-19.48.31:712][526]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2025.11.14-19.48.31:838][531]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2025.11.14-19.48.31:986][540]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2025.11.14-19.48.31:986][540]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2025.11.14-19.48.32:035][543]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2025.11.14-19.48.32:148][550]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2025.11.14-19.48.32:184][552]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2025.11.14-19.48.32:235][555]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2025.11.14-19.48.32:269][557]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2025.11.14-19.48.32:269][557]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2025.11.14-19.48.32:551][573]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2025.11.14-19.48.33:084][604]MaterialEditorStats: Base pass shader: 119 instructions
+[2025.11.14-19.48.33:085][604]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2025.11.14-19.48.33:085][604]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2025.11.14-19.48.33:085][604]MaterialEditorStats: Base pass vertex shader: 86 instructions
+[2025.11.14-19.48.33:085][604]MaterialEditorStats: Texture samplers: 2/16
+[2025.11.14-19.48.33:566][631]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.48.33:616][632]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2025.11.14-19.48.33:617][632]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2025.11.14-19.48.33:617][632]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2025.11.14-19.48.33:617][632]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.48.33:617][632]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2025.11.14-19.48.33:617][632]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2025.11.14-19.48.33:617][632]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2025.11.14-19.48.33:617][632]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2025.11.14-19.48.33:986][651]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2025.11.14-19.48.34:015][653]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2025.11.14-19.48.34:233][662]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2025.11.14-19.48.34:233][662]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2025.11.14-19.48.34:243][663]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2025.11.14-19.48.34:279][665]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2025.11.14-19.48.34:279][665]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2025.11.14-19.48.34:310][667]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2025.11.14-19.48.34:362][670]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2025.11.14-19.48.34:591][678]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2025.11.14-19.48.34:637][681]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2025.11.14-19.48.34:638][681]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2025.11.14-19.48.34:727][686]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2025.11.14-19.48.34:878][694]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2025.11.14-19.48.34:879][694]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2025.11.14-19.48.34:897][695]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2025.11.14-19.48.34:897][695]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2025.11.14-19.48.34:897][695]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2025.11.14-19.48.35:233][715]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2025.11.14-19.48.35:670][741]MaterialEditorStats: Base pass shader: 119 instructions
+[2025.11.14-19.48.35:670][741]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2025.11.14-19.48.35:671][741]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2025.11.14-19.48.35:671][741]MaterialEditorStats: Base pass vertex shader: 86 instructions
+[2025.11.14-19.48.35:671][741]MaterialEditorStats: Texture samplers: 2/16
+[2025.11.14-19.48.38:776][919]LogMaterialEditor: Saving and Compiling material Phone_Dispay_Mat
+[2025.11.14-19.48.39:453][919]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.48.39:503][919]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2025.11.14-19.48.39:503][919]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2025.11.14-19.48.39:503][919]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2025.11.14-19.48.39:503][919]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.48.39:503][919]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2025.11.14-19.48.39:503][919]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2025.11.14-19.48.39:503][919]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2025.11.14-19.48.39:503][919]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2025.11.14-19.48.39:522][919]LogMaterial: Display: Missing cached shader map for material Phone_Dispay_Mat, compiling. 
+[2025.11.14-19.48.39:658][919]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2025.11.14-19.48.39:670][919]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2025.11.14-19.48.40:197][919]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 60
+[2025.11.14-19.48.40:197][919]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 59
+[2025.11.14-19.48.40:197][919]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 58
+[2025.11.14-19.48.40:197][919]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 57
+[2025.11.14-19.48.40:197][919]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 56
+[2025.11.14-19.48.40:197][919]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 55
+[2025.11.14-19.48.40:197][919]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 54
+[2025.11.14-19.48.40:197][919]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 53
+[2025.11.14-19.48.40:197][919]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 52
+[2025.11.14-19.48.40:722][919]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 51
+[2025.11.14-19.48.40:722][919]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 50
+[2025.11.14-19.48.40:722][919]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 49
+[2025.11.14-19.48.40:722][919]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 48
+[2025.11.14-19.48.40:722][919]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 47
+[2025.11.14-19.48.40:722][919]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 46
+[2025.11.14-19.48.40:722][919]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 45
+[2025.11.14-19.48.40:722][919]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 44
+[2025.11.14-19.48.40:722][919]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 43
+[2025.11.14-19.48.41:245][919]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 42
+[2025.11.14-19.48.41:246][919]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 41
+[2025.11.14-19.48.41:246][919]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 40
+[2025.11.14-19.48.41:246][919]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 39
+[2025.11.14-19.48.41:246][919]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 34
+[2025.11.14-19.48.41:246][919]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 29
+[2025.11.14-19.48.41:246][919]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 25
+[2025.11.14-19.48.41:246][919]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2025.11.14-19.48.41:246][919]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2025.11.14-19.48.41:246][919]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2025.11.14-19.48.41:280][919]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2025.11.14-19.48.41:284][919]TextureStreamingBuild: Display: Compiling optional shaders took 1.620 seconds.
+[2025.11.14-19.48.41:366][919]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2025.11.14-19.48.42:493][919]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2025.11.14-19.48.42:493][919]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2025.11.14-19.48.42:493][919]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2025.11.14-19.48.42:493][919]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2025.11.14-19.48.42:493][919]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2025.11.14-19.48.42:493][919]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2025.11.14-19.48.43:026][919]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2025.11.14-19.48.43:026][919]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2025.11.14-19.48.43:026][919]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2025.11.14-19.48.43:163][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone_Dispay_Mat" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone_Dispay_Mat.uasset" SILENT=true
+[2025.11.14-19.48.43:173][919]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone_Dispay_Mat41581A5741D603F7576DF0AE6E4D0998.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone_Dispay_Mat.uasset'
+[2025.11.14-19.48.43:218][919]AssetCheck: New page: Asset Save: Phone_Dispay_Mat
+[2025.11.14-19.48.43:218][919]LogContentValidation: Display: Validating Material /Game/Enemy/Phone/Phone_Dispay_Mat.Phone_Dispay_Mat
+[2025.11.14-19.48.43:224][919]MaterialEditorStats: Base pass shader: 119 instructions
+[2025.11.14-19.48.43:224][919]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2025.11.14-19.48.43:224][919]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2025.11.14-19.48.43:224][919]MaterialEditorStats: Base pass vertex shader: 86 instructions
+[2025.11.14-19.48.43:224][919]MaterialEditorStats: Texture samplers: 3/16
