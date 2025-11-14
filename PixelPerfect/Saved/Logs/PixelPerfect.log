@@ -2482,3 +2482,1737 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2025.11.14-19.48.43:224][919]MaterialEditorStats: Base pass vertex shader: 40 instructions
 [2025.11.14-19.48.43:224][919]MaterialEditorStats: Base pass vertex shader: 86 instructions
 [2025.11.14-19.48.43:224][919]MaterialEditorStats: Texture samplers: 3/16
+[2025.11.14-19.49.12:779][199]LogMaterialEditor: Saving and Compiling material Phone_Dispay_Mat
+[2025.11.14-19.49.12:803][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone_Dispay_Mat" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone_Dispay_Mat.uasset" SILENT=true
+[2025.11.14-19.49.12:813][199]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone_Dispay_Mat15C4679246895F47C82A2B85B30A6641.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone_Dispay_Mat.uasset'
+[2025.11.14-19.49.12:833][199]AssetCheck: New page: Asset Save: Phone_Dispay_Mat
+[2025.11.14-19.49.12:834][199]LogContentValidation: Display: Validating Material /Game/Enemy/Phone/Phone_Dispay_Mat.Phone_Dispay_Mat
+[2025.11.14-19.49.14:540][301]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.49.14:581][302]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2025.11.14-19.49.14:581][302]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2025.11.14-19.49.14:581][302]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2025.11.14-19.49.14:581][302]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.49.14:581][302]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2025.11.14-19.49.14:581][302]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2025.11.14-19.49.14:581][302]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2025.11.14-19.49.14:581][302]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2025.11.14-19.49.15:141][335]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2025.11.14-19.49.15:141][335]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2025.11.14-19.49.15:302][345]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2025.11.14-19.49.15:454][354]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2025.11.14-19.49.15:454][354]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2025.11.14-19.49.15:471][355]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 14
+[2025.11.14-19.49.15:471][355]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2025.11.14-19.49.15:471][355]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2025.11.14-19.49.15:487][356]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2025.11.14-19.49.15:743][371]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2025.11.14-19.49.15:875][379]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2025.11.14-19.49.15:890][380]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2025.11.14-19.49.15:890][380]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2025.11.14-19.49.16:077][391]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2025.11.14-19.49.16:094][392]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2025.11.14-19.49.16:094][392]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2025.11.14-19.49.16:143][395]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2025.11.14-19.49.16:194][398]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2025.11.14-19.49.16:483][415]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2025.11.14-19.49.17:011][446]MaterialEditorStats: Base pass shader: 119 instructions
+[2025.11.14-19.49.17:011][446]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2025.11.14-19.49.17:011][446]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2025.11.14-19.49.17:011][446]MaterialEditorStats: Base pass vertex shader: 86 instructions
+[2025.11.14-19.49.17:011][446]MaterialEditorStats: Texture samplers: 2/16
+[2025.11.14-19.49.18:332][521]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.49.18:392][522]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2025.11.14-19.49.18:392][522]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2025.11.14-19.49.18:392][522]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2025.11.14-19.49.18:392][522]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.49.18:392][522]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2025.11.14-19.49.18:392][522]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2025.11.14-19.49.18:392][522]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2025.11.14-19.49.18:392][522]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2025.11.14-19.49.18:750][541]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2025.11.14-19.49.18:750][541]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2025.11.14-19.49.18:927][548]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2025.11.14-19.49.18:927][548]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2025.11.14-19.49.18:940][549]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2025.11.14-19.49.18:941][549]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2025.11.14-19.49.18:986][552]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2025.11.14-19.49.18:986][552]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2025.11.14-19.49.19:087][558]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2025.11.14-19.49.19:272][568]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2025.11.14-19.49.19:357][572]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2025.11.14-19.49.19:397][573]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2025.11.14-19.49.19:477][578]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2025.11.14-19.49.19:578][583]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2025.11.14-19.49.19:578][583]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2025.11.14-19.49.19:578][583]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2025.11.14-19.49.19:610][585]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2025.11.14-19.49.19:628][586]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2025.11.14-19.49.19:977][607]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2025.11.14-19.49.20:383][631]MaterialEditorStats: Base pass shader: 119 instructions
+[2025.11.14-19.49.20:383][631]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2025.11.14-19.49.20:383][631]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2025.11.14-19.49.20:383][631]MaterialEditorStats: Base pass vertex shader: 86 instructions
+[2025.11.14-19.49.20:383][631]MaterialEditorStats: Texture samplers: 2/16
+[2025.11.14-19.49.22:869][780]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.49.22:903][781]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2025.11.14-19.49.22:903][781]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2025.11.14-19.49.22:903][781]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2025.11.14-19.49.22:903][781]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.49.22:903][781]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2025.11.14-19.49.22:903][781]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2025.11.14-19.49.22:903][781]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2025.11.14-19.49.22:904][781]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2025.11.14-19.49.23:301][801]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2025.11.14-19.49.23:301][801]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2025.11.14-19.49.23:451][810]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2025.11.14-19.49.23:524][813]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2025.11.14-19.49.23:536][814]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2025.11.14-19.49.23:550][815]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2025.11.14-19.49.23:570][816]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2025.11.14-19.49.23:570][816]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2025.11.14-19.49.23:686][822]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2025.11.14-19.49.23:840][831]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2025.11.14-19.49.23:904][835]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2025.11.14-19.49.23:919][836]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2025.11.14-19.49.23:967][839]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2025.11.14-19.49.24:152][850]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2025.11.14-19.49.24:153][850]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2025.11.14-19.49.24:153][850]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2025.11.14-19.49.24:170][851]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2025.11.14-19.49.24:204][853]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2025.11.14-19.49.24:413][864]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2025.11.14-19.49.24:998][896]MaterialEditorStats: Base pass shader: 119 instructions
+[2025.11.14-19.49.24:998][896]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2025.11.14-19.49.24:998][896]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2025.11.14-19.49.24:998][896]MaterialEditorStats: Base pass vertex shader: 86 instructions
+[2025.11.14-19.49.24:998][896]MaterialEditorStats: Texture samplers: 2/16
+[2025.11.14-19.49.25:504][925]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.49.25:530][926]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2025.11.14-19.49.25:530][926]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2025.11.14-19.49.25:530][926]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2025.11.14-19.49.25:530][926]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.49.25:530][926]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2025.11.14-19.49.25:530][926]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2025.11.14-19.49.25:530][926]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2025.11.14-19.49.25:530][926]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2025.11.14-19.49.25:934][946]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2025.11.14-19.49.25:934][946]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2025.11.14-19.49.26:095][956]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2025.11.14-19.49.26:114][957]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2025.11.14-19.49.26:163][960]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2025.11.14-19.49.26:163][960]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2025.11.14-19.49.26:163][960]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2025.11.14-19.49.26:178][961]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2025.11.14-19.49.26:264][966]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2025.11.14-19.49.26:434][976]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2025.11.14-19.49.26:548][983]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2025.11.14-19.49.26:548][983]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2025.11.14-19.49.26:633][988]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2025.11.14-19.49.26:760][994]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2025.11.14-19.49.26:760][994]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2025.11.14-19.49.26:792][996]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2025.11.14-19.49.26:792][996]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2025.11.14-19.49.26:792][996]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2025.11.14-19.49.27:110][ 14]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2025.11.14-19.49.27:562][ 41]MaterialEditorStats: Base pass shader: 119 instructions
+[2025.11.14-19.49.27:562][ 41]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2025.11.14-19.49.27:562][ 41]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2025.11.14-19.49.27:562][ 41]MaterialEditorStats: Base pass vertex shader: 86 instructions
+[2025.11.14-19.49.27:562][ 41]MaterialEditorStats: Texture samplers: 2/16
+[2025.11.14-19.49.29:924][179]LogMaterialEditor: Saving and Compiling material Phone_Dispay_Mat
+[2025.11.14-19.49.30:490][179]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.49.30:539][179]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2025.11.14-19.49.30:539][179]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2025.11.14-19.49.30:539][179]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2025.11.14-19.49.30:539][179]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.49.30:539][179]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2025.11.14-19.49.30:539][179]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2025.11.14-19.49.30:539][179]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2025.11.14-19.49.30:539][179]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2025.11.14-19.49.30:558][179]LogMaterial: Display: Missing cached shader map for material Phone_Dispay_Mat, compiling. 
+[2025.11.14-19.49.30:637][179]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2025.11.14-19.49.30:644][179]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2025.11.14-19.49.31:176][179]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 60
+[2025.11.14-19.49.31:176][179]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 59
+[2025.11.14-19.49.31:176][179]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 58
+[2025.11.14-19.49.31:176][179]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 57
+[2025.11.14-19.49.31:176][179]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 56
+[2025.11.14-19.49.31:176][179]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 55
+[2025.11.14-19.49.31:176][179]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 54
+[2025.11.14-19.49.31:176][179]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 53
+[2025.11.14-19.49.31:176][179]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 52
+[2025.11.14-19.49.31:697][179]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 51
+[2025.11.14-19.49.31:697][179]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 50
+[2025.11.14-19.49.31:697][179]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 49
+[2025.11.14-19.49.31:697][179]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 48
+[2025.11.14-19.49.31:697][179]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 47
+[2025.11.14-19.49.31:697][179]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 46
+[2025.11.14-19.49.31:697][179]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 45
+[2025.11.14-19.49.31:697][179]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 44
+[2025.11.14-19.49.31:697][179]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 43
+[2025.11.14-19.49.32:186][179]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 42
+[2025.11.14-19.49.32:186][179]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 41
+[2025.11.14-19.49.32:186][179]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 40
+[2025.11.14-19.49.32:186][179]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 39
+[2025.11.14-19.49.32:186][179]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 34
+[2025.11.14-19.49.32:186][179]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 29
+[2025.11.14-19.49.32:186][179]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2025.11.14-19.49.32:186][179]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2025.11.14-19.49.32:186][179]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 18
+[2025.11.14-19.49.32:186][179]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2025.11.14-19.49.32:186][179]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2025.11.14-19.49.32:190][179]TextureStreamingBuild: Display: Compiling optional shaders took 1.550 seconds.
+[2025.11.14-19.49.32:229][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.11.14-19.49.33:372][179]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2025.11.14-19.49.33:372][179]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2025.11.14-19.49.33:372][179]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2025.11.14-19.49.33:372][179]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2025.11.14-19.49.33:372][179]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2025.11.14-19.49.33:372][179]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2025.11.14-19.49.33:900][179]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2025.11.14-19.49.33:900][179]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2025.11.14-19.49.33:900][179]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2025.11.14-19.49.34:072][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone_Dispay_Mat" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone_Dispay_Mat.uasset" SILENT=true
+[2025.11.14-19.49.34:084][179]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone_Dispay_Mat0BB175574CE8969EC6D6EFA5203662BB.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone_Dispay_Mat.uasset'
+[2025.11.14-19.49.34:139][179]AssetCheck: New page: Asset Save: Phone_Dispay_Mat
+[2025.11.14-19.49.34:139][179]LogContentValidation: Display: Validating Material /Game/Enemy/Phone/Phone_Dispay_Mat.Phone_Dispay_Mat
+[2025.11.14-19.49.34:141][179]MaterialEditorStats: Base pass shader: 119 instructions
+[2025.11.14-19.49.34:141][179]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2025.11.14-19.49.34:141][179]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2025.11.14-19.49.34:141][179]MaterialEditorStats: Base pass vertex shader: 86 instructions
+[2025.11.14-19.49.34:141][179]MaterialEditorStats: Texture samplers: 3/16
+[2025.11.14-19.49.38:799][446]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.49.38:830][447]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2025.11.14-19.49.38:830][447]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2025.11.14-19.49.38:830][447]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2025.11.14-19.49.38:830][447]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.49.38:830][447]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2025.11.14-19.49.38:830][447]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2025.11.14-19.49.38:830][447]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2025.11.14-19.49.38:830][447]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2025.11.14-19.49.39:226][468]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2025.11.14-19.49.39:226][468]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2025.11.14-19.49.39:357][476]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2025.11.14-19.49.39:388][478]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2025.11.14-19.49.39:469][483]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2025.11.14-19.49.39:470][483]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2025.11.14-19.49.39:470][483]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2025.11.14-19.49.39:470][483]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2025.11.14-19.49.39:565][488]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2025.11.14-19.49.39:740][496]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2025.11.14-19.49.39:827][500]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2025.11.14-19.49.39:860][502]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2025.11.14-19.49.39:860][502]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2025.11.14-19.49.40:094][516]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2025.11.14-19.49.40:094][516]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2025.11.14-19.49.40:094][516]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2025.11.14-19.49.40:095][516]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2025.11.14-19.49.40:126][518]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2025.11.14-19.49.40:327][530]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2025.11.14-19.49.40:919][564]MaterialEditorStats: Base pass shader: 119 instructions
+[2025.11.14-19.49.40:919][564]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2025.11.14-19.49.40:919][564]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2025.11.14-19.49.40:919][564]MaterialEditorStats: Base pass vertex shader: 86 instructions
+[2025.11.14-19.49.40:919][564]MaterialEditorStats: Texture samplers: 2/16
+[2025.11.14-19.49.43:038][691]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.49.43:059][691]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2025.11.14-19.49.43:059][691]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2025.11.14-19.49.43:059][691]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2025.11.14-19.49.43:059][691]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.49.43:059][691]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2025.11.14-19.49.43:059][691]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2025.11.14-19.49.43:059][691]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2025.11.14-19.49.43:059][691]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2025.11.14-19.49.43:060][691]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.49.43:459][713]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2025.11.14-19.49.43:459][713]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 26
+[2025.11.14-19.49.43:610][722]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 25
+[2025.11.14-19.49.43:644][724]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 24
+[2025.11.14-19.49.43:661][725]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 23
+[2025.11.14-19.49.43:712][728]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2025.11.14-19.49.43:712][728]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2025.11.14-19.49.43:712][728]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2025.11.14-19.49.43:985][744]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2025.11.14-19.49.43:985][744]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2025.11.14-19.49.44:098][751]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2025.11.14-19.49.44:099][751]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2025.11.14-19.49.44:314][764]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2025.11.14-19.49.44:314][764]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2025.11.14-19.49.44:314][764]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2025.11.14-19.49.44:334][765]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2025.11.14-19.49.44:398][769]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2025.11.14-19.49.44:444][772]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2025.11.14-19.49.44:487][774]LogMaterialEditor: Saving and Compiling material Phone_Dispay_Mat
+[2025.11.14-19.49.45:206][774]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2025.11.14-19.49.45:206][774]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2025.11.14-19.49.45:206][774]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2025.11.14-19.49.45:206][774]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2025.11.14-19.49.45:206][774]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2025.11.14-19.49.45:206][774]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2025.11.14-19.49.45:206][774]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2025.11.14-19.49.45:206][774]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2025.11.14-19.49.45:206][774]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2025.11.14-19.49.45:223][774]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.49.45:267][774]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 27
+[2025.11.14-19.49.45:304][774]LogMaterial: Display: Missing cached shader map for material Phone_Dispay_Mat, compiling. 
+[2025.11.14-19.49.45:343][774]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 26
+[2025.11.14-19.49.45:343][774]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 25
+[2025.11.14-19.49.45:391][774]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2025.11.14-19.49.45:400][774]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 63
+[2025.11.14-19.49.45:401][774]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2025.11.14-19.49.45:928][774]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 64
+[2025.11.14-19.49.45:928][774]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 63
+[2025.11.14-19.49.45:928][774]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 62
+[2025.11.14-19.49.45:928][774]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 61
+[2025.11.14-19.49.45:928][774]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 60
+[2025.11.14-19.49.45:928][774]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 59
+[2025.11.14-19.49.45:928][774]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 58
+[2025.11.14-19.49.45:928][774]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 57
+[2025.11.14-19.49.45:928][774]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 56
+[2025.11.14-19.49.45:928][774]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 55
+[2025.11.14-19.49.46:456][774]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 54
+[2025.11.14-19.49.46:456][774]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 53
+[2025.11.14-19.49.46:456][774]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 52
+[2025.11.14-19.49.46:456][774]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 51
+[2025.11.14-19.49.46:456][774]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 50
+[2025.11.14-19.49.46:456][774]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 49
+[2025.11.14-19.49.46:456][774]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 48
+[2025.11.14-19.49.46:456][774]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 47
+[2025.11.14-19.49.46:456][774]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 46
+[2025.11.14-19.49.46:456][774]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 45
+[2025.11.14-19.49.46:456][774]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 44
+[2025.11.14-19.49.46:456][774]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 43
+[2025.11.14-19.49.46:984][774]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 42
+[2025.11.14-19.49.46:984][774]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 41
+[2025.11.14-19.49.46:984][774]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 40
+[2025.11.14-19.49.46:984][774]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 39
+[2025.11.14-19.49.46:984][774]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 34
+[2025.11.14-19.49.46:984][774]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 29
+[2025.11.14-19.49.46:984][774]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 25
+[2025.11.14-19.49.46:984][774]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 21
+[2025.11.14-19.49.46:984][774]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2025.11.14-19.49.46:984][774]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2025.11.14-19.49.47:036][774]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2025.11.14-19.49.47:041][774]TextureStreamingBuild: Display: Compiling optional shaders took 1.646 seconds.
+[2025.11.14-19.49.47:083][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.11.14-19.49.48:218][774]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2025.11.14-19.49.48:218][774]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2025.11.14-19.49.48:218][774]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2025.11.14-19.49.48:218][774]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2025.11.14-19.49.48:218][774]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2025.11.14-19.49.48:218][774]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2025.11.14-19.49.48:744][774]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2025.11.14-19.49.48:744][774]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2025.11.14-19.49.48:744][774]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2025.11.14-19.49.48:860][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone_Dispay_Mat" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone_Dispay_Mat.uasset" SILENT=true
+[2025.11.14-19.49.48:868][774]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone_Dispay_Mat40A3C31E409359B28519AD801FBC4FB6.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone_Dispay_Mat.uasset'
+[2025.11.14-19.49.48:915][774]AssetCheck: New page: Asset Save: Phone_Dispay_Mat
+[2025.11.14-19.49.48:915][774]LogContentValidation: Display: Validating Material /Game/Enemy/Phone/Phone_Dispay_Mat.Phone_Dispay_Mat
+[2025.11.14-19.49.48:918][774]MaterialEditorStats: Base pass shader: 119 instructions
+[2025.11.14-19.49.48:918][774]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2025.11.14-19.49.48:918][774]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2025.11.14-19.49.48:918][774]MaterialEditorStats: Base pass vertex shader: 86 instructions
+[2025.11.14-19.49.48:918][774]MaterialEditorStats: Texture samplers: 3/16
+[2025.11.14-19.50.00:273][446]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.50.00:336][447]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2025.11.14-19.50.00:336][447]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2025.11.14-19.50.00:336][447]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2025.11.14-19.50.00:336][447]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.50.00:336][447]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2025.11.14-19.50.00:336][447]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2025.11.14-19.50.00:336][447]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2025.11.14-19.50.00:336][447]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2025.11.14-19.50.00:742][466]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2025.11.14-19.50.00:742][466]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2025.11.14-19.50.00:857][472]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2025.11.14-19.50.00:926][476]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2025.11.14-19.50.00:964][477]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2025.11.14-19.50.00:964][477]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2025.11.14-19.50.00:964][477]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2025.11.14-19.50.00:976][478]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2025.11.14-19.50.01:092][485]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2025.11.14-19.50.01:264][494]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2025.11.14-19.50.01:317][497]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2025.11.14-19.50.01:347][499]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2025.11.14-19.50.01:396][502]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2025.11.14-19.50.01:580][511]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2025.11.14-19.50.01:580][511]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2025.11.14-19.50.01:580][511]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2025.11.14-19.50.01:599][512]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2025.11.14-19.50.01:663][516]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2025.11.14-19.50.01:887][525]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2025.11.14-19.50.02:385][552]MaterialEditorStats: Base pass shader: 119 instructions
+[2025.11.14-19.50.02:385][552]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2025.11.14-19.50.02:385][552]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2025.11.14-19.50.02:385][552]MaterialEditorStats: Base pass vertex shader: 86 instructions
+[2025.11.14-19.50.02:385][552]MaterialEditorStats: Texture samplers: 2/16
+[2025.11.14-19.50.02:522][560]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.50.02:574][561]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2025.11.14-19.50.02:574][561]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2025.11.14-19.50.02:574][561]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2025.11.14-19.50.02:574][561]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.50.02:574][561]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2025.11.14-19.50.02:574][561]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2025.11.14-19.50.02:574][561]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2025.11.14-19.50.02:574][561]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2025.11.14-19.50.02:965][584]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2025.11.14-19.50.02:965][584]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2025.11.14-19.50.03:111][593]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2025.11.14-19.50.03:111][593]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2025.11.14-19.50.03:162][596]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2025.11.14-19.50.03:177][597]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2025.11.14-19.50.03:178][597]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2025.11.14-19.50.03:195][598]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2025.11.14-19.50.03:295][604]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2025.11.14-19.50.03:417][611]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2025.11.14-19.50.03:547][619]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2025.11.14-19.50.03:548][619]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2025.11.14-19.50.03:634][624]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2025.11.14-19.50.03:798][634]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2025.11.14-19.50.03:798][634]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2025.11.14-19.50.03:798][634]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2025.11.14-19.50.03:798][634]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2025.11.14-19.50.03:829][636]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2025.11.14-19.50.04:120][653]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2025.11.14-19.50.04:590][681]MaterialEditorStats: Base pass shader: 119 instructions
+[2025.11.14-19.50.04:590][681]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2025.11.14-19.50.04:590][681]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2025.11.14-19.50.04:590][681]MaterialEditorStats: Base pass vertex shader: 86 instructions
+[2025.11.14-19.50.04:590][681]MaterialEditorStats: Texture samplers: 2/16
+[2025.11.14-19.50.15:720][340]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.50.15:776][341]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2025.11.14-19.50.15:776][341]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2025.11.14-19.50.15:776][341]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2025.11.14-19.50.15:776][341]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.50.15:776][341]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2025.11.14-19.50.15:776][341]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2025.11.14-19.50.15:776][341]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2025.11.14-19.50.15:776][341]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2025.11.14-19.50.16:126][358]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2025.11.14-19.50.16:142][359]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2025.11.14-19.50.16:311][367]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2025.11.14-19.50.16:356][370]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2025.11.14-19.50.16:379][371]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2025.11.14-19.50.16:392][372]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2025.11.14-19.50.16:392][372]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2025.11.14-19.50.16:410][373]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2025.11.14-19.50.16:492][378]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2025.11.14-19.50.16:631][386]LogMaterialEditor: Saving and Compiling material Phone_Dispay_Mat
+[2025.11.14-19.50.17:410][386]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2025.11.14-19.50.17:410][386]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2025.11.14-19.50.17:410][386]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2025.11.14-19.50.17:410][386]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2025.11.14-19.50.17:410][386]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2025.11.14-19.50.17:410][386]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2025.11.14-19.50.17:410][386]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2025.11.14-19.50.17:410][386]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2025.11.14-19.50.17:410][386]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2025.11.14-19.50.17:410][386]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2025.11.14-19.50.17:425][386]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.50.17:469][386]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2025.11.14-19.50.17:470][386]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 26
+[2025.11.14-19.50.17:470][386]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2025.11.14-19.50.17:513][386]LogMaterial: Display: Missing cached shader map for material Phone_Dispay_Mat, compiling. 
+[2025.11.14-19.50.17:602][386]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2025.11.14-19.50.17:615][386]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2025.11.14-19.50.18:142][386]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 65
+[2025.11.14-19.50.18:142][386]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 64
+[2025.11.14-19.50.18:142][386]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 63
+[2025.11.14-19.50.18:142][386]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 62
+[2025.11.14-19.50.18:142][386]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 61
+[2025.11.14-19.50.18:142][386]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 60
+[2025.11.14-19.50.18:142][386]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 59
+[2025.11.14-19.50.18:142][386]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 58
+[2025.11.14-19.50.18:142][386]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 57
+[2025.11.14-19.50.18:142][386]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 56
+[2025.11.14-19.50.18:142][386]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 55
+[2025.11.14-19.50.18:142][386]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 54
+[2025.11.14-19.50.18:665][386]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 53
+[2025.11.14-19.50.18:665][386]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 52
+[2025.11.14-19.50.18:665][386]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 51
+[2025.11.14-19.50.18:665][386]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 50
+[2025.11.14-19.50.18:665][386]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 49
+[2025.11.14-19.50.18:665][386]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 48
+[2025.11.14-19.50.18:665][386]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 47
+[2025.11.14-19.50.18:665][386]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 46
+[2025.11.14-19.50.18:665][386]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 45
+[2025.11.14-19.50.18:665][386]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 44
+[2025.11.14-19.50.18:665][386]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 43
+[2025.11.14-19.50.19:192][386]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 42
+[2025.11.14-19.50.19:192][386]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 41
+[2025.11.14-19.50.19:192][386]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 40
+[2025.11.14-19.50.19:192][386]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 39
+[2025.11.14-19.50.19:192][386]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 33
+[2025.11.14-19.50.19:349][386]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 28
+[2025.11.14-19.50.19:349][386]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 24
+[2025.11.14-19.50.19:349][386]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2025.11.14-19.50.19:349][386]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2025.11.14-19.50.19:349][386]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2025.11.14-19.50.19:349][386]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2025.11.14-19.50.19:354][386]TextureStreamingBuild: Display: Compiling optional shaders took 1.746 seconds.
+[2025.11.14-19.50.19:399][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.11.14-19.50.20:521][386]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2025.11.14-19.50.20:521][386]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2025.11.14-19.50.20:521][386]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2025.11.14-19.50.20:521][386]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2025.11.14-19.50.21:044][386]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2025.11.14-19.50.21:044][386]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2025.11.14-19.50.21:044][386]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2025.11.14-19.50.21:044][386]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2025.11.14-19.50.21:336][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone_Dispay_Mat" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone_Dispay_Mat.uasset" SILENT=true
+[2025.11.14-19.50.21:346][386]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone_Dispay_Mat1E29EE254473D02A5D4E7A9816163527.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone_Dispay_Mat.uasset'
+[2025.11.14-19.50.21:385][386]AssetCheck: New page: Asset Save: Phone_Dispay_Mat
+[2025.11.14-19.50.21:385][386]LogContentValidation: Display: Validating Material /Game/Enemy/Phone/Phone_Dispay_Mat.Phone_Dispay_Mat
+[2025.11.14-19.50.21:396][386]MaterialEditorStats: Base pass shader: 119 instructions
+[2025.11.14-19.50.21:396][386]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2025.11.14-19.50.21:396][386]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2025.11.14-19.50.21:396][386]MaterialEditorStats: Base pass vertex shader: 86 instructions
+[2025.11.14-19.50.21:396][386]MaterialEditorStats: Texture samplers: 3/16
+[2025.11.14-19.50.27:634][752]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.50.27:681][752]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2025.11.14-19.50.27:681][752]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2025.11.14-19.50.27:681][752]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2025.11.14-19.50.27:681][752]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.50.27:681][752]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2025.11.14-19.50.27:681][752]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2025.11.14-19.50.27:681][752]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2025.11.14-19.50.27:681][752]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2025.11.14-19.50.28:073][769]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2025.11.14-19.50.28:073][769]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2025.11.14-19.50.28:229][776]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2025.11.14-19.50.28:274][778]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2025.11.14-19.50.28:274][778]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2025.11.14-19.50.28:306][780]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2025.11.14-19.50.28:320][781]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2025.11.14-19.50.28:351][783]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2025.11.14-19.50.28:451][789]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2025.11.14-19.50.28:709][796]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2025.11.14-19.50.28:709][796]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2025.11.14-19.50.28:719][797]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2025.11.14-19.50.28:791][797]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2025.11.14-19.50.28:910][805]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2025.11.14-19.50.28:924][806]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2025.11.14-19.50.28:924][806]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2025.11.14-19.50.29:007][811]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2025.11.14-19.50.29:007][811]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2025.11.14-19.50.29:217][823]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.50.29:288][824]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 27
+[2025.11.14-19.50.29:412][831]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 26
+[2025.11.14-19.50.29:429][832]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2025.11.14-19.50.29:507][836]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.50.29:711][846]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 23
+[2025.11.14-19.50.29:757][846]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2025.11.14-19.50.29:758][846]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 21
+[2025.11.14-19.50.29:875][849]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2025.11.14-19.50.29:875][849]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2025.11.14-19.50.29:914][851]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2025.11.14-19.50.29:945][853]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2025.11.14-19.50.30:123][862]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2025.11.14-19.50.30:141][863]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2025.11.14-19.50.30:219][868]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2025.11.14-19.50.30:377][876]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2025.11.14-19.50.30:377][876]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2025.11.14-19.50.30:396][877]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2025.11.14-19.50.30:477][882]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2025.11.14-19.50.30:478][882]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2025.11.14-19.50.30:546][886]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2025.11.14-19.50.30:571][887]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.50.30:729][892]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 27
+[2025.11.14-19.50.30:729][892]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 26
+[2025.11.14-19.50.30:811][896]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2025.11.14-19.50.30:811][896]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.50.30:945][904]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 23
+[2025.11.14-19.50.30:979][906]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 22
+[2025.11.14-19.50.31:200][919]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2025.11.14-19.50.31:263][922]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2025.11.14-19.50.31:314][925]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2025.11.14-19.50.31:314][925]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2025.11.14-19.50.31:361][928]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2025.11.14-19.50.31:411][931]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2025.11.14-19.50.31:446][933]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2025.11.14-19.50.31:574][937]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 14
+[2025.11.14-19.50.31:714][944]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2025.11.14-19.50.31:748][946]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2025.11.14-19.50.31:779][948]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2025.11.14-19.50.31:846][952]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2025.11.14-19.50.31:902][955]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2025.11.14-19.50.32:002][961]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2025.11.14-19.50.32:103][967]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2025.11.14-19.50.32:103][967]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2025.11.14-19.50.32:216][974]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2025.11.14-19.50.32:247][976]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2025.11.14-19.50.32:367][983]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2025.11.14-19.50.32:367][983]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2025.11.14-19.50.32:630][996]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2025.11.14-19.50.33:143][ 23]MaterialEditorStats: Base pass shader: 120 instructions
+[2025.11.14-19.50.33:143][ 23]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2025.11.14-19.50.33:143][ 23]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2025.11.14-19.50.33:143][ 23]MaterialEditorStats: Base pass vertex shader: 86 instructions
+[2025.11.14-19.50.33:143][ 23]MaterialEditorStats: Texture samplers: 2/16
+[2025.11.14-19.50.33:630][ 52]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.50.33:647][ 52]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2025.11.14-19.50.33:655][ 52]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 31
+[2025.11.14-19.50.33:655][ 52]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 30
+[2025.11.14-19.50.33:655][ 52]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 29
+[2025.11.14-19.50.33:655][ 52]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 28
+[2025.11.14-19.50.33:655][ 52]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 27
+[2025.11.14-19.50.33:655][ 52]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 26
+[2025.11.14-19.50.33:655][ 52]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 25
+[2025.11.14-19.50.33:655][ 52]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 24
+[2025.11.14-19.50.34:085][ 73]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2025.11.14-19.50.34:085][ 73]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 22
+[2025.11.14-19.50.34:198][ 77]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2025.11.14-19.50.34:263][ 81]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2025.11.14-19.50.34:296][ 83]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 19
+[2025.11.14-19.50.34:329][ 85]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2025.11.14-19.50.34:329][ 85]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 17
+[2025.11.14-19.50.34:329][ 85]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2025.11.14-19.50.34:448][ 92]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2025.11.14-19.50.34:602][101]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2025.11.14-19.50.34:705][107]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2025.11.14-19.50.34:705][107]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2025.11.14-19.50.34:705][107]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2025.11.14-19.50.34:962][122]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2025.11.14-19.50.34:962][122]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2025.11.14-19.50.34:962][122]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2025.11.14-19.50.34:962][122]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2025.11.14-19.50.35:009][125]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2025.11.14-19.50.35:214][136]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2025.11.14-19.50.35:400][147]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2025.11.14-19.50.35:503][153]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2025.11.14-19.50.35:549][156]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2025.11.14-19.50.35:774][169]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2025.11.14-19.50.35:780][169]MaterialEditorStats: Base pass shader: 119 instructions
+[2025.11.14-19.50.35:780][169]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2025.11.14-19.50.35:780][169]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2025.11.14-19.50.35:780][169]MaterialEditorStats: Base pass vertex shader: 86 instructions
+[2025.11.14-19.50.35:780][169]MaterialEditorStats: Texture samplers: 2/16
+[2025.11.14-19.50.37:522][272]LogMaterialEditor: Saving and Compiling material Phone_Dispay_Mat
+[2025.11.14-19.50.38:072][272]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.50.38:105][272]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2025.11.14-19.50.38:105][272]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2025.11.14-19.50.38:105][272]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2025.11.14-19.50.38:105][272]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.50.38:105][272]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2025.11.14-19.50.38:105][272]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2025.11.14-19.50.38:105][272]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2025.11.14-19.50.38:105][272]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2025.11.14-19.50.38:164][272]LogMaterial: Display: Missing cached shader map for material Phone_Dispay_Mat, compiling. 
+[2025.11.14-19.50.38:241][272]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2025.11.14-19.50.38:248][272]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2025.11.14-19.50.38:780][272]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 60
+[2025.11.14-19.50.38:780][272]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 59
+[2025.11.14-19.50.38:780][272]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 58
+[2025.11.14-19.50.38:780][272]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 57
+[2025.11.14-19.50.38:780][272]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 56
+[2025.11.14-19.50.38:780][272]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 55
+[2025.11.14-19.50.38:780][272]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 54
+[2025.11.14-19.50.38:780][272]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 53
+[2025.11.14-19.50.38:780][272]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 52
+[2025.11.14-19.50.39:307][272]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 51
+[2025.11.14-19.50.39:307][272]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 50
+[2025.11.14-19.50.39:307][272]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 49
+[2025.11.14-19.50.39:307][272]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 48
+[2025.11.14-19.50.39:307][272]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 47
+[2025.11.14-19.50.39:307][272]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 46
+[2025.11.14-19.50.39:307][272]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 45
+[2025.11.14-19.50.39:307][272]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 44
+[2025.11.14-19.50.39:307][272]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 43
+[2025.11.14-19.50.39:307][272]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 42
+[2025.11.14-19.50.39:776][272]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 41
+[2025.11.14-19.50.39:776][272]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 40
+[2025.11.14-19.50.39:776][272]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 39
+[2025.11.14-19.50.39:776][272]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 34
+[2025.11.14-19.50.39:776][272]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
+[2025.11.14-19.50.39:776][272]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 24
+[2025.11.14-19.50.39:776][272]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 19
+[2025.11.14-19.50.39:776][272]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2025.11.14-19.50.39:776][272]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2025.11.14-19.50.39:776][272]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2025.11.14-19.50.39:780][272]TextureStreamingBuild: Display: Compiling optional shaders took 1.536 seconds.
+[2025.11.14-19.50.39:817][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.11.14-19.50.40:952][272]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2025.11.14-19.50.40:952][272]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2025.11.14-19.50.40:952][272]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2025.11.14-19.50.41:480][272]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2025.11.14-19.50.41:480][272]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2025.11.14-19.50.41:480][272]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2025.11.14-19.50.41:480][272]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2025.11.14-19.50.41:730][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone_Dispay_Mat" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone_Dispay_Mat.uasset" SILENT=true
+[2025.11.14-19.50.41:739][272]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone_Dispay_Mat7735E9E8416189DA410845AB338C52C4.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone_Dispay_Mat.uasset'
+[2025.11.14-19.50.41:777][272]AssetCheck: New page: Asset Save: Phone_Dispay_Mat
+[2025.11.14-19.50.41:777][272]LogContentValidation: Display: Validating Material /Game/Enemy/Phone/Phone_Dispay_Mat.Phone_Dispay_Mat
+[2025.11.14-19.50.41:784][272]MaterialEditorStats: Base pass shader: 119 instructions
+[2025.11.14-19.50.41:784][272]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2025.11.14-19.50.41:784][272]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2025.11.14-19.50.41:784][272]MaterialEditorStats: Base pass vertex shader: 86 instructions
+[2025.11.14-19.50.41:784][272]MaterialEditorStats: Texture samplers: 3/16
+[2025.11.14-19.51.41:321][ 48]LogMaterialEditor: Saving and Compiling material Phone_Dispay_Mat
+[2025.11.14-19.51.41:856][ 48]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.51.41:929][ 48]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2025.11.14-19.51.41:929][ 48]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2025.11.14-19.51.41:929][ 48]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2025.11.14-19.51.41:929][ 48]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.51.41:929][ 48]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2025.11.14-19.51.41:929][ 48]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2025.11.14-19.51.41:929][ 48]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2025.11.14-19.51.41:929][ 48]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2025.11.14-19.51.41:951][ 48]LogMaterial: Display: Missing cached shader map for material Phone_Dispay_Mat, compiling. 
+[2025.11.14-19.51.42:026][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.11.14-19.51.42:036][ 48]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2025.11.14-19.51.42:568][ 48]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 60
+[2025.11.14-19.51.42:568][ 48]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 59
+[2025.11.14-19.51.42:568][ 48]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 58
+[2025.11.14-19.51.43:091][ 48]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 57
+[2025.11.14-19.51.43:091][ 48]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 56
+[2025.11.14-19.51.43:091][ 48]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 55
+[2025.11.14-19.51.43:091][ 48]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 54
+[2025.11.14-19.51.43:091][ 48]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 53
+[2025.11.14-19.51.43:091][ 48]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 52
+[2025.11.14-19.51.43:091][ 48]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 51
+[2025.11.14-19.51.43:091][ 48]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 50
+[2025.11.14-19.51.43:091][ 48]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 49
+[2025.11.14-19.51.43:091][ 48]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 48
+[2025.11.14-19.51.43:621][ 48]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 47
+[2025.11.14-19.51.43:621][ 48]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 46
+[2025.11.14-19.51.43:621][ 48]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 45
+[2025.11.14-19.51.43:621][ 48]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 44
+[2025.11.14-19.51.43:621][ 48]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 43
+[2025.11.14-19.51.43:621][ 48]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 42
+[2025.11.14-19.51.43:621][ 48]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 41
+[2025.11.14-19.51.43:989][ 48]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 40
+[2025.11.14-19.51.43:989][ 48]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 39
+[2025.11.14-19.51.43:989][ 48]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 34
+[2025.11.14-19.51.43:989][ 48]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 29
+[2025.11.14-19.51.43:989][ 48]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2025.11.14-19.51.43:989][ 48]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2025.11.14-19.51.43:989][ 48]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2025.11.14-19.51.43:989][ 48]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2025.11.14-19.51.43:989][ 48]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2025.11.14-19.51.44:073][ 48]TextureStreamingBuild: Display: Compiling optional shaders took 2.043 seconds.
+[2025.11.14-19.51.44:117][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.11.14-19.51.45:253][ 48]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2025.11.14-19.51.45:253][ 48]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2025.11.14-19.51.45:253][ 48]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2025.11.14-19.51.45:783][ 48]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2025.11.14-19.51.45:783][ 48]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2025.11.14-19.51.45:783][ 48]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2025.11.14-19.51.45:783][ 48]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2025.11.14-19.51.46:101][ 48]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2025.11.14-19.51.46:101][ 48]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2025.11.14-19.51.46:127][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone_Dispay_Mat" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone_Dispay_Mat.uasset" SILENT=true
+[2025.11.14-19.51.46:136][ 48]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone_Dispay_MatBD36F7794A93D0ACA99A799532472C82.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone_Dispay_Mat.uasset'
+[2025.11.14-19.51.46:182][ 48]AssetCheck: New page: Asset Save: Phone_Dispay_Mat
+[2025.11.14-19.51.46:182][ 48]LogContentValidation: Display: Validating Material /Game/Enemy/Phone/Phone_Dispay_Mat.Phone_Dispay_Mat
+[2025.11.14-19.51.46:953][ 73]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.11.14-19.51.46:953][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.51.48:288][141]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.11.14-19.51.48:289][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.51.49:521][206]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.11.14-19.51.49:521][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.51.51:062][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-19.51.51:122][285]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2025.11.14-19.51.51:134][285]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/MainEE2F0C31418B26693F372A99E4B1BECF.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-19.51.51:174][285]AssetCheck: New page: Asset Save: Main
+[2025.11.14-19.51.51:174][285]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-19.51.52:440][359]AssetReimport: New page: Outstanding source content changes 11:51:52 PM
+[2025.11.14-19.51.52:446][359]LogEditorFactories: Performing atomic reimport of [C:/Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/DoomScrollPhone.fbx]
+[2025.11.14-19.51.52:454][359]LogFbx: Loading FBX Scene from C:/Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/DoomScrollPhone.fbx
+[2025.11.14-19.51.52:460][359]LogFbx: FBX Scene Loaded Succesfully
+[2025.11.14-19.51.52:461][359]LogFbx: Valid bind pose for Pose (Plane.002) - Phone
+[2025.11.14-19.51.52:469][359]LogSkeletalMesh: Section 0: 93 vertices, 1 active bones
+[2025.11.14-19.51.52:469][359]LogSkeletalMesh: Section 1: 16 vertices, 1 active bones
+[2025.11.14-19.51.52:469][359]LogSkeletalMesh: Section 0: Material=0, 88 triangles
+[2025.11.14-19.51.52:469][359]LogSkeletalMesh: Section 1: Material=1, 14 triangles
+[2025.11.14-19.51.52:469][359]LogEditorFactories: -- imported successfully
+[2025.11.14-19.51.52:471][359]LogSkeletalMesh: Building Skeletal Mesh DoomScrollPhone...
+[2025.11.14-19.51.52:473][359]LogSkeletalMesh: Section 0: 93 vertices, 1 active bones
+[2025.11.14-19.51.52:474][359]LogSkeletalMesh: Section 1: 16 vertices, 1 active bones
+[2025.11.14-19.51.52:474][359]LogSkeletalMesh: Section 0: Material=0, 88 triangles
+[2025.11.14-19.51.52:474][359]LogSkeletalMesh: Section 1: Material=1, 14 triangles
+[2025.11.14-19.51.52:474][359]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Enemy/Phone/DoomScrollPhone.DoomScrollPhone
+[2025.11.14-19.51.52:696][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/DoomScrollPhone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/DoomScrollPhone.uasset" SILENT=true
+[2025.11.14-19.51.52:712][360]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/DoomScrollPhoneF7FB3CC44F52F176E0CF5CA1C924A74D.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/DoomScrollPhone.uasset'
+[2025.11.14-19.51.52:855][361]AssetCheck: New page: Asset Save: DoomScrollPhone
+[2025.11.14-19.51.52:855][361]LogContentValidation: Display: Validating SkeletalMesh /Game/Enemy/Phone/DoomScrollPhone.DoomScrollPhone
+[2025.11.14-19.51.53:800][413]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-19.51.54:714][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-19.51.54:754][464]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2025.11.14-19.51.54:764][464]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Main985BDB0A4A486A54BF81E49D801FEE7B.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-19.51.54:807][464]AssetCheck: New page: Asset Save: Main
+[2025.11.14-19.51.54:807][464]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-19.51.55:832][524]AssetReimport: Reimported asset DoomScrollPhone from C:/Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/DoomScrollPhone.fbx.
+[2025.11.14-19.52.01:873][865]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-19.52.06:137][118]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (DoomScrollPhone)
+[2025.11.14-19.52.06:774][154]Cmd: EDIT CUT
+[2025.11.14-19.52.06:782][154]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2025.11.14-19.52.06:822][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.11.14-19.52.06:826][154]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2025.11.14-19.52.07:204][177]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-19.52.07:324][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-19.52.07:376][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.11.14-19.52.07:385][181]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Main31F3223A4B2B8DB5ECE4CFA21389EDEB.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-19.52.07:429][181]AssetCheck: New page: Asset Save: Main
+[2025.11.14-19.52.07:429][181]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-19.52.23:771][138]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.52.23:792][138]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2025.11.14-19.52.23:828][139]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2025.11.14-19.52.23:828][139]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2025.11.14-19.52.23:828][139]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2025.11.14-19.52.23:828][139]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.52.23:828][139]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2025.11.14-19.52.23:828][139]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2025.11.14-19.52.23:828][139]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2025.11.14-19.52.23:828][139]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2025.11.14-19.52.24:484][169]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2025.11.14-19.52.24:484][169]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2025.11.14-19.52.24:605][176]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2025.11.14-19.52.24:652][179]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2025.11.14-19.52.24:652][179]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2025.11.14-19.52.24:721][182]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2025.11.14-19.52.24:722][182]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2025.11.14-19.52.24:760][184]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2025.11.14-19.52.24:850][189]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2025.11.14-19.52.25:054][199]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2025.11.14-19.52.25:140][202]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2025.11.14-19.52.25:179][203]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2025.11.14-19.52.25:244][207]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2025.11.14-19.52.25:388][215]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2025.11.14-19.52.25:437][218]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2025.11.14-19.52.25:497][220]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2025.11.14-19.52.25:498][220]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2025.11.14-19.52.25:498][220]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2025.11.14-19.52.25:812][238]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2025.11.14-19.52.26:402][268]MaterialEditorStats: Base pass shader: 119 instructions
+[2025.11.14-19.52.26:402][268]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2025.11.14-19.52.26:402][268]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2025.11.14-19.52.26:402][268]MaterialEditorStats: Base pass vertex shader: 86 instructions
+[2025.11.14-19.52.26:402][268]MaterialEditorStats: Texture samplers: 2/16
+[2025.11.14-19.52.30:300][492]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.52.30:346][492]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2025.11.14-19.52.30:346][492]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2025.11.14-19.52.30:346][492]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2025.11.14-19.52.30:346][492]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.52.30:346][492]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2025.11.14-19.52.30:346][492]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2025.11.14-19.52.30:346][492]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2025.11.14-19.52.30:346][492]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2025.11.14-19.52.30:704][511]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2025.11.14-19.52.30:704][511]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2025.11.14-19.52.30:853][519]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2025.11.14-19.52.30:940][524]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2025.11.14-19.52.30:956][525]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2025.11.14-19.52.30:956][525]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2025.11.14-19.52.30:973][526]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2025.11.14-19.52.30:974][526]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2025.11.14-19.52.31:057][531]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2025.11.14-19.52.31:340][543]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2025.11.14-19.52.31:340][543]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2025.11.14-19.52.31:340][543]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2025.11.14-19.52.31:371][544]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2025.11.14-19.52.31:536][554]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2025.11.14-19.52.31:567][556]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2025.11.14-19.52.31:567][556]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2025.11.14-19.52.31:599][558]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2025.11.14-19.52.31:667][562]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2025.11.14-19.52.31:674][562]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.52.31:675][562]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2025.11.14-19.52.31:675][562]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2025.11.14-19.52.31:685][562]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2025.11.14-19.52.31:720][562]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2025.11.14-19.52.40:813][ 44]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.52.40:834][ 44]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2025.11.14-19.52.40:842][ 44]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2025.11.14-19.52.40:843][ 44]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2025.11.14-19.52.40:843][ 44]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2025.11.14-19.52.40:843][ 44]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.52.40:843][ 44]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2025.11.14-19.52.40:843][ 44]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2025.11.14-19.52.40:843][ 44]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2025.11.14-19.52.40:843][ 44]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2025.11.14-19.52.40:850][ 44]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.52.41:256][ 58]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 31
+[2025.11.14-19.52.41:256][ 58]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 30
+[2025.11.14-19.52.41:421][ 68]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 29
+[2025.11.14-19.52.41:489][ 72]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 28
+[2025.11.14-19.52.41:506][ 73]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 27
+[2025.11.14-19.52.41:522][ 74]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 26
+[2025.11.14-19.52.41:522][ 74]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2025.11.14-19.52.41:571][ 77]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2025.11.14-19.52.41:803][ 89]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 23
+[2025.11.14-19.52.41:873][ 92]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2025.11.14-19.52.41:976][ 98]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 21
+[2025.11.14-19.52.42:041][102]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2025.11.14-19.52.42:109][106]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 19
+[2025.11.14-19.52.42:109][106]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2025.11.14-19.52.42:226][113]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2025.11.14-19.52.42:257][115]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2025.11.14-19.52.42:277][116]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2025.11.14-19.52.42:444][126]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2025.11.14-19.52.42:500][129]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2025.11.14-19.52.42:554][132]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2025.11.14-19.52.42:614][136]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2025.11.14-19.52.42:666][139]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2025.11.14-19.52.42:735][143]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2025.11.14-19.52.42:835][149]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2025.11.14-19.52.42:904][151]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2025.11.14-19.52.42:904][151]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2025.11.14-19.52.43:036][159]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2025.11.14-19.52.43:070][161]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2025.11.14-19.52.43:191][168]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2025.11.14-19.52.43:191][168]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2025.11.14-19.52.43:455][181]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2025.11.14-19.52.43:949][210]MaterialEditorStats: Base pass shader: 123 instructions
+[2025.11.14-19.52.43:949][210]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2025.11.14-19.52.43:949][210]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2025.11.14-19.52.43:949][210]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2025.11.14-19.52.43:949][210]MaterialEditorStats: Texture samplers: 3/16
+[2025.11.14-19.52.43:949][210]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2025.11.14-19.52.43:949][210]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.11.14-19.52.45:893][326]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.52.45:913][326]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2025.11.14-19.52.45:913][326]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2025.11.14-19.52.45:913][326]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2025.11.14-19.52.45:913][326]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.52.45:913][326]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2025.11.14-19.52.45:913][326]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2025.11.14-19.52.45:913][326]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2025.11.14-19.52.45:913][326]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2025.11.14-19.52.45:922][326]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2025.11.14-19.52.45:931][326]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2025.11.14-19.52.46:293][342]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2025.11.14-19.52.46:311][343]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 26
+[2025.11.14-19.52.46:482][352]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 25
+[2025.11.14-19.52.46:509][353]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 24
+[2025.11.14-19.52.46:577][357]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 23
+[2025.11.14-19.52.46:577][357]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2025.11.14-19.52.46:592][358]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 21
+[2025.11.14-19.52.46:592][358]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2025.11.14-19.52.46:673][363]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2025.11.14-19.52.46:888][375]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 18
+[2025.11.14-19.52.46:973][380]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2025.11.14-19.52.46:973][380]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2025.11.14-19.52.47:036][384]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2025.11.14-19.52.47:203][394]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2025.11.14-19.52.47:253][397]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2025.11.14-19.52.47:270][398]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2025.11.14-19.52.47:270][398]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2025.11.14-19.52.47:270][398]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2025.11.14-19.52.47:538][413]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2025.11.14-19.52.47:679][421]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2025.11.14-19.52.47:801][428]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2025.11.14-19.52.47:817][429]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2025.11.14-19.52.48:113][440]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2025.11.14-19.52.48:113][440]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2025.11.14-19.52.48:113][440]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2025.11.14-19.52.48:133][441]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2025.11.14-19.52.48:133][441]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2025.11.14-19.52.48:189][442]MaterialEditorStats: Base pass shader: 123 instructions
+[2025.11.14-19.52.48:189][442]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2025.11.14-19.52.48:189][442]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2025.11.14-19.52.48:189][442]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2025.11.14-19.52.48:189][442]MaterialEditorStats: Texture samplers: 3/16
+[2025.11.14-19.52.48:189][442]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2025.11.14-19.52.48:189][442]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.11.14-19.52.48:720][470]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.52.48:739][470]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2025.11.14-19.52.48:739][470]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2025.11.14-19.52.48:739][470]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2025.11.14-19.52.48:739][470]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.52.48:739][470]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2025.11.14-19.52.48:739][470]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2025.11.14-19.52.48:739][470]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2025.11.14-19.52.48:739][470]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2025.11.14-19.52.48:741][470]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2025.11.14-19.52.49:173][492]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2025.11.14-19.52.49:173][492]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 22
+[2025.11.14-19.52.49:323][500]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2025.11.14-19.52.49:387][504]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2025.11.14-19.52.49:422][506]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 19
+[2025.11.14-19.52.49:438][507]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2025.11.14-19.52.49:438][507]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2025.11.14-19.52.49:456][508]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2025.11.14-19.52.49:540][513]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2025.11.14-19.52.49:758][526]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2025.11.14-19.52.49:789][528]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2025.11.14-19.52.49:824][530]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2025.11.14-19.52.49:824][530]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2025.11.14-19.52.50:087][542]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2025.11.14-19.52.50:087][542]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2025.11.14-19.52.50:087][542]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2025.11.14-19.52.50:153][546]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2025.11.14-19.52.50:185][548]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2025.11.14-19.52.50:367][556]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2025.11.14-19.52.50:556][562]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2025.11.14-19.52.50:646][567]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2025.11.14-19.52.50:676][569]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2025.11.14-19.52.50:897][582]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2025.11.14-19.52.51:009][588]MaterialEditorStats: Base pass shader: 121 instructions
+[2025.11.14-19.52.51:010][588]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2025.11.14-19.52.51:010][588]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2025.11.14-19.52.51:010][588]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2025.11.14-19.52.51:010][588]MaterialEditorStats: Texture samplers: 3/16
+[2025.11.14-19.52.51:010][588]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2025.11.14-19.52.51:010][588]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.11.14-19.52.51:458][615]LogMaterialEditor: Saving and Compiling material Phone_Dispay_Mat
+[2025.11.14-19.52.52:031][615]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.52.52:070][615]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2025.11.14-19.52.52:070][615]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2025.11.14-19.52.52:070][615]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2025.11.14-19.52.52:070][615]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.52.52:070][615]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2025.11.14-19.52.52:070][615]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2025.11.14-19.52.52:070][615]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2025.11.14-19.52.52:070][615]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2025.11.14-19.52.52:119][615]LogMaterial: Display: Missing cached shader map for material Phone_Dispay_Mat, compiling. 
+[2025.11.14-19.52.52:197][615]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2025.11.14-19.52.52:209][615]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2025.11.14-19.52.52:739][615]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 60
+[2025.11.14-19.52.52:739][615]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 59
+[2025.11.14-19.52.52:739][615]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 58
+[2025.11.14-19.52.52:739][615]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 57
+[2025.11.14-19.52.52:739][615]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 56
+[2025.11.14-19.52.52:739][615]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 55
+[2025.11.14-19.52.52:739][615]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 54
+[2025.11.14-19.52.52:739][615]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 53
+[2025.11.14-19.52.52:739][615]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 52
+[2025.11.14-19.52.53:269][615]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 51
+[2025.11.14-19.52.53:269][615]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 50
+[2025.11.14-19.52.53:269][615]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 49
+[2025.11.14-19.52.53:269][615]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 48
+[2025.11.14-19.52.53:269][615]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 47
+[2025.11.14-19.52.53:269][615]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 46
+[2025.11.14-19.52.53:269][615]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 45
+[2025.11.14-19.52.53:269][615]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 44
+[2025.11.14-19.52.53:269][615]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 43
+[2025.11.14-19.52.53:757][615]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 42
+[2025.11.14-19.52.53:757][615]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 41
+[2025.11.14-19.52.53:757][615]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 40
+[2025.11.14-19.52.53:757][615]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 39
+[2025.11.14-19.52.53:757][615]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 33
+[2025.11.14-19.52.53:757][615]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 28
+[2025.11.14-19.52.53:757][615]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.52.53:757][615]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 20
+[2025.11.14-19.52.53:757][615]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2025.11.14-19.52.53:757][615]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2025.11.14-19.52.53:757][615]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2025.11.14-19.52.53:761][615]TextureStreamingBuild: Display: Compiling optional shaders took 1.557 seconds.
+[2025.11.14-19.52.53:824][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.11.14-19.52.54:954][615]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2025.11.14-19.52.54:954][615]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2025.11.14-19.52.54:954][615]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2025.11.14-19.52.54:954][615]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2025.11.14-19.52.55:477][615]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2025.11.14-19.52.55:477][615]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2025.11.14-19.52.55:477][615]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2025.11.14-19.52.55:477][615]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2025.11.14-19.52.55:689][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone_Dispay_Mat" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone_Dispay_Mat.uasset" SILENT=true
+[2025.11.14-19.52.55:700][615]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone_Dispay_MatF80406A34D998D903324EE80AAA6F22D.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone_Dispay_Mat.uasset'
+[2025.11.14-19.52.55:761][615]AssetCheck: New page: Asset Save: Phone_Dispay_Mat
+[2025.11.14-19.52.55:761][615]LogContentValidation: Display: Validating Material /Game/Enemy/Phone/Phone_Dispay_Mat.Phone_Dispay_Mat
+[2025.11.14-19.52.55:763][615]MaterialEditorStats: Base pass shader: 121 instructions
+[2025.11.14-19.52.55:763][615]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2025.11.14-19.52.55:763][615]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2025.11.14-19.52.55:763][615]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2025.11.14-19.52.55:763][615]MaterialEditorStats: Texture samplers: 4/16
+[2025.11.14-19.52.55:763][615]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2025.11.14-19.52.55:763][615]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.11.14-19.52.57:409][711]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.52.57:456][712]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2025.11.14-19.52.57:456][712]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2025.11.14-19.52.57:456][712]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2025.11.14-19.52.57:456][712]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.52.57:456][712]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2025.11.14-19.52.57:456][712]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2025.11.14-19.52.57:456][712]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2025.11.14-19.52.57:456][712]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2025.11.14-19.52.57:839][728]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2025.11.14-19.52.57:856][729]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2025.11.14-19.52.57:960][733]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2025.11.14-19.52.58:030][736]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2025.11.14-19.52.58:081][738]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2025.11.14-19.52.58:081][738]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2025.11.14-19.52.58:081][738]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2025.11.14-19.52.58:096][739]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2025.11.14-19.52.58:207][745]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2025.11.14-19.52.58:408][755]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2025.11.14-19.52.58:487][755]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2025.11.14-19.52.58:507][757]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2025.11.14-19.52.58:507][757]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2025.11.14-19.52.58:707][769]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2025.11.14-19.52.58:707][769]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2025.11.14-19.52.58:707][769]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2025.11.14-19.52.58:743][771]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2025.11.14-19.52.58:797][774]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2025.11.14-19.52.59:048][783]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2025.11.14-19.52.59:586][813]MaterialEditorStats: Base pass shader: 121 instructions
+[2025.11.14-19.52.59:586][813]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2025.11.14-19.52.59:586][813]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2025.11.14-19.52.59:586][813]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2025.11.14-19.52.59:586][813]MaterialEditorStats: Texture samplers: 3/16
+[2025.11.14-19.52.59:586][813]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2025.11.14-19.52.59:586][813]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.11.14-19.53.06:477][220]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.53.06:493][220]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.53.06:545][221]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2025.11.14-19.53.06:546][221]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2025.11.14-19.53.06:546][221]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2025.11.14-19.53.06:546][221]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.53.06:546][221]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2025.11.14-19.53.06:546][221]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2025.11.14-19.53.06:546][221]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2025.11.14-19.53.06:546][221]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2025.11.14-19.53.06:935][243]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2025.11.14-19.53.06:935][243]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2025.11.14-19.53.07:067][247]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2025.11.14-19.53.07:115][250]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2025.11.14-19.53.07:221][256]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2025.11.14-19.53.07:237][257]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2025.11.14-19.53.07:237][257]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2025.11.14-19.53.07:237][257]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2025.11.14-19.53.07:337][263]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2025.11.14-19.53.07:516][273]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2025.11.14-19.53.07:597][278]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2025.11.14-19.53.07:597][278]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2025.11.14-19.53.07:597][278]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2025.11.14-19.53.07:848][293]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2025.11.14-19.53.07:848][293]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2025.11.14-19.53.07:848][293]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2025.11.14-19.53.07:848][293]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2025.11.14-19.53.07:898][296]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2025.11.14-19.53.08:083][303]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2025.11.14-19.53.08:413][321]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.53.08:434][321]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 27
+[2025.11.14-19.53.08:434][321]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 26
+[2025.11.14-19.53.08:434][321]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 25
+[2025.11.14-19.53.08:638][331]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 24
+[2025.11.14-19.53.08:638][331]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 23
+[2025.11.14-19.53.08:638][331]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 22
+[2025.11.14-19.53.08:654][332]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2025.11.14-19.53.08:688][334]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2025.11.14-19.53.08:816][342]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2025.11.14-19.53.08:974][351]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2025.11.14-19.53.09:050][352]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2025.11.14-19.53.09:083][353]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2025.11.14-19.53.09:213][361]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2025.11.14-19.53.09:213][361]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2025.11.14-19.53.09:266][364]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2025.11.14-19.53.09:266][364]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2025.11.14-19.53.09:266][364]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2025.11.14-19.53.09:414][373]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2025.11.14-19.53.09:528][378]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2025.11.14-19.53.09:641][384]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2025.11.14-19.53.09:699][385]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2025.11.14-19.53.09:809][391]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2025.11.14-19.53.09:830][392]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2025.11.14-19.53.09:863][394]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2025.11.14-19.53.09:863][394]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2025.11.14-19.53.09:877][395]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2025.11.14-19.53.10:137][409]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2025.11.14-19.53.10:630][438]MaterialEditorStats: Base pass shader: 121 instructions
+[2025.11.14-19.53.10:630][438]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2025.11.14-19.53.10:630][438]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2025.11.14-19.53.10:630][438]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2025.11.14-19.53.10:630][438]MaterialEditorStats: Texture samplers: 3/16
+[2025.11.14-19.53.10:630][438]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2025.11.14-19.53.10:630][438]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.11.14-19.53.11:347][481]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.53.11:367][481]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.53.11:402][482]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2025.11.14-19.53.11:402][482]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2025.11.14-19.53.11:402][482]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2025.11.14-19.53.11:402][482]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.53.11:403][482]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2025.11.14-19.53.11:403][482]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2025.11.14-19.53.11:403][482]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2025.11.14-19.53.11:403][482]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2025.11.14-19.53.11:802][505]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2025.11.14-19.53.11:802][505]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2025.11.14-19.53.11:961][514]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2025.11.14-19.53.11:983][515]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2025.11.14-19.53.12:047][519]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2025.11.14-19.53.12:063][520]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2025.11.14-19.53.12:063][520]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2025.11.14-19.53.12:063][520]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2025.11.14-19.53.12:163][526]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2025.11.14-19.53.12:333][536]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2025.11.14-19.53.12:403][540]LogMaterialEditor: Saving and Compiling material Phone_Dispay_Mat
+[2025.11.14-19.53.13:192][540]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2025.11.14-19.53.13:192][540]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2025.11.14-19.53.13:192][540]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2025.11.14-19.53.13:192][540]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2025.11.14-19.53.13:192][540]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2025.11.14-19.53.13:192][540]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2025.11.14-19.53.13:192][540]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2025.11.14-19.53.13:192][540]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2025.11.14-19.53.13:192][540]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2025.11.14-19.53.13:204][540]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.53.13:250][540]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 27
+[2025.11.14-19.53.13:250][540]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 26
+[2025.11.14-19.53.13:250][540]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2025.11.14-19.53.13:250][540]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 24
+[2025.11.14-19.53.13:250][540]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 23
+[2025.11.14-19.53.13:264][540]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2025.11.14-19.53.13:264][540]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2025.11.14-19.53.13:264][540]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2025.11.14-19.53.13:264][540]LogMaterial: Display: Missing cached shader map for material Phone_Dispay_Mat, compiling. 
+[2025.11.14-19.53.13:343][540]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2025.11.14-19.53.13:351][540]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2025.11.14-19.53.13:881][540]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 60
+[2025.11.14-19.53.13:881][540]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 59
+[2025.11.14-19.53.13:881][540]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 58
+[2025.11.14-19.53.13:881][540]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 57
+[2025.11.14-19.53.13:881][540]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 56
+[2025.11.14-19.53.13:881][540]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 55
+[2025.11.14-19.53.13:881][540]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 54
+[2025.11.14-19.53.13:881][540]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 53
+[2025.11.14-19.53.13:881][540]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 52
+[2025.11.14-19.53.14:402][540]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 51
+[2025.11.14-19.53.14:402][540]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 50
+[2025.11.14-19.53.14:402][540]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 49
+[2025.11.14-19.53.14:402][540]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 48
+[2025.11.14-19.53.14:402][540]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 47
+[2025.11.14-19.53.14:402][540]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 46
+[2025.11.14-19.53.14:402][540]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 45
+[2025.11.14-19.53.14:402][540]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 44
+[2025.11.14-19.53.14:402][540]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 43
+[2025.11.14-19.53.14:928][540]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 42
+[2025.11.14-19.53.14:928][540]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 41
+[2025.11.14-19.53.14:928][540]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 40
+[2025.11.14-19.53.14:928][540]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 39
+[2025.11.14-19.53.15:002][540]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 34
+[2025.11.14-19.53.15:002][540]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 29
+[2025.11.14-19.53.15:002][540]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 24
+[2025.11.14-19.53.15:002][540]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2025.11.14-19.53.15:002][540]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2025.11.14-19.53.15:002][540]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2025.11.14-19.53.15:002][540]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2025.11.14-19.53.15:006][540]TextureStreamingBuild: Display: Compiling optional shaders took 1.661 seconds.
+[2025.11.14-19.53.15:047][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.11.14-19.53.16:177][540]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2025.11.14-19.53.16:177][540]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2025.11.14-19.53.16:177][540]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2025.11.14-19.53.16:177][540]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2025.11.14-19.53.16:710][540]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2025.11.14-19.53.16:710][540]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2025.11.14-19.53.16:710][540]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2025.11.14-19.53.16:710][540]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2025.11.14-19.53.17:023][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone_Dispay_Mat" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone_Dispay_Mat.uasset" SILENT=true
+[2025.11.14-19.53.17:033][540]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone_Dispay_Mat4E55F77C4BB6752EE960E6AA84C7C858.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone_Dispay_Mat.uasset'
+[2025.11.14-19.53.17:078][540]AssetCheck: New page: Asset Save: Phone_Dispay_Mat
+[2025.11.14-19.53.17:080][540]LogContentValidation: Display: Validating Material /Game/Enemy/Phone/Phone_Dispay_Mat.Phone_Dispay_Mat
+[2025.11.14-19.53.17:081][540]MaterialEditorStats: Base pass shader: 122 instructions
+[2025.11.14-19.53.17:081][540]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2025.11.14-19.53.17:081][540]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2025.11.14-19.53.17:081][540]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2025.11.14-19.53.17:081][540]MaterialEditorStats: Texture samplers: 4/16
+[2025.11.14-19.53.17:081][540]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2025.11.14-19.53.17:081][540]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.11.14-19.53.18:251][610]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-19.53.18:784][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-19.53.18:839][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.11.14-19.53.18:849][639]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/MainF75DBBE940BF8AC53BA48497C3E9A9A6.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-19.53.18:891][639]AssetCheck: New page: Asset Save: Main
+[2025.11.14-19.53.18:891][639]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-19.53.20:196][709]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-19.53.20:689][738]LogTemp: Repeating last play command: Selected Viewport
+[2025.11.14-19.53.20:702][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.14-19.53.20:702][738]PIE: New page: PIE session: Main (Nov 14, 2025, 11:53:20 PM)
+[2025.11.14-19.53.20:702][738]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Main
+[2025.11.14-19.53.20:704][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001580s)
+[2025.11.14-19.53.20:704][738]LogAIModule: Creating AISystem for world Main
+[2025.11.14-19.53.20:704][738]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002452DACFC00), frame # 131738
+[2025.11.14-19.53.20:704][738]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024436359A80), frame # 131738
+[2025.11.14-19.53.20:705][738]LogPlayLevel: PIE: World Init took: (0.001010s)
+[2025.11.14-19.53.20:705][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main.Main to /Game/Levels/UEDPIE_0_Main.Main (0.002687s)
+[2025.11.14-19.53.20:746][738]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2025.11.14-19.53.20:747][738]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.14-19.53.20:747][738]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.14-19.53.20:747][738]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.14-19.53.20:747][738]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.14-19.53.20:747][738]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.11.14-19.53.20:748][738]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.14-19.53.20:748][738]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.11.14-19.53.20:748][738]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.14-19.53.20:748][738]LogAudio: Display: Using built-in audio occlusion.
+[2025.11.14-19.53.20:748][738]LogAudioMixer: Display: Initializing audio mixer.
+[2025.11.14-19.53.20:754][738]LogAudioMixer: Display: 0: FrontLeft
+[2025.11.14-19.53.20:754][738]LogAudioMixer: Display: 1: FrontRight
+[2025.11.14-19.53.20:769][738]LogAudioMixer: Display: Using Audio Device FxSound Speakers (FxSound Audio Enhancer)
+[2025.11.14-19.53.20:769][738]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.14-19.53.20:769][738]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.14-19.53.20:769][738]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.14-19.53.20:770][738]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.11.14-19.53.20:784][738]LogInit: FAudioDevice initialized.
+[2025.11.14-19.53.20:791][738]LogLoad: Game class is 'PlayerGameModeBase_C'
+[2025.11.14-19.53.20:792][738]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2025.11.14-21.53.20
+[2025.11.14-19.53.20:793][738]LogWorld: Bringing up level for play took: 0.000605
+[2025.11.14-19.53.20:793][738]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2025.11.14-19.53.20:795][738]PIE: Server logged in
+[2025.11.14-19.53.20:796][738]PIE: Play in editor total start time 0.095 seconds.
+[2025.11.14-19.53.22:061][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.14-19.53.22:061][811]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Main
+[2025.11.14-19.53.22:061][811]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2025.11.14-19.53.22:062][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.53.22:075][811]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.14-19.53.22:083][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.53.22:154][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.14-19.53.22:154][811]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024436359A80), frame # 131811
+[2025.11.14-19.53.22:154][811]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002452DACFC00), frame # 131811
+[2025.11.14-19.53.22:157][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2025.11.14-19.53.22:187][812]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2025.11.14-19.53.30:258][278]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-19.53.30:825][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-19.53.30:877][309]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2025.11.14-19.53.30:890][309]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Main5A33CD474E2EA6730EAC05A032207930.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-19.53.30:936][309]AssetCheck: New page: Asset Save: Main
+[2025.11.14-19.53.30:936][309]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-19.53.31:401][337]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (DoomScrollPhone)
+[2025.11.14-19.53.33:530][462]Cmd: EDIT CUT
+[2025.11.14-19.53.33:539][462]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2025.11.14-19.53.33:592][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.11.14-19.53.33:594][462]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2025.11.14-19.53.33:948][483]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-19.53.34:100][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-19.53.34:155][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.11.14-19.53.34:164][488]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Main1057F045471DC9100DD1C8A54892654A.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-19.53.34:221][488]AssetCheck: New page: Asset Save: Main
+[2025.11.14-19.53.34:221][488]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-19.53.44:355][ 65]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.11.14-19.53.44:356][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.53.45:193][109]BlueprintLog: New page: Compile Hud
+[2025.11.14-19.53.45:244][109]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2025.11.14-19.53.45:806][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Hud" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/UI/Hud.uasset" SILENT=true
+[2025.11.14-19.53.45:820][135]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Hud1094ECE846341D64A147B29E9C244DB3.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/UI/Hud.uasset'
+[2025.11.14-19.53.45:844][135]AssetCheck: New page: Asset Save: Hud
+[2025.11.14-19.53.45:844][135]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Hud.Hud
+[2025.11.14-19.53.47:466][231]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.11.14-19.53.47:466][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.53.47:488][231]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.11.14-19.53.47:489][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-19.54.04:703][208]BlueprintLog: New page: Compile Phone
+[2025.11.14-19.54.04:783][208]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2025.11.14-19.54.05:027][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-19.54.05:035][220]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone818A942B4C0E4268EF26AE8F4C575F90.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-19.54.05:061][220]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-19.54.05:061][220]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-19.54.11:534][580]BlueprintLog: New page: Compile Phone
+[2025.11.14-19.54.11:612][580]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2025.11.14-19.54.11:879][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-19.54.11:904][592]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone9F6C40CA46F4354957EB60B61410375A.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-19.54.11:937][592]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-19.54.11:937][592]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-19.54.20:860][107]LogEditorTransaction: Undo Edit Capsule Half Height
+[2025.11.14-19.54.20:878][107]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.54.20:901][107]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2025.11.14-19.54.20:901][107]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2025.11.14-19.54.20:901][107]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2025.11.14-19.54.20:901][107]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.54.20:901][107]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2025.11.14-19.54.20:901][107]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2025.11.14-19.54.20:901][107]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2025.11.14-19.54.20:901][107]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2025.11.14-19.54.21:466][121]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2025.11.14-19.54.21:466][121]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2025.11.14-19.54.21:573][127]BlueprintLog: New page: Compile Phone
+[2025.11.14-19.54.21:639][127]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2025.11.14-19.54.21:646][127]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2025.11.14-19.54.21:738][130]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2025.11.14-19.54.21:738][130]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2025.11.14-19.54.21:755][131]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 14
+[2025.11.14-19.54.21:755][131]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2025.11.14-19.54.21:755][131]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2025.11.14-19.54.21:817][132]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2025.11.14-19.54.21:822][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-19.54.21:840][132]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/PhoneAE2F8F5344C8E1627D0F76A77CCE3646.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-19.54.21:861][132]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-19.54.21:861][132]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-19.54.22:096][143]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2025.11.14-19.54.22:144][145]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2025.11.14-19.54.22:180][146]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2025.11.14-19.54.22:180][146]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2025.11.14-19.54.22:431][156]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2025.11.14-19.54.22:431][156]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2025.11.14-19.54.22:467][158]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2025.11.14-19.54.22:467][158]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2025.11.14-19.54.22:467][158]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2025.11.14-19.54.22:798][169]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2025.11.14-19.54.23:350][201]MaterialEditorStats: Base pass shader: 122 instructions
+[2025.11.14-19.54.23:350][201]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2025.11.14-19.54.23:350][201]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2025.11.14-19.54.23:350][201]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2025.11.14-19.54.23:350][201]MaterialEditorStats: Texture samplers: 3/16
+[2025.11.14-19.54.23:350][201]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2025.11.14-19.54.23:350][201]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.11.14-19.54.51:689][723]BlueprintLog: New page: Compile Phone
+[2025.11.14-19.54.51:776][723]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2025.11.14-19.54.52:184][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-19.54.52:201][743]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/PhoneE9F93DD54306EC658E4B07B00CA4D1E5.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-19.54.52:231][743]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-19.54.52:231][743]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-19.54.54:154][856]BlueprintLog: New page: Compile Phone
+[2025.11.14-19.54.54:229][856]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2025.11.14-19.54.54:614][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-19.54.54:629][874]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/PhoneCA0835C1466D47F933425B9845A4EF69.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-19.54.54:654][874]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-19.54.54:654][874]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-19.55.05:070][457]BlueprintLog: New page: Compile Phone
+[2025.11.14-19.55.05:162][457]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2025.11.14-19.55.05:404][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-19.55.05:417][468]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/PhoneECA23B3F40AC2DE6B59E67BF07B525E5.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-19.55.05:439][468]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-19.55.05:439][468]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-19.55.30:431][929]BlueprintLog: New page: Compile Phone
+[2025.11.14-19.55.30:516][929]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2025.11.14-19.55.43:108][632]BlueprintLog: New page: Compile Phone
+[2025.11.14-19.55.43:182][632]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2025.11.14-19.55.43:427][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-19.55.43:442][642]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/PhoneB5128EA74E87B42F55CF7CA3934D5188.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-19.55.43:465][642]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-19.55.43:465][642]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-19.55.46:209][793]BlueprintLog: New page: Compile Phone
+[2025.11.14-19.55.46:281][793]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2025.11.14-19.55.46:879][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-19.55.46:894][826]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone6B59C8E944660974781B189C2BAB0450.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-19.55.46:913][826]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-19.55.46:913][826]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-19.55.52:092][107]LogSlate: Took 0.011906 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.11.14-19.55.53:792][206]BlueprintLog: New page: Compile Phone
+[2025.11.14-19.55.53:867][206]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2025.11.14-19.55.54:082][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-19.55.54:109][213]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone6A2E0F504CBC6505DDB57389C301AA81.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-19.55.54:146][213]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-19.55.54:147][213]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-19.55.57:762][418]BlueprintLog: New page: Compile Phone
+[2025.11.14-19.55.57:831][418]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2025.11.14-19.55.58:587][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-19.55.58:604][456]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/PhoneAC0CA5D449A511E8DFF9F09D387D847B.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-19.55.58:623][456]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-19.55.58:623][456]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-19.56.09:919][103]BlueprintLog: New page: Compile Phone
+[2025.11.14-19.56.09:992][103]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2025.11.14-19.56.10:299][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-19.56.10:315][116]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone131CB7DE40EF6B02662674970E663C83.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-19.56.10:335][116]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-19.56.10:335][116]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-19.56.32:401][343]BlueprintLog: New page: Compile Phone
+[2025.11.14-19.56.32:474][343]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2025.11.14-19.56.32:753][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-19.56.32:773][356]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone66FB0F4F4D5BB5A44D4453ABC64C138A.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-19.56.32:801][356]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-19.56.32:801][356]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-19.56.35:387][504]LogMaterialEditor: Saving and Compiling material Phone_Dispay_Mat
+[2025.11.14-19.56.35:932][504]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.56.35:987][504]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2025.11.14-19.56.35:987][504]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2025.11.14-19.56.35:987][504]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2025.11.14-19.56.35:987][504]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.56.35:987][504]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2025.11.14-19.56.35:987][504]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2025.11.14-19.56.35:988][504]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2025.11.14-19.56.35:988][504]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2025.11.14-19.56.36:019][504]LogMaterial: Display: Missing cached shader map for material Phone_Dispay_Mat, compiling. 
+[2025.11.14-19.56.36:100][504]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2025.11.14-19.56.36:107][504]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2025.11.14-19.56.36:635][504]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 60
+[2025.11.14-19.56.36:635][504]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 59
+[2025.11.14-19.56.37:160][504]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 58
+[2025.11.14-19.56.37:160][504]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 57
+[2025.11.14-19.56.37:160][504]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 56
+[2025.11.14-19.56.37:160][504]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 55
+[2025.11.14-19.56.37:160][504]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 54
+[2025.11.14-19.56.37:160][504]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 53
+[2025.11.14-19.56.37:160][504]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 52
+[2025.11.14-19.56.37:160][504]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 51
+[2025.11.14-19.56.37:160][504]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 50
+[2025.11.14-19.56.37:160][504]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 49
+[2025.11.14-19.56.37:160][504]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 48
+[2025.11.14-19.56.37:681][504]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 47
+[2025.11.14-19.56.37:681][504]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 46
+[2025.11.14-19.56.37:681][504]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 45
+[2025.11.14-19.56.37:681][504]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 44
+[2025.11.14-19.56.37:681][504]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 43
+[2025.11.14-19.56.37:681][504]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 42
+[2025.11.14-19.56.37:681][504]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 41
+[2025.11.14-19.56.37:681][504]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 40
+[2025.11.14-19.56.37:681][504]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 39
+[2025.11.14-19.56.37:953][504]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 34
+[2025.11.14-19.56.37:953][504]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 29
+[2025.11.14-19.56.37:953][504]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 24
+[2025.11.14-19.56.37:953][504]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2025.11.14-19.56.37:953][504]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2025.11.14-19.56.37:953][504]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2025.11.14-19.56.37:953][504]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2025.11.14-19.56.37:957][504]TextureStreamingBuild: Display: Compiling optional shaders took 1.855 seconds.
+[2025.11.14-19.56.37:999][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.11.14-19.56.39:129][504]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2025.11.14-19.56.39:129][504]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2025.11.14-19.56.39:129][504]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2025.11.14-19.56.39:655][504]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2025.11.14-19.56.39:656][504]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2025.11.14-19.56.39:656][504]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2025.11.14-19.56.39:656][504]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2025.11.14-19.56.39:656][504]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2025.11.14-19.56.39:911][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone_Dispay_Mat" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone_Dispay_Mat.uasset" SILENT=true
+[2025.11.14-19.56.39:921][504]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone_Dispay_MatF1FECD6544946DC3A87112A5568F5C8E.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone_Dispay_Mat.uasset'
+[2025.11.14-19.56.39:962][504]AssetCheck: New page: Asset Save: Phone_Dispay_Mat
+[2025.11.14-19.56.39:962][504]LogContentValidation: Display: Validating Material /Game/Enemy/Phone/Phone_Dispay_Mat.Phone_Dispay_Mat
+[2025.11.14-19.56.39:974][504]MaterialEditorStats: Base pass shader: 122 instructions
+[2025.11.14-19.56.39:974][504]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2025.11.14-19.56.39:974][504]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2025.11.14-19.56.39:974][504]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2025.11.14-19.56.39:974][504]MaterialEditorStats: Texture samplers: 4/16
+[2025.11.14-19.56.39:974][504]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2025.11.14-19.56.39:974][504]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.11.14-19.56.56:733][436]LogEditorTransaction: Undo Straighten Connection(s)
+[2025.11.14-19.56.56:746][436]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.56.56:767][436]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2025.11.14-19.56.56:767][436]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2025.11.14-19.56.56:767][436]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2025.11.14-19.56.56:767][436]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.56.56:767][436]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2025.11.14-19.56.56:767][436]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2025.11.14-19.56.56:767][436]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2025.11.14-19.56.56:767][436]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2025.11.14-19.56.57:126][442]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2025.11.14-19.56.57:132][443]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2025.11.14-19.56.57:274][445]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2025.11.14-19.56.57:339][450]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2025.11.14-19.56.57:339][450]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2025.11.14-19.56.57:339][450]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2025.11.14-19.56.57:339][450]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2025.11.14-19.56.57:408][451]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2025.11.14-19.56.57:437][453]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2025.11.14-19.56.57:689][468]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2025.11.14-19.56.57:689][468]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2025.11.14-19.56.57:689][468]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2025.11.14-19.56.57:736][471]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2025.11.14-19.56.57:901][481]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2025.11.14-19.56.57:901][481]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2025.11.14-19.56.57:901][481]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2025.11.14-19.56.57:935][483]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2025.11.14-19.56.58:020][488]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2025.11.14-19.56.58:205][499]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2025.11.14-19.56.58:662][526]MaterialEditorStats: Base pass shader: 122 instructions
+[2025.11.14-19.56.58:662][526]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2025.11.14-19.56.58:662][526]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2025.11.14-19.56.58:662][526]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2025.11.14-19.56.58:662][526]MaterialEditorStats: Texture samplers: 3/16
+[2025.11.14-19.56.58:662][526]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2025.11.14-19.56.58:662][526]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.11.14-19.56.59:856][589]BlueprintLog: New page: Compile Phone
+[2025.11.14-19.56.59:928][589]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2025.11.14-19.57.00:284][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-19.57.00:302][606]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone360AA5D545D183E5CD3142A21F9D1536.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-19.57.00:335][606]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-19.57.00:335][606]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-19.57.09:959][144]BlueprintLog: New page: Compile Phone
+[2025.11.14-19.57.10:026][144]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2025.11.14-19.57.10:313][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-19.57.10:331][157]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/PhoneAAB0900E4BFAAA08EB6EC9A0B3296F2C.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-19.57.10:357][157]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-19.57.10:357][157]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-19.57.32:483][444]BlueprintLog: New page: Compile Phone
+[2025.11.14-19.57.32:551][444]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2025.11.14-19.57.32:877][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-19.57.32:893][459]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/PhoneCD9CEACE4BBC3A09DF5126BD4B8558E3.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-19.57.32:918][459]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-19.57.32:918][459]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-19.57.43:150][ 42]BlueprintLog: New page: Compile Phone
+[2025.11.14-19.57.43:218][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2025.11.14-19.57.43:541][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-19.57.43:557][ 56]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/PhoneF982B73C4056AB209D67479D3FEA7F0D.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-19.57.43:588][ 56]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-19.57.43:588][ 56]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-19.58.08:258][466]BlueprintLog: New page: Compile Phone
+[2025.11.14-19.58.08:328][466]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2025.11.14-19.58.08:630][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-19.58.08:650][479]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone8C9439D345E00D2847E75D8DEA20C63B.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-19.58.08:674][479]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-19.58.08:674][479]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-19.58.08:909][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-19.58.08:924][491]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone19C1B57C473B367F485C52A8B29F74BB.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-19.58.08:955][491]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-19.58.08:955][491]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-19.58.19:373][ 93]LogEditorTransaction: Undo Add Node
+[2025.11.14-19.58.19:390][ 93]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2025.11.14-19.58.19:410][ 93]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2025.11.14-19.58.19:410][ 93]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2025.11.14-19.58.19:410][ 93]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2025.11.14-19.58.19:410][ 93]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2025.11.14-19.58.19:410][ 93]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2025.11.14-19.58.19:410][ 93]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2025.11.14-19.58.19:410][ 93]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2025.11.14-19.58.19:410][ 93]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2025.11.14-19.58.20:044][103]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2025.11.14-19.58.20:044][103]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2025.11.14-19.58.20:044][103]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2025.11.14-19.58.20:138][105]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2025.11.14-19.58.20:138][105]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2025.11.14-19.58.20:138][105]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2025.11.14-19.58.20:146][106]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2025.11.14-19.58.20:146][106]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2025.11.14-19.58.20:264][113]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2025.11.14-19.58.20:517][128]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2025.11.14-19.58.20:517][128]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2025.11.14-19.58.20:620][129]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2025.11.14-19.58.20:620][129]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2025.11.14-19.58.20:768][137]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2025.11.14-19.58.20:768][137]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2025.11.14-19.58.20:787][138]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2025.11.14-19.58.20:836][140]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2025.11.14-19.58.20:863][142]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2025.11.14-19.58.21:100][153]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2025.11.14-19.58.21:643][183]MaterialEditorStats: Base pass shader: 122 instructions
+[2025.11.14-19.58.21:643][183]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2025.11.14-19.58.21:643][183]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2025.11.14-19.58.21:643][183]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2025.11.14-19.58.21:643][183]MaterialEditorStats: Texture samplers: 3/16
+[2025.11.14-19.58.21:643][183]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2025.11.14-19.58.21:643][183]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.11.14-19.58.27:701][535]BlueprintLog: New page: Compile Phone
+[2025.11.14-19.58.27:769][535]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2025.11.14-19.58.28:093][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-19.58.28:112][549]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone56C96750456F1970A7D48A840195318E.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-19.58.28:132][549]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-19.58.28:132][549]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-19.58.43:954][471]BlueprintLog: New page: Compile Phone
+[2025.11.14-19.58.44:028][471]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2025.11.14-19.58.47:446][665]BlueprintLog: New page: Compile Phone
+[2025.11.14-19.58.47:519][665]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2025.11.14-19.58.47:815][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-19.58.47:833][679]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone5CE75EC14C9E61FB2FE8F0AEDFAC3CDB.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-19.58.47:857][679]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-19.58.47:857][679]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-19.58.59:478][351]BlueprintLog: New page: Compile Phone
+[2025.11.14-19.58.59:545][351]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2025.11.14-19.58.59:858][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-19.58.59:876][365]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone0B0154094DD662C10F8FCC956D98F2BD.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-19.58.59:906][365]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-19.58.59:906][365]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-19.59.12:574][114]BlueprintLog: New page: Compile Phone
+[2025.11.14-19.59.12:646][114]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2025.11.14-19.59.12:864][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-19.59.12:884][123]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone53774BD14EDE8A3AFE48DC9D3AF03996.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-19.59.12:922][123]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-19.59.12:922][123]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-19.59.17:992][420]BlueprintLog: New page: Compile Phone
+[2025.11.14-19.59.18:066][420]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2025.11.14-19.59.18:298][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-19.59.18:314][430]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/PhoneBA76A58E49845F57619C3B9201DEACC6.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-19.59.18:336][430]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-19.59.18:336][430]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-19.59.45:598][  8]BlueprintLog: New page: Compile Phone
+[2025.11.14-19.59.45:680][  8]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2025.11.14-19.59.45:983][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-19.59.46:004][ 20]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone3EA4CA734C5D23AD48211695C6BFD9E8.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-19.59.46:035][ 20]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-19.59.46:035][ 20]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-20.00.18:859][953]BlueprintLog: New page: Compile Phone
+[2025.11.14-20.00.18:927][953]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2025.11.14-20.00.19:552][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-20.00.19:571][986]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone7C0D057943E095262674BC9C16E6C9D2.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-20.00.19:603][986]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-20.00.19:603][986]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-20.00.30:772][638]BlueprintLog: New page: Compile Phone
+[2025.11.14-20.00.30:852][638]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2025.11.14-20.00.31:986][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-20.00.32:004][699]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone7A3884724F73052064F0B6B506A97496.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-20.00.32:023][699]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-20.00.32:023][699]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-20.00.34:236][824]BlueprintLog: New page: Compile Phone
+[2025.11.14-20.00.34:307][824]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2025.11.14-20.00.34:600][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-20.00.34:622][836]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone480D48C14F63A05360B7D489CEBB17F4.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-20.00.34:652][836]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-20.00.34:652][836]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-20.00.40:397][161]BlueprintLog: New page: Compile Phone
+[2025.11.14-20.00.40:469][161]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2025.11.14-20.00.40:711][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-20.00.40:730][169]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone87D1615141AD0C5A4845D1A9C37FA134.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-20.00.40:760][169]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-20.00.40:761][169]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-20.01.05:244][524]BlueprintLog: New page: Compile Phone
+[2025.11.14-20.01.05:323][524]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2025.11.14-20.01.05:687][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-20.01.05:713][540]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone6B36FD7343B32B4DF106D3BB4CCD820E.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-20.01.05:733][540]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-20.01.05:733][540]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-20.01.20:643][427]BlueprintLog: New page: Compile Phone
+[2025.11.14-20.01.20:715][427]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2025.11.14-20.01.21:108][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-20.01.21:126][444]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone52E4AC174F946848EDA363AF5420C1AC.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-20.01.21:147][444]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-20.01.21:147][444]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-20.01.48:385][ 11]BlueprintLog: New page: Compile Phone
+[2025.11.14-20.01.48:454][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2025.11.14-20.01.49:235][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-20.01.49:254][ 51]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone7893540C45768F6FF06E6E9D5761867E.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-20.01.49:277][ 51]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-20.01.49:277][ 51]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-20.01.50:266][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-20.01.50:284][108]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/PhoneCBB38DDC4700DF13636AAD80E9ABFC15.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-20.01.50:303][108]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-20.01.50:303][108]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-20.02.13:769][482]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-20.02.13:849][482]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2025.11.14-20.02.14:132][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-20.02.14:170][491]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_Player2FE180DF4EF804F2BCE17295E4AA326C.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-20.02.14:202][491]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-20.02.14:203][491]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-20.02.17:696][686]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-20.02.17:773][686]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2025.11.14-20.02.18:089][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-20.02.18:116][699]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_Player409B5CFF4E6A3ECA15F570BFEFC8ED48.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-20.02.18:138][699]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-20.02.18:138][699]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-20.02.55:171][889]BlueprintLog: New page: Compile Phone
+[2025.11.14-20.02.55:251][889]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2025.11.14-20.02.55:558][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-20.02.55:580][903]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/PhoneA3C251374CFE434C5ADBCBBD321CA984.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-20.02.55:601][903]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-20.02.55:601][903]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-20.03.20:846][363]BlueprintLog: New page: Compile Phone
+[2025.11.14-20.03.20:925][363]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2025.11.14-20.03.21:206][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-20.03.21:230][375]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/PhoneA988FC5E459DDAB8BAB0F3BAD2367EDB.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-20.03.21:263][375]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-20.03.21:263][375]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-20.03.55:837][330]BlueprintLog: New page: Compile Phone
+[2025.11.14-20.03.55:921][330]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2025.11.14-20.03.56:160][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-20.03.56:183][339]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone2AB35FE34EA56B057747BA9E0C223144.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-20.03.56:204][339]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-20.03.56:204][339]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-20.04.26:646][101]BlueprintLog: New page: Compile Phone
+[2025.11.14-20.04.26:713][101]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2025.11.14-20.04.26:982][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-20.04.27:006][112]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/PhoneEF01F55B410073D878B3B489D7312098.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-20.04.27:034][112]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-20.04.27:034][112]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-20.04.28:106][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-20.04.28:129][175]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone580FDEF6441B31410099BB88BA889376.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-20.04.28:151][175]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-20.04.28:151][175]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-20.04.42:040][964]BlueprintLog: New page: Compile Phone
+[2025.11.14-20.04.42:147][964]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2025.11.14-20.04.42:327][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-20.04.42:349][970]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Phone462AEE6C4883B3A5B08220ADD3F9C111.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-20.04.42:365][970]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-20.04.42:365][970]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-20.04.43:194][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Phone/Phone" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset" SILENT=true
+[2025.11.14-20.04.43:213][ 17]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/PhoneC10A81BD4B3829ABB792898C6059BDC9.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Enemy/Phone/Phone.uasset'
+[2025.11.14-20.04.43:246][ 17]AssetCheck: New page: Asset Save: Phone
+[2025.11.14-20.04.43:247][ 17]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Phone/Phone.Phone
+[2025.11.14-20.04.44:051][ 57]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-20.04.44:196][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-20.04.44:240][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2025.11.14-20.04.44:251][ 62]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/MainE67E211F4F878F55EFB6849489564C62.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-20.04.44:293][ 62]AssetCheck: New page: Asset Save: Main
+[2025.11.14-20.04.44:293][ 62]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-20.04.58:494][890]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-20.04.58:633][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-20.04.58:678][895]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2025.11.14-20.04.58:692][895]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/MainA8B4960E4574DB3412D2A8BF95E64DEF.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-20.04.58:733][895]AssetCheck: New page: Asset Save: Main
+[2025.11.14-20.04.58:733][895]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
