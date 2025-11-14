@@ -1,0 +1,1146 @@
+﻿Log file open, 11/14/25 20:06:10
+LogInit: Display: Running engine for game: PixelPerfect
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.213081
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 12th Gen Intel(R) Core(TM) i5-12450H, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line:  -AUTH_LOGIN=unused -AUTH_PASSWORD=c3bcaf76999e48c89f5230f5d5b511d5 -AUTH_TYPE=exchangecode -epicapp=UE_4.25 -epicenv=Prod -EpicPortal -epicusername=AManXDDD -epicuserid=53fc9c64b72243c1a735a3dec222d9be -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Git/Saf/GameUniHack/PixelPerfect/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2025.11.14-18.06.10:817][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2025.11.14-18.06.10:817][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2025.11.14-18.06.10:817][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Git/Saf/GameUniHack/PixelPerfect/Saved/Config/Windows/Engine.ini]
+[2025.11.14-18.06.10:817][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2025.11.14-18.06.10:817][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Git/Saf/GameUniHack/PixelPerfect/Saved/Config/Windows/Engine.ini]
+[2025.11.14-18.06.10:817][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Git/Saf/GameUniHack/PixelPerfect/Saved/Config/Windows/Engine.ini]
+[2025.11.14-18.06.10:817][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2025.11.14-18.06.10:817][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2025.11.14-18.06.10:817][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2025.11.14-18.06.10:817][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2025.11.14-18.06.10:817][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2025.11.14-18.06.10:817][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2025.11.14-18.06.10:817][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2025.11.14-18.06.10:817][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2025.11.14-18.06.10:817][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2025.11.14-18.06.10:817][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2025.11.14-18.06.10:817][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2025.11.14-18.06.10:817][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2025.11.14-18.06.10:817][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2025.11.14-18.06.10:817][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2025.11.14-18.06.10:817][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Git/Saf/GameUniHack/PixelPerfect/Saved/Config/Windows/Engine.ini]
+[2025.11.14-18.06.10:817][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2025.11.14-18.06.10:817][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2025.11.14-18.06.10:817][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2025.11.14-18.06.10:817][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2025.11.14-18.06.10:817][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2025.11.14-18.06.10:817][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2025.11.14-18.06.10:817][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2025.11.14-18.06.10:817][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2025.11.14-18.06.10:817][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2025.11.14-18.06.10:817][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2025.11.14-18.06.10:817][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2025.11.14-18.06.10:817][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2025.11.14-18.06.10:817][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2025.11.14-18.06.10:817][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Git/Saf/GameUniHack/PixelPerfect/Saved/Config/Windows/Engine.ini]
+[2025.11.14-18.06.10:817][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Git/Saf/GameUniHack/PixelPerfect/Saved/Config/Windows/Engine.ini]
+[2025.11.14-18.06.10:819][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Git/Saf/GameUniHack/PixelPerfect/Saved/Config/Windows/Scalability.ini]
+[2025.11.14-18.06.10:819][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2025.11.14-18.06.10:819][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2025.11.14-18.06.10:819][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Git/Saf/GameUniHack/PixelPerfect/Saved/Config/Windows/Scalability.ini]
+[2025.11.14-18.06.10:819][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2025.11.14-18.06.10:819][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Git/Saf/GameUniHack/PixelPerfect/Saved/Config/Windows/Scalability.ini]
+[2025.11.14-18.06.10:819][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2025.11.14-18.06.10:819][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2025.11.14-18.06.10:819][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2025.11.14-18.06.10:819][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2025.11.14-18.06.10:819][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2025.11.14-18.06.10:819][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2025.11.14-18.06.10:819][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2025.11.14-18.06.10:819][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2025.11.14-18.06.10:819][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2025.11.14-18.06.10:819][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2025.11.14-18.06.10:819][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2025.11.14-18.06.10:819][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2025.11.14-18.06.10:819][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2025.11.14-18.06.10:819][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2025.11.14-18.06.10:819][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2025.11.14-18.06.10:819][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Git/Saf/GameUniHack/PixelPerfect/Saved/Config/Windows/Scalability.ini]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Git/Saf/GameUniHack/PixelPerfect/Saved/Config/Windows/Scalability.ini]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Git/Saf/GameUniHack/PixelPerfect/Saved/Config/Windows/Scalability.ini]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Git/Saf/GameUniHack/PixelPerfect/Saved/Config/Windows/Scalability.ini]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Git/Saf/GameUniHack/PixelPerfect/Saved/Config/Windows/Scalability.ini]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2025.11.14-18.06.10:820][  0]LogInit: Selected Device Profile: [Windows]
+[2025.11.14-18.06.10:820][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2025.11.14-18.06.10:820][  0]LogHAL: Display: Platform has ~ 16 GB [16870006784 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2025.11.14-18.06.10:820][  0]LogInit: Going up to parent DeviceProfile []
+[2025.11.14-18.06.10:820][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Git/Saf/GameUniHack/PixelPerfect/Saved/Config/Windows/Scalability.ini]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Git/Saf/GameUniHack/PixelPerfect/Saved/Config/Windows/Scalability.ini]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Git/Saf/GameUniHack/PixelPerfect/Saved/Config/Windows/Scalability.ini]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2025.11.14-18.06.10:820][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Git/Saf/GameUniHack/PixelPerfect/Saved/Config/Windows/Scalability.ini]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Git/Saf/GameUniHack/PixelPerfect/Saved/Config/Windows/Scalability.ini]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Git/Saf/GameUniHack/PixelPerfect/Saved/Config/Windows/Scalability.ini]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Git/Saf/GameUniHack/PixelPerfect/Saved/Config/Windows/Scalability.ini]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Git/Saf/GameUniHack/PixelPerfect/Saved/Config/Windows/Scalability.ini]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2025.11.14-18.06.10:821][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Git/Saf/GameUniHack/PixelPerfect/Saved/Config/Windows/Engine.ini]
+[2025.11.14-18.06.10:822][  0]LogInit: Computer: MIRONEL
+[2025.11.14-18.06.10:822][  0]LogInit: User: Dorain
+[2025.11.14-18.06.10:822][  0]LogInit: CPU Page size=4096, Cores=8
+[2025.11.14-18.06.10:822][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2025.11.14-18.06.10:822][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2025.11.14-18.06.10:822][  0]LogMemory: Platform Memory Stats for Windows
+[2025.11.14-18.06.10:822][  0]LogMemory: Process Physical Memory: 119.94 MB used, 119.94 MB peak
+[2025.11.14-18.06.10:822][  0]LogMemory: Process Virtual Memory: 97.41 MB used, 97.41 MB peak
+[2025.11.14-18.06.10:822][  0]LogMemory: Physical Memory: 11389.81 MB used,  4698.68 MB free, 16088.49 MB total
+[2025.11.14-18.06.10:822][  0]LogMemory: Virtual Memory: 5176.27 MB used,  134212552.00 MB free, 134217728.00 MB total
+[2025.11.14-18.06.10:827][  0]LogWindows: WindowsPlatformFeatures enabled
+[2025.11.14-18.06.10:878][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2025.11.14-18.06.10:879][  0]LogInit: Using OS detected language (en-US).
+[2025.11.14-18.06.10:879][  0]LogInit: Using OS detected locale (en-US).
+[2025.11.14-18.06.10:883][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2025.11.14-18.06.11:049][  0]LogInit: Setting process to per monitor DPI aware
+[2025.11.14-18.06.11:096][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2025.11.14-18.06.11:096][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2025.11.14-18.06.11:251][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2025.11.14-18.06.11:251][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2025.11.14-18.06.11:251][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2025.11.14-18.06.11:251][  0]LogD3D11RHI: D3D11 adapters:
+[2025.11.14-18.06.11:430][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3050 Laptop GPU' (Feature Level 11_0)
+[2025.11.14-18.06.11:430][  0]LogD3D11RHI:       3965/0/8044 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2025.11.14-18.06.11:501][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2025.11.14-18.06.11:501][  0]LogD3D11RHI:       128/0/8044 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2025.11.14-18.06.11:504][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2025.11.14-18.06.11:504][  0]LogD3D11RHI:       0/0/8044 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2025.11.14-18.06.11:504][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2025.11.14-18.06.11:512][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2025.11.14-18.06.11:512][  0]LogD3D11RHI:     GPU DeviceId: 0x25a2 (for the marketing name, search the web for "GPU Device Id")
+[2025.11.14-18.06.11:512][  0]LogWindows: EnumDisplayDevices:
+[2025.11.14-18.06.11:512][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2025.11.14-18.06.11:513][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2025.11.14-18.06.11:513][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2025.11.14-18.06.11:513][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2025.11.14-18.06.11:513][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2025.11.14-18.06.11:513][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3050 Laptop GPU
+[2025.11.14-18.06.11:513][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2025.11.14-18.06.11:513][  0]LogD3D11RHI:      Driver Date: Unknown
+[2025.11.14-18.06.11:513][  0]LogRHI: Texture pool is 2775 MB (70% of 3965 MB)
+[2025.11.14-18.06.11:662][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2025.11.14-18.06.11:663][  0]LogD3D11RHI: Async texture creation enabled
+[2025.11.14-18.06.11:663][  0]LogD3D11RHI: Array index from any shader is supported
+[2025.11.14-18.06.11:680][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2025.11.14-18.06.12:001][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2025.11.14-18.06.12:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2025.11.14-18.06.12:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2025.11.14-18.06.12:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2025.11.14-18.06.12:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2025.11.14-18.06.12:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2025.11.14-18.06.12:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2025.11.14-18.06.12:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2025.11.14-18.06.12:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2025.11.14-18.06.12:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2025.11.14-18.06.12:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2025.11.14-18.06.12:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2025.11.14-18.06.12:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2025.11.14-18.06.12:049][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2025.11.14-18.06.12:057][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2025.11.14-18.06.12:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2025.11.14-18.06.12:075][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2025.11.14-18.06.12:084][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2025.11.14-18.06.12:095][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2025.11.14-18.06.12:104][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2025.11.14-18.06.12:126][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2025.11.14-18.06.12:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2025.11.14-18.06.12:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2025.11.14-18.06.12:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2025.11.14-18.06.12:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2025.11.14-18.06.12:160][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2025.11.14-18.06.12:173][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2025.11.14-18.06.12:187][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2025.11.14-18.06.12:187][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2025.11.14-18.06.12:200][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2025.11.14-18.06.12:285][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (../../../../../../Git/Saf/GameUniHack/PixelPerfect/Intermediate/Shaders/WorkingDirectory/19124/).
+[2025.11.14-18.06.12:285][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Dorain/AppData/Local/Temp/UnrealShaderWorkingDir/430DF2B546A24F457DE51184820C46E4/'.
+[2025.11.14-18.06.12:286][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2025.11.14-18.06.12:286][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2025.11.14-18.06.12:286][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2025.11.14-18.06.13:041][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2025.11.14-18.06.13:091][  0]LogDerivedDataCache: Loaded boot cache 0.05s 75MB C:/Users/Dorain/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2025.11.14-18.06.13:091][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Dorain/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2025.11.14-18.06.13:091][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Git/Saf/GameUniHack/PixelPerfect/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2025.11.14-18.06.13:091][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2025.11.14-18.06.13:091][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Git/Saf/GameUniHack/PixelPerfect/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2025.11.14-18.06.13:091][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2025.11.14-18.06.13:102][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2025.11.14-18.06.13:102][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2025.11.14-18.06.13:102][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2025.11.14-18.06.13:104][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Dorain/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2025.11.14-18.06.13:104][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2025.11.14-18.06.13:104][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2025.11.14-18.06.13:146][  0]LogSlate: Using FreeType 2.10.0
+[2025.11.14-18.06.13:147][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2025.11.14-18.06.13:179][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2025.11.14-18.06.13:364][  0]LogInit: Selected Device Profile: [Windows]
+[2025.11.14-18.06.13:523][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2025.11.14-18.06.13:523][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2025.11.14-18.06.13:523][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2025.11.14-18.06.13:523][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2025.11.14-18.06.13:523][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2025.11.14-18.06.13:545][  0]LogNetVersion: PixelPerfect 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3238356578)
+[2025.11.14-18.06.14:009][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000016B404A8380), frame # 0
+[2025.11.14-18.06.14:009][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000016B403BBC40), frame # 0
+[2025.11.14-18.06.14:010][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000016B4044CA00), frame # 0
+[2025.11.14-18.06.14:046][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.030218 seconds
+[2025.11.14-18.06.14:051][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2025.11.14-18.06.14:051][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2025.11.14-18.06.14:051][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2025.11.14-18.06.14:493][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2025.11.14-18.06.14:532][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2025.11.14-18.06.14:616][  0]SourceControl: Source control is disabled
+[2025.11.14-18.06.14:616][  0]SourceControl: Source control is disabled
+[2025.11.14-18.06.14:619][  0]SourceControl: Source control is disabled
+[2025.11.14-18.06.14:622][  0]SourceControl: Source control is disabled
+[2025.11.14-18.06.14:630][  0]SourceControl: Source control is disabled
+[2025.11.14-18.06.14:922][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2025.11.14-18.06.14:944][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.11.14-18.06.14:944][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.11.14-18.06.14:992][  0]LogOcInput: OculusInput pre-init called
+[2025.11.14-18.06.15:004][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2025.11.14-18.06.15:004][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2025.11.14-18.06.15:080][  0]LogEngine: Initializing Engine...
+[2025.11.14-18.06.15:081][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2025.11.14-18.06.15:081][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2025.11.14-18.06.15:082][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2025.11.14-18.06.15:193][  0]LogInit: Initializing FReadOnlyCVARCache
+[2025.11.14-18.06.15:205][  0]LogAIModule: Creating AISystem for world Untitled
+[2025.11.14-18.06.15:205][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000016B4ABFFC00), frame # 0
+[2025.11.14-18.06.15:205][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000016B4AC61080), frame # 0
+[2025.11.14-18.06.15:215][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.14-18.06.15:215][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.14-18.06.15:215][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.14-18.06.15:215][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.14-18.06.15:215][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.11.14-18.06.15:215][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.14-18.06.15:215][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.11.14-18.06.15:215][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.14-18.06.15:215][  0]LogAudio: Display: Using built-in audio occlusion.
+[2025.11.14-18.06.15:215][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2025.11.14-18.06.15:229][  0]LogAudioMixer: Display: 0: FrontLeft
+[2025.11.14-18.06.15:229][  0]LogAudioMixer: Display: 1: FrontRight
+[2025.11.14-18.06.15:262][  0]LogAudioMixer: Display: Using Audio Device FxSound Speakers (FxSound Audio Enhancer)
+[2025.11.14-18.06.15:264][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.14-18.06.15:266][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.14-18.06.15:266][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.14-18.06.15:267][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.11.14-18.06.15:268][  0]LogInit: FAudioDevice initialized.
+[2025.11.14-18.06.15:268][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2025.11.14-18.06.15:319][  0]LogDerivedDataCache: Saved boot cache 0.05s 75MB C:/Users/Dorain/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2025.11.14-18.06.15:324][  0]LogInit: Texture streaming: Enabled
+[2025.11.14-18.06.15:345][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2025.11.14-18.06.15:345][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2025.11.14-18.06.15:346][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2025.11.14-18.06.15:381][  0]LogInit: Transaction tracking system initialized
+[2025.11.14-18.06.15:411][  0]BlueprintLog: New page: Editor Load
+[2025.11.14-18.06.15:523][  0]LocalizationService: Localization service is disabled
+[2025.11.14-18.06.15:741][  0]LogFileCache: Scanning file cache for directory 'C:/Git/Saf/GameUniHack/PixelPerfect/Content/' took 0.00s
+[2025.11.14-18.06.15:741][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2025.11.14-18.06.15:741][  0]LogCook: Display: Mobile HDR setting 1
+[2025.11.14-18.06.16:103][  0]SourceControl: Source control is disabled
+[2025.11.14-18.06.16:103][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.838
+[2025.11.14-18.06.16:107][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.25/FeaturePacks/StarterContent.upack)
+[2025.11.14-18.06.16:116][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2025.11.14-18.06.16:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2025.11.14-18.06.16:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2025.11.14-18.06.16:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2025.11.14-18.06.16:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2025.11.14-18.06.16:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2025.11.14-18.06.16:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2025.11.14-18.06.16:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2025.11.14-18.06.16:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2025.11.14-18.06.16:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2025.11.14-18.06.16:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2025.11.14-18.06.16:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2025.11.14-18.06.16:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Audio/Collapse01.uasset"
+[2025.11.14-18.06.16:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Audio/Collapse02.uasset"
+[2025.11.14-18.06.16:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2025.11.14-18.06.16:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Audio/Explosion01.uasset"
+[2025.11.14-18.06.16:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Audio/Explosion02.uasset"
+[2025.11.14-18.06.16:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2025.11.14-18.06.16:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Audio/Fire01.uasset"
+[2025.11.14-18.06.16:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2025.11.14-18.06.16:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2025.11.14-18.06.16:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2025.11.14-18.06.16:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Audio/Light01.uasset"
+[2025.11.14-18.06.16:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2025.11.14-18.06.16:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Audio/Light02.uasset"
+[2025.11.14-18.06.16:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2025.11.14-18.06.16:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Audio/Smoke01.uasset"
+[2025.11.14-18.06.16:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2025.11.14-18.06.16:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2025.11.14-18.06.16:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2025.11.14-18.06.16:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2025.11.14-18.06.16:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2025.11.14-18.06.16:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2025.11.14-18.06.16:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2025.11.14-18.06.16:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Audio/Steam01.uasset"
+[2025.11.14-18.06.16:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2025.11.14-18.06.16:477][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2025.11.14-18.06.16:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2025.11.14-18.06.16:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2025.11.14-18.06.16:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2025.11.14-18.06.16:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2025.11.14-18.06.16:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2025.11.14-18.06.16:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2025.11.14-18.06.16:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2025.11.14-18.06.16:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2025.11.14-18.06.16:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2025.11.14-18.06.16:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2025.11.14-18.06.16:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2025.11.14-18.06.16:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2025.11.14-18.06.16:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2025.11.14-18.06.16:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2025.11.14-18.06.16:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2025.11.14-18.06.16:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2025.11.14-18.06.16:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2025.11.14-18.06.16:703][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2025.11.14-18.06.16:713][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Maps/Minimal_Default.umap"
+[2025.11.14-18.06.16:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2025.11.14-18.06.16:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Maps/StarterMap.umap"
+[2025.11.14-18.06.16:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2025.11.14-18.06.16:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2025.11.14-18.06.16:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2025.11.14-18.06.16:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2025.11.14-18.06.16:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2025.11.14-18.06.16:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2025.11.14-18.06.16:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2025.11.14-18.06.16:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2025.11.14-18.06.16:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2025.11.14-18.06.16:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2025.11.14-18.06.16:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2025.11.14-18.06.16:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2025.11.14-18.06.16:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2025.11.14-18.06.16:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2025.11.14-18.06.16:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2025.11.14-18.06.16:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2025.11.14-18.06.16:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2025.11.14-18.06.16:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2025.11.14-18.06.16:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Glass.uasset"
+[2025.11.14-18.06.16:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2025.11.14-18.06.16:957][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2025.11.14-18.06.16:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2025.11.14-18.06.16:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2025.11.14-18.06.16:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2025.11.14-18.06.16:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2025.11.14-18.06.17:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2025.11.14-18.06.17:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2025.11.14-18.06.17:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2025.11.14-18.06.17:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2025.11.14-18.06.17:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2025.11.14-18.06.17:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2025.11.14-18.06.17:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2025.11.14-18.06.17:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2025.11.14-18.06.17:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2025.11.14-18.06.17:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2025.11.14-18.06.17:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2025.11.14-18.06.17:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2025.11.14-18.06.17:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2025.11.14-18.06.17:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2025.11.14-18.06.17:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2025.11.14-18.06.17:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2025.11.14-18.06.17:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2025.11.14-18.06.17:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2025.11.14-18.06.17:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2025.11.14-18.06.17:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2025.11.14-18.06.17:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Particles/P_Explosion.uasset"
+[2025.11.14-18.06.17:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Particles/P_Fire.uasset"
+[2025.11.14-18.06.17:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Particles/P_Smoke.uasset"
+[2025.11.14-18.06.17:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Particles/P_Sparks.uasset"
+[2025.11.14-18.06.17:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2025.11.14-18.06.17:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2025.11.14-18.06.17:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2025.11.14-18.06.17:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2025.11.14-18.06.17:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2025.11.14-18.06.17:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2025.11.14-18.06.17:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2025.11.14-18.06.17:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2025.11.14-18.06.17:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2025.11.14-18.06.17:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2025.11.14-18.06.17:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2025.11.14-18.06.17:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Props/MaterialSphere.uasset"
+[2025.11.14-18.06.17:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Props/SM_Bush.uasset"
+[2025.11.14-18.06.17:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Props/SM_Chair.uasset"
+[2025.11.14-18.06.17:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2025.11.14-18.06.17:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Props/SM_Couch.uasset"
+[2025.11.14-18.06.17:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Props/SM_Door.uasset"
+[2025.11.14-18.06.17:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2025.11.14-18.06.17:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2025.11.14-18.06.17:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2025.11.14-18.06.17:466][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2025.11.14-18.06.17:482][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2025.11.14-18.06.17:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2025.11.14-18.06.17:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2025.11.14-18.06.17:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Props/SM_Rock.uasset"
+[2025.11.14-18.06.17:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Props/SM_Shelf.uasset"
+[2025.11.14-18.06.17:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Props/SM_Stairs.uasset"
+[2025.11.14-18.06.17:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Props/SM_Statue.uasset"
+[2025.11.14-18.06.17:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Props/SM_TableRound.uasset"
+[2025.11.14-18.06.17:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2025.11.14-18.06.17:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2025.11.14-18.06.17:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2025.11.14-18.06.17:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2025.11.14-18.06.17:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2025.11.14-18.06.17:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2025.11.14-18.06.17:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2025.11.14-18.06.17:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2025.11.14-18.06.17:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2025.11.14-18.06.17:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2025.11.14-18.06.17:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2025.11.14-18.06.17:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2025.11.14-18.06.17:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2025.11.14-18.06.17:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2025.11.14-18.06.17:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2025.11.14-18.06.17:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2025.11.14-18.06.17:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2025.11.14-18.06.17:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2025.11.14-18.06.17:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2025.11.14-18.06.17:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2025.11.14-18.06.17:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2025.11.14-18.06.17:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2025.11.14-18.06.17:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2025.11.14-18.06.17:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2025.11.14-18.06.17:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2025.11.14-18.06.17:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2025.11.14-18.06.17:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2025.11.14-18.06.17:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2025.11.14-18.06.17:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2025.11.14-18.06.17:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2025.11.14-18.06.17:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2025.11.14-18.06.17:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2025.11.14-18.06.17:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2025.11.14-18.06.17:957][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2025.11.14-18.06.17:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2025.11.14-18.06.17:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2025.11.14-18.06.18:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2025.11.14-18.06.18:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2025.11.14-18.06.18:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2025.11.14-18.06.18:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2025.11.14-18.06.18:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2025.11.14-18.06.18:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2025.11.14-18.06.18:140][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2025.11.14-18.06.18:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2025.11.14-18.06.18:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2025.11.14-18.06.18:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2025.11.14-18.06.18:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2025.11.14-18.06.18:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2025.11.14-18.06.18:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2025.11.14-18.06.18:237][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2025.11.14-18.06.18:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2025.11.14-18.06.18:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2025.11.14-18.06.18:274][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2025.11.14-18.06.18:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2025.11.14-18.06.18:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2025.11.14-18.06.18:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2025.11.14-18.06.18:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2025.11.14-18.06.18:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2025.11.14-18.06.18:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2025.11.14-18.06.18:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2025.11.14-18.06.18:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2025.11.14-18.06.18:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2025.11.14-18.06.18:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2025.11.14-18.06.18:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2025.11.14-18.06.18:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2025.11.14-18.06.18:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2025.11.14-18.06.18:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2025.11.14-18.06.18:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2025.11.14-18.06.18:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2025.11.14-18.06.18:556][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2025.11.14-18.06.18:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2025.11.14-18.06.18:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Door_M.uasset"
+[2025.11.14-18.06.18:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Door_N.uasset"
+[2025.11.14-18.06.18:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2025.11.14-18.06.18:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2025.11.14-18.06.18:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2025.11.14-18.06.18:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2025.11.14-18.06.18:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2025.11.14-18.06.18:657][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2025.11.14-18.06.18:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2025.11.14-18.06.18:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2025.11.14-18.06.18:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2025.11.14-18.06.18:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2025.11.14-18.06.18:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2025.11.14-18.06.18:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2025.11.14-18.06.18:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2025.11.14-18.06.18:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2025.11.14-18.06.18:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2025.11.14-18.06.18:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2025.11.14-18.06.18:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2025.11.14-18.06.18:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2025.11.14-18.06.18:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2025.11.14-18.06.18:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2025.11.14-18.06.18:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2025.11.14-18.06.18:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2025.11.14-18.06.19:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2025.11.14-18.06.19:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2025.11.14-18.06.19:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2025.11.14-18.06.19:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2025.11.14-18.06.19:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2025.11.14-18.06.19:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2025.11.14-18.06.19:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2025.11.14-18.06.19:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2025.11.14-18.06.19:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2025.11.14-18.06.19:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2025.11.14-18.06.19:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2025.11.14-18.06.19:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2025.11.14-18.06.19:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2025.11.14-18.06.19:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2025.11.14-18.06.19:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2025.11.14-18.06.19:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2025.11.14-18.06.19:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2025.11.14-18.06.19:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2025.11.14-18.06.19:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2025.11.14-18.06.19:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2025.11.14-18.06.19:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2025.11.14-18.06.19:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2025.11.14-18.06.19:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2025.11.14-18.06.19:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2025.11.14-18.06.19:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2025.11.14-18.06.19:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2025.11.14-18.06.19:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2025.11.14-18.06.19:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2025.11.14-18.06.19:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2025.11.14-18.06.19:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Water_M.uasset"
+[2025.11.14-18.06.19:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Water_N.uasset"
+[2025.11.14-18.06.19:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2025.11.14-18.06.19:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2025.11.14-18.06.19:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2025.11.14-18.06.19:472][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2025.11.14-18.06.19:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2025.11.14-18.06.19:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2025.11.14-18.06.19:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2025.11.14-18.06.19:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2025.11.14-18.06.19:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2025.11.14-18.06.19:618][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2025.11.14-18.06.19:776][  0]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Floor_400x4007205AAEA4DDB10FC502D7AB93B10E530.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2025.11.14-18.06.19:778][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2025.11.14-18.06.19:779][  0]Cmd: MAP LOAD FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.11.14-18.06.19:780][  0]LightingResults: New page: Lighting Build
+[2025.11.14-18.06.19:780][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.11.14-18.06.19:780][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-18.06.19:780][  0]MapCheck: New page: Map Check
+[2025.11.14-18.06.19:780][  0]LightingResults: New page: Lighting Build
+[2025.11.14-18.06.19:792][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000016B4ABFFC00), frame # 0
+[2025.11.14-18.06.19:792][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000016B4AC61080), frame # 0
+[2025.11.14-18.06.19:792][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.11.14-18.06.19:922][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2025.11.14-18.06.19:922][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000016B4B0AC200), frame # 0
+[2025.11.14-18.06.19:922][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000016B54F45BC0), frame # 0
+[2025.11.14-18.06.19:927][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.11.14-18.06.19:940][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.11.14-18.06.19:940][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.11.14-18.06.19:941][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.165ms to complete.
+[2025.11.14-18.06.19:941][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.161
+[2025.11.14-18.06.19:942][  0]LogUnrealEdMisc: Total Editor Startup Time, took 10.677
+[2025.11.14-18.06.20:080][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.14-18.06.20:088][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.14-18.06.20:095][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.14-18.06.20:101][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.14-18.06.20:107][  0]LogCollectionManager: Loaded 0 collections in 0.001407 seconds
+[2025.11.14-18.06.20:121][  0]LogFileCache: Scanning file cache for directory 'C:/Git/Saf/GameUniHack/PixelPerfect/Saved/Collections/' took 0.00s
+[2025.11.14-18.06.20:122][  0]LogFileCache: Scanning file cache for directory 'C:/Git/Saf/GameUniHack/PixelPerfect/Content/Developers/Dorain/Collections/' took 0.00s
+[2025.11.14-18.06.20:122][  0]LogFileCache: Scanning file cache for directory 'C:/Git/Saf/GameUniHack/PixelPerfect/Content/Collections/' took 0.00s
+[2025.11.14-18.06.20:122][  0]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 3427 classes and 821 folders.
+[2025.11.14-18.06.20:123][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2025.11.14-18.06.20:167][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2025.11.14-18.06.20:167][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2025.11.14-18.06.20:309][  0]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.11.14-18.06.20:311][  0]LogSlate: Took 0.000290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.11.14-18.06.20:316][  0]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.11.14-18.06.20:344][  0]LogRenderer: Reallocating scene render targets to support 952x416 Format 10 NumSamples 1 (Frame:1).
+[2025.11.14-18.06.20:376][  0]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.11.14-18.06.20:433][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2025.11.14-18.06.20:433][  0]LogLoad: (Engine Initialization) Total time: 11.17 seconds
+[2025.11.14-18.06.20:433][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2025.11.14-18.06.20:567][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2025.11.14-18.06.20:567][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2025.11.14-18.06.20:581][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2025.11.14-18.06.38:565][ 51]LogAssetRegistry: Asset discovery search completed in 25.3869 seconds
+[2025.11.14-18.06.38:567][ 51]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2025.11.14-18.07.10:606][873]LogSlate: Window 'Editor Preferences' being destroyed
+[2025.11.14-18.07.10:611][873]LogSlate: Window 'Editor Preferences' being destroyed
+[2025.11.14-18.07.22:650][541]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.11.14-18.08.20:353][899]LogSlate: Window 'Project Settings' being destroyed
+[2025.11.14-18.08.20:361][899]LogSlate: Window 'Project Settings' being destroyed
+[2025.11.14-18.08.22:042][992]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Main.Main
+[2025.11.14-18.08.22:060][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.11.14-18.08.23:108][992]LogSlate: Window 'Save Content' being destroyed
+[2025.11.14-18.08.23:132][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-18.08.23:159][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.11.14-18.08.23:164][992]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/MainD762EE5D48FA78586E4B109F79EBBF0E.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-18.08.23:165][992]LogFileHelpers: Saving map 'Main' took 0.034
+[2025.11.14-18.08.23:165][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-18.08.23:195][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.11.14-18.08.23:203][992]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/MainMenu6DDA0038489A78939311CC84773A116C.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/MainMenu.umap'
+[2025.11.14-18.08.23:205][992]LogFileHelpers: Saving map 'MainMenu' took 0.040
+[2025.11.14-18.08.23:205][992]Cmd: MAP LOAD FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.11.14-18.08.23:205][992]LightingResults: New page: Lighting Build
+[2025.11.14-18.08.23:205][992]LoadErrors: New page: Loading map: Main.umap
+[2025.11.14-18.08.23:209][992]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2025.11.14-18.08.23:209][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-18.08.23:209][992]MapCheck: New page: Map Check
+[2025.11.14-18.08.23:209][992]LightingResults: New page: Lighting Build
+[2025.11.14-18.08.23:227][992]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000016B4B0AC200), frame # 6992
+[2025.11.14-18.08.23:227][992]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000016B54F45BC0), frame # 6992
+[2025.11.14-18.08.23:227][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.11.14-18.08.23:245][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.11.14-18.08.23:257][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.11.14-18.08.23:300][992]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.11.14-18.08.23:300][992]LogAIModule: Creating AISystem for world Main
+[2025.11.14-18.08.23:300][992]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000016B569E7000), frame # 6992
+[2025.11.14-18.08.23:300][992]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000016B4B264680), frame # 6992
+[2025.11.14-18.08.23:313][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.11.14-18.08.23:330][992]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.11.14-18.08.23:349][992]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 18.652ms to complete.
+[2025.11.14-18.08.23:349][992]LogFileHelpers: Loading map 'Main' took 0.144
+[2025.11.14-18.08.23:363][992]AssetCheck: New page: Asset Save: multiple assets
+[2025.11.14-18.08.23:363][992]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-18.08.23:363][992]LogContentValidation: Display: Validating World /Game/Levels/MainMenu.MainMenu
+[2025.11.14-18.08.24:073][ 35]LogEditorViewport: Clicking Background
+[2025.11.14-18.08.24:660][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-18.08.24:681][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.11.14-18.08.24:686][ 68]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Main4F2E9088407F6A578F1CEE919BB23FBA.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-18.08.24:721][ 68]AssetCheck: New page: Asset Save: Main
+[2025.11.14-18.08.24:721][ 68]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-18.08.54:724][826]Cmd: TRANSACTION UNDO
+[2025.11.14-18.08.54:724][826]LogEditorTransaction: Undo Rotate Actors
+[2025.11.14-18.09.05:223][437]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-18.09.07:097][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-18.09.07:135][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.11.14-18.09.07:142][545]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Main2677A5A14BEBD423B3D3C295070C0613.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-18.09.07:184][545]AssetCheck: New page: Asset Save: Main
+[2025.11.14-18.09.07:184][545]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-18.09.25:213][453]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.11.14-18.09.30:869][783]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-18.09.31:123][783]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 125 classes and 0 folders.
+[2025.11.14-18.09.32:509][797]LogSlate: Took 0.013145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.11.14-18.09.33:775][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-18.09.33:787][870]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_Player93399C5441A5E1ECE256A899A4333270.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-18.09.33:806][870]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-18.09.33:806][870]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-18.09.34:767][916]LogRenderer: Reallocating scene render targets to support 952x528 Format 10 NumSamples 1 (Frame:136).
+[2025.11.14-18.09.34:919][925]LogSlate: Window 'BP_Player' being destroyed
+[2025.11.14-18.09.35:691][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-18.09.35:701][969]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_Player814BFF3B4EEFCB7BC28381A49D643EBC.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-18.09.35:713][969]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-18.09.35:715][969]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-18.10.49:677][184]LogSlate: Window 'Project Settings' being destroyed
+[2025.11.14-18.10.50:852][254]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-18.10.50:980][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-18.10.51:017][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.11.14-18.10.51:024][258]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Main0679CF514BE930F2795D2896A2C24162.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-18.10.51:054][258]AssetCheck: New page: Asset Save: Main
+[2025.11.14-18.10.51:054][258]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-18.10.52:057][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-18.10.52:065][315]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_PlayerF49BE96E474C2CCFD2482A829E821FA1.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-18.10.52:081][315]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-18.10.52:081][315]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-18.10.52:492][336]LogSlate: Took 0.000437 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.11.14-18.10.55:933][519]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-18.10.55:985][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.11.14-18.10.56:014][519]LogSlate: Took 0.000514 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.11.14-18.10.56:496][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-18.10.56:510][543]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_Player3976E0CE43D79370FFBB1ABEEC8EAB20.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-18.10.56:539][543]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-18.10.56:539][543]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-18.11.06:458][134]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-18.11.06:505][134]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2025.11.14-18.11.06:756][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-18.11.06:770][146]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_PlayerD32A05C446EB73A5F8FD6CAC4B6A7E7B.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-18.11.06:800][146]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-18.11.06:800][146]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-18.11.08:789][263]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-18.11.08:836][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.11.14-18.11.09:146][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-18.11.09:158][278]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_PlayerBBCE809C45301DB3C6C580BE1D58A0C5.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-18.11.09:191][278]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-18.11.09:191][278]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-18.11.15:722][649]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-18.11.15:766][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.11.14-18.11.16:145][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-18.11.16:153][669]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_PlayerFB80FFCF49C7217B0AEC8D84103FBEA9.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-18.11.16:173][669]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-18.11.16:173][669]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-18.11.18:464][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-18.11.18:469][802]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_Player5A1D6EE548AF7A25DE24858CC75192FB.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-18.11.18:491][802]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-18.11.18:491][802]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-18.11.19:792][865]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-18.11.19:848][865]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2025.11.14-18.11.20:300][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-18.11.20:310][887]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_Player95B61A4E4BBEA9E2D5CD4C8F8D799482.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-18.11.20:332][887]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-18.11.20:332][887]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-18.11.31:918][492]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-18.11.31:961][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.11.14-18.11.32:380][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-18.11.32:387][514]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_PlayerEED9CDB84226D4FC01DA8B893FDB62E4.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-18.11.32:406][514]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-18.11.32:406][514]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-18.11.48:505][358]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-18.11.48:554][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.11.14-18.11.48:758][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-18.11.48:771][367]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_Player156E149F4934F2210C6564BA80844FAB.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-18.11.48:794][367]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-18.11.48:794][367]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-18.12.03:965][203]LogSlate: Took 0.014953 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.11.14-18.12.06:255][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-18.12.06:267][334]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_PlayerB0A39E5D4F1E91FF27D4A7888947F490.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-18.12.06:287][334]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-18.12.06:287][334]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-18.12.44:584][466]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-18.12.44:648][466]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2025.11.14-18.12.44:992][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-18.12.45:000][484]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_Player4AD18FC64D3D37D3EB1AAF96864DE0CE.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-18.12.45:022][484]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-18.12.45:022][484]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-18.12.49:484][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-18.12.49:496][732]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_PlayerE8B60B9544A7851D2153BD9DC86FAB3E.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-18.12.49:515][732]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-18.12.49:515][732]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-18.13.27:471][902]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-18.13.27:524][902]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2025.11.14-18.13.27:830][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-18.13.27:840][917]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_Player9E7ABE1B45D28CBC42A2F9AE1C2D6F01.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-18.13.27:860][917]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-18.13.27:860][917]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-18.34.47:301][499]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-18.34.47:345][499]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2025.11.14-18.35.02:314][323]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-18.35.02:379][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.11.14-18.35.02:832][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-18.35.02:854][344]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_Player87B3FAEA41B7CEB9DE8F2AA685207952.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-18.35.02:887][344]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-18.35.02:887][344]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-18.35.33:289][556]LogEditorTransaction: Undo Move Node
+[2025.11.14-18.36.02:949][136]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-18.36.03:002][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.11.14-18.36.03:586][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-18.36.03:603][165]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_Player8F53C0034070D7BCD94100BB09130A07.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-18.36.03:628][165]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-18.36.03:628][165]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-18.36.05:748][285]LogEditorTransaction: Undo Move Node
+[2025.11.14-18.36.08:031][391]BlueprintLog: New page: Compile BP_Player
+[2025.11.14-18.36.08:079][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.11.14-18.36.08:357][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-18.36.08:373][405]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_Player10E739EA4D4D8AEC48444FA9BD9B4449.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-18.36.08:392][405]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-18.36.08:392][405]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-18.36.09:382][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset" SILENT=true
+[2025.11.14-18.36.09:405][462]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/BP_Player5066215F493DE24235667D87991F15C9.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/BP_Player.uasset'
+[2025.11.14-18.36.09:424][462]AssetCheck: New page: Asset Save: BP_Player
+[2025.11.14-18.36.09:424][462]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2025.11.14-18.36.36:690][867]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.11.14-18.36.41:703][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.11.14-18.36.42:589][149]LogSlate: Window 'Delete Assets' being destroyed
+[2025.11.14-18.36.42:742][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.11.14-18.36.44:317][244]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2025.11.14-18.36.44:502][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-18.36.44:537][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.11.14-18.36.44:549][252]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/MainB4DC95AB4342BAB4A862C0A5B1D333E0.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-18.36.44:580][252]AssetCheck: New page: Asset Save: Main
+[2025.11.14-18.36.44:580][252]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-18.37.08:860][601]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.11.14-18.37.15:642][  1]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/PlayerGameModeBase.PlayerGameModeBase
+[2025.11.14-18.37.18:463][141]BlueprintLog: New page: Compile PlayerGameModeBase
+[2025.11.14-18.37.18:511][141]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2025.11.14-18.37.19:721][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PlayerGameModeBase" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/PlayerGameModeBase.uasset" SILENT=true
+[2025.11.14-18.37.19:729][211]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/PlayerGameModeBase79326DAC4BB31F835FCE86B28F40D83B.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/PlayerGameModeBase.uasset'
+[2025.11.14-18.37.19:758][211]AssetCheck: New page: Asset Save: PlayerGameModeBase
+[2025.11.14-18.37.19:758][211]LogContentValidation: Display: Validating Blueprint /Game/Player/PlayerGameModeBase.PlayerGameModeBase
+[2025.11.14-18.37.29:723][508]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.14-18.37.33:922][508]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.11.14-18.37.43:170][ 53]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/Player_Controller.Player_Controller
+[2025.11.14-18.37.47:042][251]BlueprintLog: New page: Compile Player_Controller
+[2025.11.14-18.37.47:087][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.11.14-18.37.47:935][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Player_Controller" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/Player_Controller.uasset" SILENT=true
+[2025.11.14-18.37.47:941][298]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Player_ControllerF5C42E434B78A4DE81B00CBE3DBF3A96.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/Player_Controller.uasset'
+[2025.11.14-18.37.47:959][298]AssetCheck: New page: Asset Save: Player_Controller
+[2025.11.14-18.37.47:959][298]LogContentValidation: Display: Validating Blueprint /Game/Player/Player_Controller.Player_Controller
+[2025.11.14-18.38.03:151][153]BlueprintLog: New page: Compile Player_Controller
+[2025.11.14-18.38.03:198][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2025.11.14-18.38.03:427][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Player_Controller" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/Player_Controller.uasset" SILENT=true
+[2025.11.14-18.38.03:436][165]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Player_Controller609296EE491CE7EEEE56278930E8F3BD.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/Player_Controller.uasset'
+[2025.11.14-18.38.03:457][165]AssetCheck: New page: Asset Save: Player_Controller
+[2025.11.14-18.38.03:457][165]LogContentValidation: Display: Validating Blueprint /Game/Player/Player_Controller.Player_Controller
+[2025.11.14-18.38.04:565][223]BlueprintLog: New page: Compile PlayerGameModeBase
+[2025.11.14-18.38.04:606][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.11.14-18.38.04:916][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PlayerGameModeBase" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/PlayerGameModeBase.uasset" SILENT=true
+[2025.11.14-18.38.04:925][237]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/PlayerGameModeBase2E5B6B894F35293F92F55B9A463BB2C6.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Player/PlayerGameModeBase.uasset'
+[2025.11.14-18.38.04:949][237]AssetCheck: New page: Asset Save: PlayerGameModeBase
+[2025.11.14-18.38.04:949][237]LogContentValidation: Display: Validating Blueprint /Game/Player/PlayerGameModeBase.PlayerGameModeBase
+[2025.11.14-18.38.05:732][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.14-18.38.05:772][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.11.14-18.38.05:778][277]LogSavePackage: Moving '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Saved/Main6F6C49F1471301F465EFB5AE11953D7A.tmp' to '../../../../../../Git/Saf/GameUniHack/PixelPerfect/Content/Levels/Main.umap'
+[2025.11.14-18.38.05:811][277]AssetCheck: New page: Asset Save: Main
+[2025.11.14-18.38.05:811][277]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2025.11.14-18.38.06:000][289]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
